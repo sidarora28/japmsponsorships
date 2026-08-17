@@ -1,83 +1,150 @@
 # DM send queue
 
-**Copy-paste ready. Sid sends these by hand in LinkedIn.**
+**Copy-paste ready. Sid sends by hand in LinkedIn.**
 
-Rules: ~100 invites/week max · connection notes are **300 characters hard** · log every send
-in `prospects.md` · 3 touches then stop · never message the same person on LinkedIn *and*
-email.
+Rules: ~100 invites/week max · connection notes **300 chars hard** · log every send in
+`prospects.md` · 3 touches then stop · never double-touch on LinkedIn *and* email.
+
+Sourced via Apify `automation-lab/linkedin-company-employees-scraper`, 17 Aug 2026.
+200 profiles pulled → **14 real buyers** after cleaning. Roles are from LinkedIn headlines
+and may be stale — check the profile before sending.
 
 ---
 
-## 🔥 Send today — Allstacks
+## Tier 1 — the competitor play 🔥 send these first
 
-**Why they're top of the queue:** they bought **two placements in one issue** of TLDR Product
-Management on 11 Aug 2026 — the main Product Studio demo slot *and* a quick-link. A company
-double-dipping in a single send is spending aggressively into exactly Sid's audience, and
-they're small enough that one person can approve $1,500 without a committee.
+**This is the strongest angle available and it isn't cold.** Amplitude paid $1,500-class money
+($1,200) for a newsletter + LinkedIn combo. Airtable paid $1,500 same-day. Their direct
+competitors have the same buyer, the same budget, and a rival who already reached this
+audience. That last fact is the entire pitch.
 
-### 1. Emily Luehrs — VP of Marketing ⭐ primary target
-`linkedin.com/in/emilyluehrs`
+### Mixpanel *(Amplitude competitor)*
 
-**Connection note (237 chars):**
+**Paul Lenser — Product Marketing** ⭐ `linkedin.com/in/paullenser`
 
+Connection note (263 chars):
+```
+Hi Paul — I write JustAnotherPM, ~75k AI PMs and product builders here on LinkedIn. Amplitude sponsored me earlier this year and it did well. Booking Q4 slots now and thought Mixpanel should get a look before I fill them. Mind if I send details?
+```
+
+Full message once accepted:
+```
+Hey Paul — quick one.
+
+I write JustAnotherPM: ~75k followers here, 20,170 newsletter subscribers at 25.4% open.
+Almost all AI product managers and product builders, roughly 60% US/UK.
+
+Amplitude ran a newsletter + LinkedIn combo with me earlier this year. Same audience you're
+selling into, so Mixpanel felt worth a note before I close out Q4.
+
+I'm Head of Product for Gen AI at Yelp alongside this, so placements read as a practitioner
+recommendation rather than an ad — which is why they work for analytics tools.
+
+LinkedIn post is $1,500, newsletter slot $750. Booking October–December.
+
+Which month suits?
+```
+
+Backup: **Ben Swan — GTM Systems / RevOps** `linkedin.com/in/ben-swan-366558226`
+
+### PostHog *(Amplitude competitor — and they market aggressively)*
+
+**Cleo Lant — PMM** ⭐ `linkedin.com/in/cleolant`
+**Joe Martin** `linkedin.com/in/joemartinwords` *(content/marketing)*
+**James Hawkins — co-CEO** `linkedin.com/in/j-hawkins`
+
+Connection note (256 chars):
+```
+Hi Cleo — I write JustAnotherPM, ~75k AI PMs and product builders on LinkedIn. Amplitude sponsored me this year and it landed well. PostHog feels like a better fit honestly. Booking Q4 slots — mind if I send the numbers over?
+```
+
+> PostHog is unusually receptive to creator and community marketing and moves fast. Of the
+> whole list this is the one most likely to just say yes.
+
+### Retool *(Airtable competitor — Airtable paid $1,500 same-day)*
+
+**Kiersten Davis — Product Marketing Lead** ⭐ `linkedin.com/in/kiersten-davis-59331085`
+**Kelsey McKeon — Content** `linkedin.com/in/kelsey-c-mckeon`
+**Mirko Brinker — GTM Leader** `linkedin.com/in/mirkobrinker`
+
+Connection note (271 chars):
+```
+Hi Kiersten — I write JustAnotherPM, ~75k AI PMs and product builders here. Airtable ran a paid post + video with me in February. Retool is the same buyer and I'm booking Q4 slots now — mind if I send details before they fill?
+```
+
+---
+
+## Tier 2 — PM tooling, the audience *is* their buyer
+
+### Productboard
+**Megan Seidel — Field Marketing Manager** ⭐ `linkedin.com/in/meganseidel8`
+**Jordan Nolff — VP Growth & Product** `linkedin.com/in/jordan-nolff-1699a029`
+**Collin O'Brien — GTM** `linkedin.com/in/collinobrien`
+**Hubert Palan — Founder & CEO** `linkedin.com/in/hubertpalan`
+
+### Linear
+**Cristina Cordova** ⭐ `linkedin.com/in/cristinajcordova` *(business/ops lead — best entry)*
+**Karri Saarinen — Co-Founder & CEO** `linkedin.com/in/karrisaarinen`
+**Nan Yu — Product** `linkedin.com/in/thenanyu`
+
+> Linear has historically done little paid sponsorship — lower odds, but the audience fit is
+> near-perfect and one yes is $1,500.
+
+---
+
+## Tier 3 — Allstacks *(verified TLDR spender)*
+
+**Emily Luehrs — VP of Marketing** ⭐ `linkedin.com/in/emilyluehrs`
+**Gage Hollen — Product Marketing Leader** `linkedin.com/in/gagehollen`
+**Hersh Tapadia — Co-Founder & CEO** `linkedin.com/in/hershtapadia`
+
+Bought **two placements in one TLDR Product Management issue** on 11 Aug — main slot plus a
+quick-link. Small enough that one person approves $1,500.
+
+Connection note (237 chars):
 ```
 Hi Emily — saw Allstacks ran two placements in TLDR Product Management last week. I write JustAnotherPM (~75k followers here, AI PMs and product builders). Booking Q4 sponsor slots and think Product Studio is a fit. Mind if I send details?
 ```
 
-**Full message — send the moment she accepts:**
-
+Full message once accepted:
 ```
 Hey Emily — saw Allstacks took two slots in TLDR Product Management on 11 Aug, so you're
 clearly buying against product managers right now.
 
-I write JustAnotherPM: ~75k followers here on LinkedIn, 20,170 on the newsletter at a 25.4%
-open rate. Almost all AI product managers and product builders, roughly 60% US/UK.
+I write JustAnotherPM: ~75k followers here, 20,170 newsletter subscribers at 25.4% open.
+Almost all AI PMs and product builders, roughly 60% US/UK.
 
 The angle that would land for Product Studio: "engineering keeps pushing back on your spec"
 is a daily complaint in my audience. And I'm Head of Product for Gen AI at Yelp alongside
 this, so it reads as a practitioner recommendation rather than an ad.
 
-LinkedIn post is $1,500, newsletter slot $750. I'm booking October–December now.
+LinkedIn post is $1,500, newsletter slot $750. Booking October–December.
 
 Which month suits?
 ```
 
-### 2. Hersh Tapadia — Co-Founder & CEO (backup if Emily goes quiet)
-`linkedin.com/in/hershtapadia`
+---
 
-**Connection note (241 chars):**
+## One person per company per week
 
-```
-Hi Hersh — saw Allstacks in TLDR Product Management twice last week. I write JustAnotherPM, ~75k AI PMs and product builders here on LinkedIn. Booking Q4 sponsor slots and Product Studio looks like a strong fit. Worth sending you details?
-```
-
-> **Don't message Emily and Hersh in the same week.** Two people at a 50-person company
-> comparing notes on the same pitch reads as a blast. Emily first — she owns the budget line.
-> Only go to Hersh if there's no answer after the D3 touch.
-
-### 3. Gage Hollen — Product Marketing Leader
-`linkedin.com/in/gagehollen` — third in line, same company. Only if both above go dark.
+Message the ⭐ first at each. Two people at the same company in the same week compare notes
+and it reads as a blast. Only escalate to the backup after the D3 touch goes unanswered.
 
 ---
 
-## Queue — awaiting scrape
+## Dropped — do not contact
 
-WorkOS · Statsig · PostHog · Mixpanel · Retool · Linear · Productboard · Dovetail ·
-LaunchDarkly
-
-Names land here as the Apify run completes.
+| Company | Why |
+|---|---|
+| **Statsig** | Scrape returned only engineers and one AE. No marketing contact found. Re-run with a different actor. |
+| **Dovetail** | Every hit was a *different* Dovetail — Regulatory, + Co, Furniture, an OT practice. Wrong company entirely. |
+| **WorkOS, LaunchDarkly** | Returned nothing. Re-run needed. |
 
 ---
 
-## Daily target
+## Today's realistic send
 
-**20 DMs/working day** (~100/week, LinkedIn's safe ceiling).
-
-At a 15% reply rate and ~15% close-on-reply — both conservative for a 75K-follower sender
-pitching companies that already buy this exact media — that's roughly **2 deals per 100 DMs**.
-
-**~1,050 DMs between now and 30 Nov ≈ 21 deals ≈ $32K.** The volume is available inside
-LinkedIn's limits. It needs ~53 working days of sending at 20/day, and there are ~75 left.
-
-That is the whole plan, and it is genuinely achievable — but only if the daily send actually
-happens. Missing a week costs ~2 deals and there is no slack to absorb two missed weeks.
+**14 buyers, ~6 sends today** (one per company). That's under the 20/day quota — the scrape
+needs re-running against more companies to fill it. Next batch should cover the Tier 2 list
+in `knowledge/target-brands.md`: Cursor, Windsurf, Lovable, Bolt, Vercel, Framer, Maze,
+Sprig, Braintrust, LangSmith, Arize, Eppo, GrowthBook, Height, Shortcut.
