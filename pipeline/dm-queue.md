@@ -5,9 +5,56 @@
 Rules: ~100 invites/week max · connection notes **300 chars hard** · log every send in
 `prospects.md` · 3 touches then stop · never double-touch on LinkedIn *and* email.
 
-Sourced via Apify `automation-lab/linkedin-company-employees-scraper`, 17 Aug 2026.
-200 profiles pulled → **14 real buyers** after cleaning. Roles are from LinkedIn headlines
-and may be stale — check the profile before sending.
+Sourced via Apify, 17 Aug 2026. Roles are from LinkedIn headlines and may be stale — check
+the profile before sending.
+
+---
+
+## Tier 0 — Lovable ⭐⭐ best prospect on the entire list
+
+**Hayley W. — Influencer Marketing @ Lovable** `linkedin.com/in/hayleywade`
+
+Her job title *is* the thing Sid sells. A dedicated influencer-marketing hire means a funded
+programme, an existing budget line, and someone whose performance is measured on finding
+exactly this. No category education needed — she only has to be sold on Sid, not on creator
+sponsorship.
+
+On top of that, **Lovable competes with Replit**, who already sponsored via Passionfroot. So
+the competitor line applies too.
+
+Connection note (268 chars):
+```
+Hi Hayley — saw you run influencer marketing at Lovable. I write JustAnotherPM, ~75k AI PMs and product builders here on LinkedIn plus a 20k newsletter. Replit has sponsored me before, so the audience is proven for this category. Booking Q4 — worth a chat?
+```
+
+Full message once accepted:
+```
+Hey Hayley — short version.
+
+JustAnotherPM: ~75k followers here, 20,170 newsletter subscribers at 25.4% open. Almost all
+AI product managers and people building with AI tools, roughly 60% US/UK.
+
+Replit sponsored me through Passionfroot, so this audience is proven for the build-with-AI
+category — and Lovable is the more natural fit for where my readers actually are right now.
+
+I'm Head of Product for Gen AI at Yelp alongside the newsletter, which is why these read as a
+practitioner recommendation rather than an ad.
+
+LinkedIn post $1,500, newsletter slot $750. Booking October–December.
+
+Want me to send a couple of concepts?
+```
+
+Backups: **Sam Vinden — Head of Growth Marketing** `linkedin.com/in/samvinden` ·
+**Cameron Laird — Performance Marketing** `linkedin.com/in/cameron-laird-a0861051`
+
+### Vercel — partnerships-led
+**Nicolas Kaden — Partnerships Lead EMEA** `linkedin.com/in/nicolaskaden` *(EMEA — same time zone as Sid)* ·
+**Jen Shumann Chang — Partnerships** `linkedin.com/in/jen--chang` ·
+**Zack Ciesinski — Product Partnerships** `linkedin.com/in/zackciesinski`
+
+> Vercel routes creator spend through partnerships rather than marketing. Slower, but v0
+> competes directly with Replit and Lovable for the same audience.
 
 ---
 
@@ -142,9 +189,12 @@ and it reads as a blast. Only escalate to the backup after the D3 touch goes una
 
 ---
 
-## Today's realistic send
+## Running count
 
-**14 buyers, ~6 sends today** (one per company). That's under the 20/day quota — the scrape
-needs re-running against more companies to fill it. Next batch should cover the Tier 2 list
-in `knowledge/target-brands.md`: Cursor, Windsurf, Lovable, Bolt, Vercel, Framer, Maze,
-Sprig, Braintrust, LangSmith, Arize, Eppo, GrowthBook, Height, Shortcut.
+**20 buyers queued** across Lovable, Vercel, Mixpanel, PostHog, Retool, Productboard, Linear,
+Allstacks. At one ⭐ per company that is **8 sends today** — still short of the 20/day quota.
+
+A title-based search (`fabri-lab/linkedin-public-search-lead-extractor`, 200 results across
+growth/PMM/demand-gen/influencer titles in US+UK) is running to close the gap. That actor
+searches by role rather than company, which is the right shape for volume — the
+company-by-company approach yields only ~1 usable buyer per 15 profiles scraped.
