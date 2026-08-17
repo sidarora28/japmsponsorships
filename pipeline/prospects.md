@@ -13,13 +13,25 @@ company's visible format — expect ~30% bounce).
 
 ## Active sequence
 
-| ID | Company | Vein | Contact | Role | Email | Seq | Last touch | Next due | Notes |
-|---|---|---|---|---|---|---|---|---|---|
-| O1 | **Allstacks** | A | — | — | `marketing@` inferred | T1 drafted | 17 Aug | T2 21 Aug | **Bought 2 slots in one TLDR Product issue (11 Aug).** Product Studio sells to PMs. Aggressive spender, small enough that $1,500 is an easy approval. **Best fit found.** |
-| O2 | **Enterpret** | A | — | — | `marketing@` inferred | T1 drafted | 17 Aug | T2 21 Aug | TLDR main sponsor 12 Aug. Marty Cagan webinar 27 Aug — they buy credibility plays, which is exactly what Sid is. CPO Abishek Viswanathan named publicly. |
-| O3 | **Atlassian** (Jira Product Discovery) | A | — | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget on the list, slowest to close. Needs a named contact — enterprise, no generic inbox will work. |
-| O4 | **WorkOS** | A | — | — | not found | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent rather than core PM audience. |
-| O5 | **Gitar** | A | — | — | not found | not sent | — | — | TLDR quick-link sponsor 12 Aug. AI code review. Dev audience, smaller budget. |
+| ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
+|---|---|---|---|---|---|---|---|---|
+| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | T1 drafted | 17 Aug | T2 21 Aug | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
+| O2 | **Enterpret** | A | — | `marketing@` inferred | T1 drafted | 17 Aug | T2 21 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid knows their marketing lead and pinged on WhatsApp 17 Aug** — warm, handle direct. |
+| O3 | **Atlassian** (Jira Product Discovery) | A | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget, slowest close. Needs a named contact. |
+| O4 | **WorkOS** | A | pending | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
+| O5 | **Gitar** | A | pending | LinkedIn | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
+| O6 | **Granola** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Strongest new fit today. |
+| O7 | **Scribe** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
+| O8 | **Orkes** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
+| O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
+
+### Queued in `dm-queue.md` — sourced, not yet contacted
+
+Lovable (Hayley W., Influencer Marketing ⭐⭐) · Vercel (Nicolas Kaden) · Mixpanel (Paul Lenser) ·
+PostHog (Cleo Lant) · Retool (Kiersten Davis) · Productboard (Megan Seidel) ·
+Linear (Cristina Cordova) · Allstacks (Emily Luehrs)
+
+**20 named buyers are sitting un-contacted.** See the constraint note at the bottom.
 
 ---
 
@@ -39,33 +51,42 @@ company's visible format — expect ~30% bounce).
 
 ---
 
-## Disqualified — never contacted, and why
+## Disqualified — researched, never contacted, and why
 
 Logged so the same company isn't researched twice.
 
-| Company | Reason |
-|---|---|
-| — | |
+| Company | Sourced from | Reason |
+|---|---|---|
+| Scandit | TLDR Product 14 Aug | Barcode/ID scanning. An AI PM would not expense this. |
+| Plaid | TLDR Product 31 Jul | Fintech fraud/risk. Wrong buyer entirely. |
+| SANS | TLDR AI 14 Aug | Cybersecurity training. Security audience, not product. |
+| Teleport | TLDR AI 14 Aug | Security infrastructure. Dev-security, weak PM overlap. |
+| Shade | TLDR AI 11 Aug | AI agent pentesting. Security niche. |
+| Statsig | LinkedIn scrape | Returned only engineers + 1 AE. No marketing contact. Retry later. |
+| Dovetail | LinkedIn scrape | Every hit was a *different* Dovetail (Regulatory, + Co, Furniture, an OT practice). Wrong company. |
 
 ---
 
 ## Veins — rotate daily, don't drain one
 
-| Vein | What | Yield |
+| Vein | What | Yield so far |
 |---|---|---|
-| **A** | Brands sponsoring comparable AI/PM newsletters | Highest — proven budget + proven format |
-| **B** | Companies hiring creator / influencer / developer marketing | High — an open req is proof of budget |
-| **C** | AI/dev tools funded in the last 6 months | Medium — money, no channel loyalty yet |
-| **D** | Competitors of past sponsors (Tier 2 list) | High — "your rival ran here in June" |
-| **E** | Brands already running LinkedIn creator campaigns | High — category decision already made |
+| **A** | Brands sponsoring comparable AI/PM newsletters | **Best by far.** Every prospect worth having came from here. |
+| **B** | Companies hiring creator / influencer / dev marketing | Untested at scale |
+| **C** | AI/dev tools funded in last 6 months | Untested |
+| **D** | Competitors of past sponsors | Strong — produced Mixpanel, PostHog, Retool, Lovable |
+| **E** | Brands running LinkedIn creator campaigns | Merges with D in practice |
 
-Aim for a spread across veins each day. Draining one vein produces a day of near-identical
-prospects and near-identical emails, which is exactly what gets a sender flagged.
+**Vein A is renewable and barely tapped.** TLDR alone publishes Product, AI, Tech, Design and
+Web editions with 2–3 sponsors each, most weekdays, with public archives at
+`tldr.tech/<edition>/<YYYY-MM-DD>`. That is ~30 new qualified companies a week from one
+publisher, before touching Lenny's, The Neuron, Ben's Bites or Superhuman AI.
 
-**Vein A works and is not close to exhausted.** Sid already subscribes to TLDR, TLDR Product
-Management, High Signal, Growth in Reverse, The Ad Vault, Smartr Daily and Farnam Street.
-Every issue of every one of those carries paying sponsors, and the archives go back years.
-That is a standing supply of companies with a proven newsletter budget.
+**Method note — company-first works, title-first does not.** A title search (`fabri-lab`,
+200 results across growth/PMM/demand-gen titles) returned 147 "candidates" but without
+company attribution, mostly consultants and job-seekers. Unusable. Scraping a *known
+sponsor's* employee list yields ~1–3 real buyers per company, and every one is pre-qualified
+by the fact that the company already bought this kind of media.
 
 ---
 
@@ -73,23 +94,25 @@ That is a standing supply of companies with a proven newsletter budget.
 
 | | |
 |---|---:|
-| Contacted | 2 (drafted, unsent) |
-| In sequence | 2 |
+| Companies sourced | 16 |
+| Buyers named | 20 |
+| **Contacted** | **2** (drafted, unsent) |
 | Replied | 0 |
-| Booked | $0 |
-| Reply rate | — |
-| Bounce rate | — |
+| Booked | **$0** |
 
-### Day 1 (17 Aug) — quota MISSED: 2 of 10
+**Watch the reply rate.** Under 2% after 200 sends means the email is wrong, not the market —
+rewrite the template before sending another 200.
 
-Not a sourcing failure. Vein A produced 5 qualified prospects in minutes and could produce
-50 — **the bottleneck is contact discovery.** Neither Allstacks nor Enterpret publishes a
-marketing email anywhere on their site, and web search does not surface individuals. Both
-drafts went to inferred `marketing@` addresses.
+---
 
-**Pattern-guessing addresses cannot sustain 10/day.** It bounces ~30% of the time and
-generic inboxes convert far worse than a named buyer. This is the single constraint that
-decides whether ~750 touches is achievable. See the blockers section in `target-32k.md`.
+## ⚠️ The constraint has moved — read this
 
-**Watch the reply rate.** Under 2% after 200 sends means the email is wrong, not that the
-market is wrong — rewrite the template before sending another 200.
+**Sourcing is no longer the bottleneck. Sending is.**
+
+There are **20 named, qualified buyers in `dm-queue.md` that nobody has contacted**, plus 13
+warm re-pitches in `repitch-queue.md` that have not gone out. Adding another 10 prospects a
+day to a queue that isn't being worked does not move $0 toward $32,000.
+
+**Read the daily quota as 10 _sends_, not 10 rows added to a file.** The pace table in
+`target-32k.md` wants $2,000 booked by 31 Aug, which requires first contact this week.
+Sourcing can be paused for several days without hurting the target. Sending cannot.
