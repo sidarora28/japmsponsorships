@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "deny": [
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__reply",
+      "mcp__Gmail__forward"
+    ],
+    "allow": [
+      "mcp__Gmail__search_threads",
+      "mcp__Gmail__get_thread",
+      "mcp__Gmail__get_message",
+      "mcp__Gmail__list_drafts",
+      "mcp__Gmail__create_draft",
+      "mcp__Gmail__update_draft",
+      "mcp__Beehiiv__get_publication_stats",
+      "mcp__Beehiiv__get_post_stats",
+      "mcp__Beehiiv__get_post_stats_batch",
+      "mcp__Beehiiv__list_posts",
+      "mcp__Beehiiv__get_post",
+      "mcp__Stripe__stripe_api_read",
+      "mcp__Stripe__stripe_api_search",
+      "mcp__Google_Drive__search_files",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__Google_Calendar__list_events",
+      "mcp__Google_Calendar__search_events",
+      "Read",
+      "Grep",
+      "Glob"
+    ]
+  }
+}
