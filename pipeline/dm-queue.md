@@ -145,8 +145,9 @@ Hi Kiersten — I write JustAnotherPM, ~75k AI PMs and product builders here. Ai
 **Gage Hollen — Product Marketing Leader** `linkedin.com/in/gagehollen`
 **Hersh Tapadia — Co-Founder & CEO** `linkedin.com/in/hershtapadia`
 
-Bought **two placements in one TLDR Product Management issue** on 11 Aug — main slot plus a
-quick-link. Small enough that one person approves $1,500.
+Sponsored TLDR Product Management on **both 7 Aug and 11 Aug** — four-plus placements in five
+days, including a main slot and a quick-link in the same issue. The most aggressive spender
+found, and small enough that one person approves $1,500.
 
 Connection note (237 chars):
 ```
@@ -172,6 +173,25 @@ Which month suits?
 
 ---
 
+## Tier 4 — added 17 Aug (TLDR sponsors, second scrape)
+
+### WorkOS *(TLDR sponsor 12 Aug — Pipes)*
+**Shannon C Elliott — Field Marketing Manager** ⭐ `linkedin.com/in/shannon-elliott-se`
+
+### Enterpret *(TLDR sponsor 12 Aug — Marty Cagan webinar 27 Aug)*
+**Michelle Luo — VP of Marketing** `linkedin.com/in/michelleluo45`
+
+> ⚠️ **Sid already pinged Enterpret's marketing lead on WhatsApp (17 Aug).** Do not DM
+> Michelle until Sid confirms whether she's the same person — a second approach through a
+> cold channel while a warm conversation is live looks disorganised. **Sid to confirm.**
+
+### Orkes *(TLDR AI sponsor 11 Aug — Conductor, AI workflow orchestration)*
+**Amit Bhojraj** `linkedin.com/in/akumar28` — *"Scaling marketing functions for early-stage"*,
+probable marketing lead but headline doesn't name Orkes. Verify on the profile before sending.
+**Maria Shimkovska — Content Engineer at Orkes** `linkedin.com/in/mariashimkovska`
+
+---
+
 ## One person per company per week
 
 Message the ⭐ first at each. Two people at the same company in the same week compare notes
@@ -185,16 +205,26 @@ and it reads as a blast. Only escalate to the backup after the D3 touch goes una
 |---|---|
 | **Statsig** | Scrape returned only engineers and one AE. No marketing contact found. Re-run with a different actor. |
 | **Dovetail** | Every hit was a *different* Dovetail — Regulatory, + Co, Furniture, an OT practice. Wrong company entirely. |
-| **WorkOS, LaunchDarkly** | Returned nothing. Re-run needed. |
+| **LaunchDarkly** | Returned nothing. Re-run needed. |
+| **Granola** | ❌ **Wrong LinkedIn slug** (`granola-so`). Scrape returned people who eat granola, a "Granny-O-La" founder, and unrelated names. Find the correct company URL and re-run — Granola is a strong fit (PMs are the user base). |
+| **Scribe** | ❌ **Wrong slug** (`scribe-how`). Returned medical scribes and FirstHx staff. Needs correct company URL. |
+| **Gitar** | Slug `gitar-inc` returned 1 profile with no headline. Needs correct company URL. |
 
 ---
 
 ## Running count
 
-**20 buyers queued** across Lovable, Vercel, Mixpanel, PostHog, Retool, Productboard, Linear,
-Allstacks. At one ⭐ per company that is **8 sends today** — still short of the 20/day quota.
+**24 buyers queued** across Lovable, Vercel, Mixpanel, PostHog, Retool, Productboard, Linear,
+Allstacks, WorkOS, Enterpret and Orkes. At one ⭐ per company that is **~10 sends available
+today**, plus 13 warm re-pitches in `repitch-queue.md`.
 
-A title-based search (`fabri-lab/linkedin-public-search-lead-extractor`, 200 results across
-growth/PMM/demand-gen/influencer titles in US+UK) is running to close the gap. That actor
-searches by role rather than company, which is the right shape for volume — the
-company-by-company approach yields only ~1 usable buyer per 15 profiles scraped.
+**None have been contacted.** Sourcing is ahead of sending, and has been since day one.
+
+A title-based search was tried and abandoned: `fabri-lab/linkedin-public-search-lead-extractor`
+returned 200 results across growth/PMM/demand-gen titles, of which 147 scored as "candidates"
+but almost none carried company attribution — mostly consultants and job-seekers. Searching by
+role rather than company sounds like the right shape for volume, but in practice it produces
+names with no reason-to-contact. Company-first yields only ~1 usable buyer per 15 profiles
+scraped, but every one arrives with a true opening line: *"I saw you sponsored X."*
+
+**Sourcing method is settled. Stop optimising it and start sending.**
