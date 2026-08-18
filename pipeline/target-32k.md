@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 17 Aug 2026 |
+| Today | 18 Aug 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~75 working days.**
+That leaves **~74 working days.**
 
 ## The daily quota
 
@@ -42,19 +42,37 @@ rails, which convert several times better:
 | Source | Expected deals | Why |
 |---|---:|---|
 | Cold outbound (750 touches) | ~11 | The volume engine |
-| Past sponsors re-pitched | ~4 | Already paid once, no vendor risk |
-| 1stCollab / Passionfroot / Paved | ~4 | They have brand demand queued |
-| Reactivated stale inbound | ~2 | Promoted, Rezonant, Coworker, Recall |
-| **Total** | **~21** | |
+| Past sponsors re-pitched | ~~4~~ **~2** | 8 remain, down from 13 — Passionfroot closures |
+| ~~1stCollab / Passionfroot / Paved~~ **1stCollab / Paved** | ~~4~~ **~2** | Passionfroot rail closed 18 Aug |
+| ~~Reactivated stale inbound~~ | ~~2~~ **0** | Promoted, Rezonant unreachable — Passionfroot closed |
+| **Total** | ~~**21**~~ **~15** | **Six deals short of target on current plan** |
 
-**If any one of those four lanes goes to zero, the target misses.** The daily run works all
-four, not just cold.
+**If any one of those lanes goes to zero, the target misses.** The daily run works all of
+them, not just cold.
+
+## ⚠️ Plan gap opened 18 Aug
+
+Closing the Passionfroot rail and writing off Gamma removed roughly **6 expected deals
+(~$9,000)** from the four-lane plan above. The lanes now project **~15 deals ≈ $22,500**
+against a **$32,000** target.
+
+Three ways to close a gap that size. One of them has to happen:
+
+1. **Reopen Passionfroot** — keep the account, answer proposals in-app, never email Hugo.
+   Recovers the inbound rail and 5 warm re-pitches at zero cost.
+2. **Raise the LinkedIn rate to $2,000** for Q4. 15 deals × $2,000 = $30,000. Airtable took
+   $1,500 same-day with no pushback, which is evidence the price was low. **Sid's decision —
+   the desk cannot reprice.**
+3. **Roughly double cold volume** — ~1,500 DMs instead of 750. Above LinkedIn's safe ceiling
+   for one account across the remaining weeks, so this is the weakest of the three.
+
+Doing none of them means planning for ~$22,500 and calling it $32,000.
 
 ## Weekly tracker
 
 | Week ending | Prospects added | Emails drafted | Replies | Deals booked | $ booked | Cumulative |
 |---|---:|---:|---:|---:|---:|---:|
-| 23 Aug | 0 | 0 | 0 | 0 | $0 | $0 |
+| 23 Aug | 11 | 4 (unsent) | 0 | 0 | $0 | $0 |
 
 ## Pace check
 
@@ -73,7 +91,7 @@ because nothing cold closes in under two weeks. **September is the month that de
 
 ## Escalate immediately if
 
-- Prospects contacted falls below 10/day for 3 consecutive days
+- Prospects contacted falls below 10/day for 3 consecutive days — **currently 0/day, day 2**
 - Reply rate is under 2% after 200 sends → the email is wrong, rewrite it
-- Zero deals booked by 15 Sep → cold outbound is not working, shift budget to the agency rails
-- Any rail (1stCollab, Passionfroot, Paved) goes 14 days without a response from the rep
+- Zero deals booked by 15 Sep → cold outbound is not working, shift to the agency rails
+- Any rail (1stCollab, Paved) goes 14 days without a response from the rep

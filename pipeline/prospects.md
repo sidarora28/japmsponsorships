@@ -15,23 +15,25 @@ company's visible format — expect ~30% bounce).
 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
-| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | T1 drafted | 17 Aug | T2 21 Aug | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
-| O2 | **Enterpret** | A | — | `marketing@` inferred | T1 drafted | 17 Aug | T2 21 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid knows their marketing lead and pinged on WhatsApp 17 Aug** — warm, handle direct. |
+| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | T1 drafted, **unsent** | 17 Aug | T2 21 Aug | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
+| O2 | **Enterpret** | A | Michelle Luo (VP Mktg) | `marketing@` inferred | T1 drafted, **unsent** | 17 Aug | T2 21 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid pinged their marketing lead on WhatsApp 17 Aug** — warm, Sid handling direct. |
 | O3 | **Atlassian** (Jira Product Discovery) | A | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget, slowest close. Needs a named contact. |
-| O4 | **WorkOS** | A | pending | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
-| O5 | **Gitar** | A | pending | LinkedIn | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
-| O6 | **Granola** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Strongest new fit today. |
-| O7 | **Scribe** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
-| O8 | **Orkes** | A | pending | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
+| O4 | **WorkOS** | A | Shannon C Elliott (Field Marketing) | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
+| O5 | **Gitar** | A | — | wrong slug, re-run | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
+| O6 | **Granola** | A | — | wrong slug, re-run | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering. |
+| O7 | **Scribe** | A | — | wrong slug, re-run | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
+| O8 | **Orkes** | A | Amit Bhojraj (probable mktg), Maria Shimkovska (content) | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
+| O10 | **Tines** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit than the others. |
+| O11 | **PointFive** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem** — better fit than the category first suggests. |
 
 ### Queued in `dm-queue.md` — sourced, not yet contacted
 
 Lovable (Hayley W., Influencer Marketing ⭐⭐) · Vercel (Nicolas Kaden) · Mixpanel (Paul Lenser) ·
 PostHog (Cleo Lant) · Retool (Kiersten Davis) · Productboard (Megan Seidel) ·
-Linear (Cristina Cordova) · Allstacks (Emily Luehrs)
+Linear (Cristina Cordova) · Allstacks (Emily Luehrs) · WorkOS (Shannon Elliott) · Orkes
 
-**20 named buyers are sitting un-contacted.** See the constraint note at the bottom.
+**24 named buyers are sitting un-contacted.** See the constraint note at the bottom.
 
 ---
 
@@ -62,8 +64,12 @@ Logged so the same company isn't researched twice.
 | SANS | TLDR AI 14 Aug | Cybersecurity training. Security audience, not product. |
 | Teleport | TLDR AI 14 Aug | Security infrastructure. Dev-security, weak PM overlap. |
 | Shade | TLDR AI 11 Aug | AI agent pentesting. Security niche. |
+| Sonatype | TLDR AI 17 Aug | Application security. Security audience, not product. |
+| Amazon | TLDR Product 4 Aug | Promoting Mik Kersten's *Output to Outcome*. On-audience, but no reachable buyer at Amazon scale for a $1,500 placement. |
 | Statsig | LinkedIn scrape | Returned only engineers + 1 AE. No marketing contact. Retry later. |
 | Dovetail | LinkedIn scrape | Every hit was a *different* Dovetail (Regulatory, + Co, Furniture, an OT practice). Wrong company. |
+| **Gamma** | — | **Dropped 18 Aug, Sid's call.** Undelivered Dec 2025 campaign written off. Do not contact. |
+| **Passionfroot rail** | — | **Closed 18 Aug, Sid's call.** Hugo not contacted; Promoted and Rezonant no longer recoverable. |
 
 ---
 
@@ -94,9 +100,9 @@ by the fact that the company already bought this kind of media.
 
 | | |
 |---|---:|
-| Companies sourced | 16 |
-| Buyers named | 20 |
-| **Contacted** | **2** (drafted, unsent) |
+| Companies sourced | 18 |
+| Buyers named | 24 |
+| **Contacted** | **0** |
 | Replied | 0 |
 | Booked | **$0** |
 
@@ -109,10 +115,22 @@ rewrite the template before sending another 200.
 
 **Sourcing is no longer the bottleneck. Sending is.**
 
-There are **20 named, qualified buyers in `dm-queue.md` that nobody has contacted**, plus 13
+There are **24 named, qualified buyers in `dm-queue.md` that nobody has contacted**, plus 8
 warm re-pitches in `repitch-queue.md` that have not gone out. Adding another 10 prospects a
 day to a queue that isn't being worked does not move $0 toward $32,000.
 
 **Read the daily quota as 10 _sends_, not 10 rows added to a file.** The pace table in
 `target-32k.md` wants $2,000 booked by 31 Aug, which requires first contact this week.
 Sourcing can be paused for several days without hurting the target. Sending cannot.
+
+### Send status — checked 18 Aug 06:10 UTC
+
+**All four drafts are still unsent.** The Gmail drafts folder holds Varun, Hugo, Allstacks and
+Enterpret, all dated 17 Aug. Nothing sponsorship-related appears in Sent in the last 48 hours.
+
+Sid reported the Varun email as sent on 17 Aug. It may have gone from his second address
+(`sidarora87@gmail.com`, where the original Airtable thread ran) — that account is not visible
+to this desk. **If it did not, the highest-value email of the week has not gone out.** Worth
+thirty seconds to confirm, because every August forecast depends on it.
+
+Days elapsed since the queue was built: **2. Contacts made: 0.**

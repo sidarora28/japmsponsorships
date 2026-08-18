@@ -27,13 +27,13 @@ ever been asked to come back.**
 | R2 | **HubSpot** | Paved | **Bought twice** | Enterprise budget, calendar fiscal year. "Use it or lose it by December" is real for them, not a tactic. |
 | R3 | **Optimizely** | 1stCollab | Video live Jun 2026 | ⚠️ **They asked for a repost on 16 Jun and never got a reply.** Answer that first, then pitch Q4. Warmest and most at-risk simultaneously. |
 | R4 | **Airtable** | 1stCollab | $1,500, Feb 2026 | Said yes same-day with zero negotiation. Go back at $1,500 via Varun. |
-| R5 | **Amplitude** | Passionfroot | $1,200, Mar 2025 | Went below card last time. Re-open at $1,500 — and note their competitors Mixpanel and PostHog are being pitched this week. |
+| ~~R5~~ | ~~**Amplitude**~~ | ~~Passionfroot~~ | $1,200, Mar 2025 | **Removed 18 Aug** — Passionfroot rail closed. |
 | R6 | **Superhuman AI** | Paved | Newsletter | AI-native, newsletter-proven. |
-| R7 | **Replit** | Passionfroot | — | Perfect audience fit. |
-| R8 | **Figma** | Passionfroot | — | Perfect audience fit. |
-| R9 | **Reforge** | Passionfroot | — | Audience overlap is near-total. |
+| ~~R7~~ | ~~**Replit**~~ | ~~Passionfroot~~ | — | **Removed 18 Aug** — Passionfroot rail closed. |
+| ~~R8~~ | ~~**Figma**~~ | ~~Passionfroot~~ | — | **Removed 18 Aug** — Passionfroot rail closed. |
+| ~~R9~~ | ~~**Reforge**~~ | ~~Passionfroot~~ | — | **Removed 18 Aug** — Passionfroot rail closed. |
 | R10 | **Product Faculty** | Paved | — | |
-| R11 | **Parlance Labs** | Passionfroot | — | |
+| ~~R11~~ | ~~**Parlance Labs**~~ | ~~Passionfroot~~ | — | **Removed 18 Aug** — Passionfroot rail closed. |
 | R12 | **Shift Technologies** | Paved | Dec 2025 | Payout needed chasing — check terms first. |
 | R13 | **Product-Led Alliance** | Direct | Fiona Standen, Feb 2026 — media partnership call booked for 3 Mar | Outcome unknown. Warm direct contact, no marketplace fee. Worth reviving. |
 
@@ -45,7 +45,7 @@ Asking a brand for new budget while you owe them work is how a warm lead goes co
 
 | # | Brand | What's owed | Do this first |
 |---|---|---|---|
-| B-a | **Gamma** | Live post links. Posts scheduled 22–23 Dec 2025, **never went live.** Chased 21 Apr, 28 Apr, then 27 May: *"Please post now and send the link."* | This is an undelivered campaign, 8 months old. Either post and send links, or refund/cancel cleanly. **Do not re-pitch until closed.** |
+| ~~B-a~~ | ~~**Gamma**~~ | ~~Live post links, never supplied~~ | **DROPPED 18 Aug — Sid's call.** Campaign written off. Do not contact. |
 | B-b | **Anvil / CreatorBuzz** | Open campaign deliverable, Krizia following up | Ship it, then invoice, then re-pitch |
 | B-c | **Miro / inBeat** | Invoice + expense receipts, overdue | Collect first — that's earned money — then extend |
 
@@ -74,20 +74,38 @@ Sid
 There are a finite number of Q4 slots and they're being sold this month.
 
 For the marketplace rails, the message goes **through the rep**, not around them — Varun for
-1stCollab, Hugo for Passionfroot, Yuvna for Paved. Going direct around a marketplace that
-brokered the original deal breaks the relationship that produces future ones.
+1stCollab, Yuvna for Paved. Going direct around a marketplace that brokered the original deal
+breaks the relationship that produces future ones.
 
 ---
 
-## Expected
-
-13 clean re-pitches at a 25% close ≈ **3–4 deals ≈ $4,500–6,000.**
-
-That is most of September from one afternoon of work, and it does not depend on the cold
-engine hitting quota. **The cold DMs then top it up rather than carrying the whole month.**
-
 ## Sequence
 
-1. **Today** — R3 (Optimizely, answer the repost request), R1, R2 (the two double-buyers)
-2. **This week** — R4, R5, then R6–R13
-3. **In parallel** — unblock Gamma, Anvil, Miro so those three become re-pitchable in September
+1. **Today** — R3 (Optimizely, answer the repost request first), R1, R2 (the two double-buyers)
+2. **This week** — R4, then R6, R10, R12, R13
+3. **In parallel** — unblock Anvil and Miro so both become re-pitchable in September
+
+---
+
+## ⚠️ Rails closed 18 Aug — Sid's decisions
+
+**Passionfroot is out.** Hugo will not be contacted and the draft to him stays unsent.
+
+Cost of that decision, stated plainly so it is a known trade rather than a surprise:
+
+- **R5 Amplitude, R7 Replit, R8 Figma, R9 Reforge, R11 Parlance Labs** all ran through
+  Passionfroot. They are struck above — five warm re-pitches removed from the September lane.
+- **Promoted ($1,200 → counter $1,500)** and **Rezonant** are no longer recoverable.
+- Passionfroot was the only rail where brands arrived **unprompted**. Losing it means every
+  future deal must be sourced by Sid or the desk.
+
+Estimated removed from the pipeline: **$3,000–6,000.**
+
+If the objection is to Hugo personally rather than to the platform, the account can stay live
+and proposals answered in-app without ever emailing him. Worth reconsidering on that basis.
+
+**Gamma is out.** Written off, not contacted, not re-pitched.
+
+**Remaining warm lane after closures: R1 Udacity, R2 HubSpot, R3 Optimizely, R4 Airtable,
+R6 Superhuman AI, R10 Product Faculty, R12 Shift, R13 Product-Led Alliance — 8, down from 13.**
+At ~25% that is ~2 deals, not 3–4. **Cold has to cover more of September than planned.**
