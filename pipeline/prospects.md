@@ -4,7 +4,7 @@
 double-touch is how you look like a spammer.**
 
 Sequence: **T1** (day 0) → **T2** (+4 working days) → **T3** (+7 working days after T2) →
-**dead**. Three touches, then stop permanently.
+**dead**. Three touches, then stop permanently. **The clock starts on send, not on draft.**
 
 Email column: `verified` (found on a public page) or `inferred` (pattern-guessed from the
 company's visible format — expect ~30% bounce).
@@ -15,17 +15,18 @@ company's visible format — expect ~30% bounce).
 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
-| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | T1 drafted, **unsent** | 17 Aug | T2 21 Aug | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
-| O2 | **Enterpret** | A | Michelle Luo (VP Mktg) | `marketing@` inferred | T1 drafted, **unsent** | 17 Aug | T2 21 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid pinged their marketing lead on WhatsApp 17 Aug** — warm, Sid handling direct. |
+| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | **drafted, never sent** | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
+| O2 | **Enterpret** | A | Michelle Luo (VP Mktg) | `marketing@` inferred | **drafted, never sent** | — | — | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid pinged their marketing lead on WhatsApp 17 Aug** — warm, Sid handling direct. |
 | O3 | **Atlassian** (Jira Product Discovery) | A | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget, slowest close. Needs a named contact. |
 | O4 | **WorkOS** | A | Shannon C Elliott (Field Marketing) | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
-| O5 | **Gitar** | A | — | wrong slug, re-run | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
-| O6 | **Granola** | A | — | wrong slug, re-run | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering. |
-| O7 | **Scribe** | A | — | wrong slug, re-run | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
+| O5 | **Gitar** | A | — | slug retry in progress | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
+| O6 | **Granola** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering. |
+| O7 | **Scribe** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
 | O8 | **Orkes** | A | Amit Bhojraj (probable mktg), Maria Shimkovska (content) | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
-| O10 | **Tines** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit than the others. |
-| O11 | **PointFive** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem** — better fit than the category first suggests. |
+| O10 | **Tines** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
+| O11 | **PointFive** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
+| O12 | **Udacity + HubSpot** (via Paved) | Repeat | Yuvna Muthy Nunes | `yuvna@paved.com` verified | **drafted 19 Aug, unsent** | — | — | Both bought twice. One email covers both. Q4 run of 2–3 sends. |
 
 ### Queued in `dm-queue.md` — sourced, not yet contacted
 
@@ -94,6 +95,11 @@ company attribution, mostly consultants and job-seekers. Unusable. Scraping a *k
 sponsor's* employee list yields ~1–3 real buyers per company, and every one is pre-qualified
 by the fact that the company already bought this kind of media.
 
+**Slug warning.** The employee scraper matches on name, so a guessed company slug returns
+garbage rather than an error — `granola-so` produced people who eat granola, `scribe-how`
+produced medical scribes. Always confirm the real LinkedIn company URL before scraping, and
+sanity-check that returned headlines actually name the company.
+
 ---
 
 ## Running totals
@@ -102,7 +108,7 @@ by the fact that the company already bought this kind of media.
 |---|---:|
 | Companies sourced | 18 |
 | Buyers named | 24 |
-| **Contacted** | **0** |
+| **Messages sent** | **0** |
 | Replied | 0 |
 | Booked | **$0** |
 
@@ -123,14 +129,24 @@ day to a queue that isn't being worked does not move $0 toward $32,000.
 `target-32k.md` wants $2,000 booked by 31 Aug, which requires first contact this week.
 Sourcing can be paused for several days without hurting the target. Sending cannot.
 
-### Send status — checked 18 Aug 06:10 UTC
+### Correction — the follow-up dates were fiction
 
-**All four drafts are still unsent.** The Gmail drafts folder holds Varun, Hugo, Allstacks and
-Enterpret, all dated 17 Aug. Nothing sponsorship-related appears in Sent in the last 48 hours.
+Earlier runs recorded T2 follow-ups "due 21 Aug" for Allstacks and Enterpret. That was wrong:
+**a follow-up cannot be due on a first touch that never went out.** Those rows are reset to
+`drafted, never sent` with no next-due date. The sequence clock starts when a message is
+actually sent, not when a draft is written.
 
-Sid reported the Varun email as sent on 17 Aug. It may have gone from his second address
-(`sidarora87@gmail.com`, where the original Airtable thread ran) — that account is not visible
-to this desk. **If it did not, the highest-value email of the week has not gone out.** Worth
-thirty seconds to confirm, because every August forecast depends on it.
+### Send status — checked 19 Aug 06:10 UTC
 
-Days elapsed since the queue was built: **2. Contacts made: 0.**
+**Day 3, still zero sends.** The Gmail drafts folder holds Varun, Hugo, Allstacks, Enterpret
+(17 Aug) and now Yuvna/Paved (19 Aug). Nothing sponsorship-related has appeared in Sent at any
+point since the queue was built.
+
+Sid reported the Varun email as sent on 17 Aug. It may have gone from `sidarora87@gmail.com`,
+which this desk cannot see. Unconfirmed.
+
+**Days elapsed: 3. Messages sent: 0. Booked: $0.**
+
+This is now the only number that matters. Added `pipeline/TODAY.md` — a single-screen file
+with one priority action (reply to Optimizely, ~4 minutes) rather than a queue to work
+through, on the theory that the blocker is friction rather than intent.
