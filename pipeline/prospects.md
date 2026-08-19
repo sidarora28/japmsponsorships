@@ -6,8 +6,8 @@ double-touch is how you look like a spammer.**
 Sequence: **T1** (day 0) → **T2** (+4 working days) → **T3** (+7 working days after T2) →
 **dead**. Three touches, then stop permanently. **The clock starts on send, not on draft.**
 
-Email column: `verified` (found on a public page) or `inferred` (pattern-guessed from the
-company's visible format — expect ~30% bounce).
+Email column: `verified` (confirmed against a contact database or received from the person) or
+`inferred` (pattern-guessed — expect ~30% bounce).
 
 ---
 
@@ -15,26 +15,36 @@ company's visible format — expect ~30% bounce).
 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
-| O1 | **Allstacks** | A | Emily Luehrs (VP Mktg) ⭐, Hersh Tapadia (CEO), Gage Hollen (PMM) | `marketing@` inferred + LinkedIn | **drafted, never sent** | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
-| O2 | **Enterpret** | A | Michelle Luo (VP Mktg) | `marketing@` inferred | **drafted, never sent** | — | — | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid pinged their marketing lead on WhatsApp 17 Aug** — warm, Sid handling direct. |
+| O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
+| O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | ✅ **SENT 19 Aug 08:45** | 19 Aug | chase 25 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
 | O3 | **Atlassian** (Jira Product Discovery) | A | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget, slowest close. Needs a named contact. |
-| O4 | **WorkOS** | A | Shannon C Elliott (Field Marketing) | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
+| O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
 | O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
 | O7 | **Scribe** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
-| O8 | **Orkes** | A | Amit Bhojraj (probable mktg), Maria Shimkovska (content) | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
+| O8 | **Orkes** | A | — ("Amit Bhojraj" purged — profile resolves to a recruiter at WorkOS) | none | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
 | O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
 | O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
-| O12 | **Udacity + HubSpot** (via Paved) | Repeat | Yuvna Muthy Nunes | `yuvna@paved.com` verified | **drafted 19 Aug, unsent** | — | — | Both bought twice. One email covers both. Q4 run of 2–3 sends. |
+| O12 | **Paved (Yuvna)** | Repeat | Yuvna Muthy Nunes | `yuvna@paved.com` verified | ✅ **SENT 19 Aug 08:41** | 19 Aug | chase 26 Aug | Sid rewrote the ask: matching Q4 campaigns **and recurring deals**, rather than naming Udacity/HubSpot. Better ask — recurring beats one-off and lets Yuvna surface brands we don't know about. |
 
-### Queued in `dm-queue.md` — sourced, not yet contacted
+### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
-Lovable (Hayley W., Influencer Marketing ⭐⭐) · Vercel (Nicolas Kaden) · Mixpanel (Paul Lenser) ·
-PostHog (Cleo Lant) · Retool (Kiersten Davis) · Productboard (Megan Seidel) ·
-Linear (Cristina Cordova) · Allstacks (Emily Luehrs) · WorkOS (Shannon Elliott) · Orkes
+Allstacks (Hersh Tapadia, CEO) · Mixpanel (Paul Lenser, PMM) · Retool (Kelsey McKeon, Content
+Marketing) · Productboard (Jordan Nolff, VP Growth) · Linear (Cristina Cordova, COO) ·
+Vercel (Nicolas Kaden, Partnerships EMEA)
 
-**24 named buyers are sitting un-contacted.** See the constraint note at the bottom.
+Held in reserve: David Hsu (Retool CEO), Hubert Palan (Productboard CEO) — only if the primary
+contact goes quiet. Never both at one company in the same week.
+
+### ❌ Purged 19 Aug — wrong company, do not contact
+
+~~Lovable (Hayley W., Sam Vinden, Cameron Laird)~~ · ~~PostHog (Cleo Lant)~~ ·
+~~Enterpret (Michelle Luo)~~ · ~~WorkOS (Shannon Elliott)~~ · ~~Allstacks (Gage Hollen)~~ ·
+~~Retool (Mirko Brinker)~~ · ~~Orkes (Amit Bhojraj)~~
+
+The scraper attributed all of these to companies they do not work at. Full evidence in
+`verified-contacts.md`.
 
 ---
 
@@ -78,10 +88,10 @@ Logged so the same company isn't researched twice.
 
 | Vein | What | Yield so far |
 |---|---|---|
-| **A** | Brands sponsoring comparable AI/PM newsletters | **Best by far.** Every prospect worth having came from here. |
+| **A** | Brands sponsoring comparable AI/PM newsletters | **Best by far.** Every company worth having came from here. |
 | **B** | Companies hiring creator / influencer / dev marketing | Untested at scale |
 | **C** | AI/dev tools funded in last 6 months | Untested |
-| **D** | Competitors of past sponsors | Strong — produced Mixpanel, PostHog, Retool, Lovable |
+| **D** | Competitors of past sponsors | Good on company selection (Mixpanel, Retool, Vercel verified). The *people* still needed verifying — PostHog and Lovable contacts were both wrong. |
 | **E** | Brands running LinkedIn creator campaigns | Merges with D in practice |
 
 **Vein A is renewable and barely tapped.** TLDR alone publishes Product, AI, Tech, Design and
@@ -90,10 +100,10 @@ Web editions with 2–3 sponsors each, most weekdays, with public archives at
 publisher, before touching Lenny's, The Neuron, Ben's Bites or Superhuman AI.
 
 **Method note — company-first works, title-first does not.** A title search (`fabri-lab`,
-200 results across growth/PMM/demand-gen titles) returned 147 "candidates" but without
-company attribution, mostly consultants and job-seekers. Unusable. Scraping a *known
-sponsor's* employee list yields ~1–3 real buyers per company, and every one is pre-qualified
-by the fact that the company already bought this kind of media.
+200 results across growth/PMM/demand-gen titles) returned 147 "candidates" but without company
+attribution, mostly consultants and job-seekers. Unusable. Starting from a *known sponsor* and
+scraping its employees gives candidates who are at least pre-qualified by the fact the company
+buys this media — but see the audit note below on why those candidates still are not facts.
 
 ### ⛔ Scraper limit — stop paying to rediscover this
 
@@ -110,13 +120,20 @@ Two runs were burned proving it. Both slug guesses failed for the same five comp
 | Tines | — | `tines` | Nothing |
 | Gitar | `gitar-inc` | `gitar-ai` | One unverifiable profile with no company named |
 
-**Rule: the scraper only works on distinctive company names.** It succeeded on Allstacks,
-Lovable, Productboard, Mixpanel, Retool, Vercel, WorkOS, Enterpret — all unusual strings. It
-fails on dictionary words.
+⚠️ **Superseded by the 19 Aug audit.** An earlier version of this note claimed the scraper
+"succeeded" on Allstacks, Lovable, Productboard, Mixpanel, Retool, Vercel, WorkOS and
+Enterpret. The audit proved otherwise: **Lovable, WorkOS and Enterpret were wrong-company
+attributions**, and Allstacks and Retool were each partly wrong. Returning a plausible-looking
+row is not success.
 
-**Do not attempt these five again by guessing slugs.** Either open LinkedIn and copy the real
-company URL by hand, or drop them. Granola is the only one worth the manual effort — PMs are
-its user base — and even that is worth less than sending one message from the existing queue.
+**The real rule: the scraper produces candidate names, never confirmed facts.** Every candidate
+must be checked against the email finder before it can be drafted against. See
+`verified-contacts.md`.
+
+**Do not attempt the five common-word companies again by guessing slugs.** Either open LinkedIn
+and copy the real company URL by hand, or drop them. Granola is the only one worth the manual
+effort — PMs are its user base — and even that is worth less than sending one message from the
+verified list.
 
 ---
 
@@ -125,8 +142,10 @@ its user base — and even that is worth less than sending one message from the 
 | | |
 |---|---:|
 | Companies sourced | 18 |
-| Buyers named | 24 |
-| **Messages sent** | **0** |
+| Buyers named (raw, unverified) | 24 |
+| **Buyers verified** | **8** |
+| **Buyers purged as wrong-company** | **9** |
+| **Messages sent** | **2** ✅ (Enterpret, Paved — 19 Aug) |
 | Replied | 0 |
 | Booked | **$0** |
 
@@ -135,36 +154,39 @@ rewrite the template before sending another 200.
 
 ---
 
-## ⚠️ The constraint has moved — read this
+## ⚠️ The constraint — read this
 
-**Sourcing is no longer the bottleneck. Sending is.**
+**Sourcing is ahead of sending, and always has been.**
 
-There are **24 named, qualified buyers in `dm-queue.md` that nobody has contacted**, plus 8
-warm re-pitches in `repitch-queue.md` that have not gone out. Adding another 10 prospects a
-day to a queue that isn't being worked does not move $0 toward $32,000.
+Six verified contacts are drafted and waiting, plus 8 warm re-pitches in `repitch-queue.md`.
+Adding another 10 prospects a day to a queue that isn't being worked does not move $0 toward
+$32,000.
 
 **Read the daily quota as 10 _sends_, not 10 rows added to a file.** The pace table in
-`target-32k.md` wants $2,000 booked by 31 Aug, which requires first contact this week.
-Sourcing can be paused for several days without hurting the target. Sending cannot.
+`target-32k.md` wants $2,000 booked by 31 Aug.
 
 ### Correction — the follow-up dates were fiction
 
 Earlier runs recorded T2 follow-ups "due 21 Aug" for Allstacks and Enterpret. That was wrong:
-**a follow-up cannot be due on a first touch that never went out.** Those rows are reset to
-`drafted, never sent` with no next-due date. The sequence clock starts when a message is
-actually sent, not when a draft is written.
+**a follow-up cannot be due on a first touch that never went out.** The sequence clock starts
+when a message is actually sent, not when a draft is written.
 
-### Send status — checked 19 Aug 06:10 UTC
+### Send status — 19 Aug
 
-**Day 3, still zero sends.** The Gmail drafts folder holds Varun, Hugo, Allstacks, Enterpret
-(17 Aug) and now Yuvna/Paved (19 Aug). Nothing sponsorship-related has appeared in Sent at any
-point since the queue was built.
+**First sends landed.** Sid sent two emails on 19 Aug:
 
-Sid reported the Varun email as sent on 17 Aug. It may have gone from `sidarora87@gmail.com`,
-which this desk cannot see. Unconfirmed.
+| Time | To | Note |
+|---|---|---|
+| 08:41 | **Yuvna @ Paved** | Rewritten by Sid: asks for matching Q4 campaigns **and recurring deals** rather than naming Udacity/HubSpot. Better ask. Chase 26 Aug. |
+| 08:45 | **Enterpret** | Sent as drafted. Chase 25 Aug. |
 
-**Days elapsed: 3. Messages sent: 0. Booked: $0.**
+**Days elapsed: 3. Messages sent: 2. Booked: $0** — both went out this morning, far too early
+for a reply.
 
-This is now the only number that matters. Added `pipeline/TODAY.md` — a single-screen file
-with one priority action (reply to Optimizely, ~4 minutes) rather than a queue to work
-through, on the theory that the blocker is friction rather than intent.
+Still sitting in drafts, unsent: **Varun (1stCollab)** from 17 Aug, plus the six verified
+contacts drafted 19 Aug (Allstacks, Mixpanel, Retool, Productboard, Linear, Vercel). The Hugo
+draft stays unsent by decision.
+
+Sid reported the Varun email as sent on 17 Aug; it is still in the drafts folder and does not
+appear in Sent. It may have gone from `sidarora87@gmail.com`, which this desk cannot see.
+**Still unconfirmed.**
