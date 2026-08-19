@@ -19,13 +19,13 @@ company's visible format — expect ~30% bounce).
 | O2 | **Enterpret** | A | Michelle Luo (VP Mktg) | `marketing@` inferred | **drafted, never sent** | — | — | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. **Sid pinged their marketing lead on WhatsApp 17 Aug** — warm, Sid handling direct. |
 | O3 | **Atlassian** (Jira Product Discovery) | A | — | not found | not sent | — | — | TLDR Product main sponsor 11 Aug, eBook w/ Kyle Poyar + Aakash Gupta. Biggest budget, slowest close. Needs a named contact. |
 | O4 | **WorkOS** | A | Shannon C Elliott (Field Marketing) | LinkedIn | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. |
-| O5 | **Gitar** | A | — | slug retry in progress | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
-| O6 | **Granola** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering. |
-| O7 | **Scribe** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
+| O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
+| O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
+| O7 | **Scribe** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 14 Aug. Process capture → "where AI delivers value". Product/ops buyer. |
 | O8 | **Orkes** | A | Amit Bhojraj (probable mktg), Maria Shimkovska (content) | LinkedIn | not sent | — | — | TLDR AI sponsor 11 Aug. Conductor — AI workflow orchestration, dev-facing. |
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
-| O10 | **Tines** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
-| O11 | **PointFive** | A | — | slug retry in progress | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
+| O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
+| O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
 | O12 | **Udacity + HubSpot** (via Paved) | Repeat | Yuvna Muthy Nunes | `yuvna@paved.com` verified | **drafted 19 Aug, unsent** | — | — | Both bought twice. One email covers both. Q4 run of 2–3 sends. |
 
 ### Queued in `dm-queue.md` — sourced, not yet contacted
@@ -95,10 +95,28 @@ company attribution, mostly consultants and job-seekers. Unusable. Scraping a *k
 sponsor's* employee list yields ~1–3 real buyers per company, and every one is pre-qualified
 by the fact that the company already bought this kind of media.
 
-**Slug warning.** The employee scraper matches on name, so a guessed company slug returns
-garbage rather than an error — `granola-so` produced people who eat granola, `scribe-how`
-produced medical scribes. Always confirm the real LinkedIn company URL before scraping, and
-sanity-check that returned headlines actually name the company.
+### ⛔ Scraper limit — stop paying to rediscover this
+
+The employee scraper matches on **name**, not on a verified company entity. For companies
+whose names are ordinary words it returns confident garbage rather than an error.
+
+Two runs were burned proving it. Both slug guesses failed for the same five companies:
+
+| Company | Attempt 1 | Attempt 2 | Returned |
+|---|---|---|---|
+| Granola | `granola-so` | `granolaai` | People who eat granola; a "Granny-O-La" founder; a CEO of an unrelated firm |
+| Scribe | `scribe-how` | `scribehow` | Medical scribes; FirstHx staff; a content marketer at *Marketing Digest* |
+| PointFive | — | `pointfive` | Marketing manager of **PointFive Band** |
+| Tines | — | `tines` | Nothing |
+| Gitar | `gitar-inc` | `gitar-ai` | One unverifiable profile with no company named |
+
+**Rule: the scraper only works on distinctive company names.** It succeeded on Allstacks,
+Lovable, Productboard, Mixpanel, Retool, Vercel, WorkOS, Enterpret — all unusual strings. It
+fails on dictionary words.
+
+**Do not attempt these five again by guessing slugs.** Either open LinkedIn and copy the real
+company URL by hand, or drop them. Granola is the only one worth the manual effort — PMs are
+its user base — and even that is worth less than sending one message from the existing queue.
 
 ---
 
