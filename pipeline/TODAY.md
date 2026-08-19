@@ -4,7 +4,16 @@ Updated by the daily run. **Everything else in this repo is reference. This is t
 
 ---
 
-## If you only do one thing
+## ✅ Sent 19 Aug — the counter is off zero
+
+| Time | To | Note |
+|---|---|---|
+| 08:41 | **Yuvna @ Paved** | Sid rewrote the ask to matching Q4 campaigns **and recurring deals** rather than naming Udacity/HubSpot. Better ask — recurring beats one-off and lets Yuvna surface brands not on our list. **Chase 26 Aug.** |
+| 08:45 | **Enterpret** | Sent as drafted. **Chase 25 Aug.** |
+
+---
+
+## If you only do one more thing
 
 ### → Reply to Optimizely.
 
@@ -28,23 +37,39 @@ last time.
 Sid
 ```
 
-**Why this one first:** a brand that asks you for more is the warmest signal in the business.
-Two months of silence turns that into a brand that stops asking. It is also the only item on
-any list here where *you owe them*, not the other way round.
+**Why this one:** a brand that asks you for more is the warmest signal in the business. Two
+months of silence turns that into a brand that stops asking. It is also the only item on any
+list here where *you owe them*, not the other way round.
 
 ---
 
-## If you have fifteen minutes — three more
+## Six verified emails, drafted and waiting in Gmail
 
-**2. Varun (1stCollab)** — draft is sitting in Gmail, subject *"Q4 availability — JustAnotherPM"*.
-Open drafts, hit send. It asks for 4–5 Q4 slots a month and re-opens Recall.
-*(Flagged: still showing unsent as of this morning. If you sent it from `sidarora87@`, ignore.)*
+Employer and role confirmed against a contact database, not scraped headlines. Real work
+addresses — **no LinkedIn needed, send them from your inbox.**
 
-**3. Yuvna (Paved)** — draft is in Gmail, subject *"Q4 newsletter inventory — Udacity & HubSpot"*.
-Both brands bought twice. One email covers both.
+| Company | Contact | Why them |
+|---|---|---|
+| **Allstacks** | Hersh Tapadia, CEO | Sponsored TLDR Product **twice in five days** (7 + 11 Aug) |
+| **Mixpanel** | Paul Lenser, Product Marketing | Amplitude — their competitor — paid you $1,200 |
+| **Retool** | Kelsey McKeon, Content Marketing | Airtable — their competitor — paid $1,500 same-day |
+| **Productboard** | Jordan Nolff, VP Growth | Their buyer *is* your audience |
+| **Linear** | Cristina Cordova, COO | Near-total overlap; rarely sponsors, asked honestly |
+| **Vercel** | Nicolas Kaden, Partnerships EMEA | v0 vs Replit; London-based, same time zone |
 
-**4. Hayley W. at Lovable** — `linkedin.com/in/hayleywade`. Her job title is *Influencer
-Marketing*. Connection note is written in `dm-queue.md`, 268 characters, ready to paste.
+**Also still in drafts:** Varun (1stCollab), subject *"Q4 availability — JustAnotherPM"*.
+Asks for 4–5 Q4 slots a month and re-opens Recall. Still showing unsent.
+
+---
+
+## ❌ Do not send — purged 19 Aug
+
+The LinkedIn scraper put nine people at companies they don't work at. Worst was **Lovable**,
+written up as the best prospect on the list: Hayley Wade is Manager of Talent Ops at **Twill**,
+not influencer marketing at Lovable. All three Lovable contacts were wrong.
+
+Full list in `verified-contacts.md`. **Nothing goes out against a scraped headline again —
+verify employer and role first.**
 
 ---
 
@@ -52,23 +77,21 @@ Marketing*. Connection note is written in `dm-queue.md`, 268 characters, ready t
 
 | | |
 |---|---:|
-| Days since queue built | **3** |
-| Buyers named and waiting | **24** |
+| **Messages sent** | **2** ✅ |
+| Verified contacts drafted, waiting | **6** |
 | Warm re-pitches waiting | **8** |
-| **Messages sent** | **0** |
+| Replies | 0 (sent this morning — too early) |
 | Booked | **$0 / $32,000** |
 
 ---
 
 ## The honest note
 
-Sourcing is three days ahead of sending and the gap is widening. I can keep filling this
-queue — the newsletter archives are effectively bottomless — but a queue is not revenue.
+Two sends is not two deals, but it is the first movement in three days and it came from the
+warm lane — which is where September is going to come from.
 
-The August forecast (~$3,750 best case) assumed Varun, Optimizely and one Paved deal moved
-**this week**. Two of the three are one message each and both messages are already written
-and sitting in drafts.
+The August forecast (~$3,750 best case) needs Varun and Optimizely to move as well. Both are
+one message. One of them is already written and sitting in drafts; the other is four minutes
+of typing.
 
-If something about the drafts is wrong — tone, rate, the wrong contact — say so and I'll
-rewrite them. If it's just time, the Optimizely reply alone is four minutes and it's the one
-that matters most.
+If something about a draft is wrong — tone, rate, wrong contact — say so and I'll rewrite it.
