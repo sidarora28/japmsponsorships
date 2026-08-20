@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 18 Aug 2026 |
+| Today | 20 Aug 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~74 working days.**
+That leaves **~73 working days.**
 
 ## The daily quota
 
@@ -50,6 +50,18 @@ rails, which convert several times better:
 **If any one of those lanes goes to zero, the target misses.** The daily run works all of
 them, not just cold.
 
+## 🔥 Paved bundles — a lane that did not exist on 18 Aug
+
+Paved asked Sid to list bundles on his profile and said they will **push them through Paved's
+own sales and marketing** once live. That changes the shape of the newsletter lane:
+
+- A listed bundle sells without Sid working it — the only passive channel in the whole plan
+- One **Q4 Trio at $2,000** is a quarter of a monthly target from a one-time setup
+- Advertisers buying 3 sends instead of 1 raises revenue per deal ~2.7×
+
+Not counted in the projection above until something books, but it is the most promising
+development so far and it cost one email.
+
 ## ⚠️ Plan gap opened 18 Aug
 
 Closing the Passionfroot rail and writing off Gamma removed roughly **6 expected deals
@@ -68,11 +80,14 @@ Three ways to close a gap that size. One of them has to happen:
 
 Doing none of them means planning for ~$22,500 and calling it $32,000.
 
+**Update 20 Aug:** the Paved bundle lane above is a partial fourth answer — it raises revenue
+per newsletter deal rather than deal count, and it runs without Sid's time once listed.
+
 ## Weekly tracker
 
-| Week ending | Prospects added | Emails drafted | Replies | Deals booked | $ booked | Cumulative |
+| Week ending | Prospects added | Sent | Replies | Deals booked | $ booked | Cumulative |
 |---|---:|---:|---:|---:|---:|---:|
-| 23 Aug | 11 | 4 (unsent) | 0 | 0 | $0 | $0 |
+| 23 Aug | 18 | **2** | **1** 🔥 | 0 | $0 | $0 |
 
 ## Pace check
 
@@ -91,7 +106,7 @@ because nothing cold closes in under two weeks. **September is the month that de
 
 ## Escalate immediately if
 
-- Prospects contacted falls below 10/day for 3 consecutive days — **currently 0/day, day 2**
+- Prospects contacted falls below 10/day for 3 consecutive days — **currently ~1/day**
 - Reply rate is under 2% after 200 sends → the email is wrong, rewrite it
 - Zero deals booked by 15 Sep → cold outbound is not working, shift to the agency rails
 - Any rail (1stCollab, Paved) goes 14 days without a response from the rep

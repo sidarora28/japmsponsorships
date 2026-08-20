@@ -1,75 +1,65 @@
 # TODAY — the only file you need to open
 
-Updated by the daily run. **Everything else in this repo is reference. This is the doing.**
+---
+
+## 🔥 One thing, and it has a deadline
+
+### → Send the Paved bundles. Draft is in Gmail.
+
+Yuvna replied in **5.5 hours** and asked for something specific:
+
+> *"Add the bundles on your Paved profile. Would you be able to do so **this week**?
+> Multi-week placements, cross-format packages, multi-site deals. Just send us what you want
+> to offer and we'll set it up for you. Once it's live, **Paved will push bundles across sales
+> and marketing.**"*
+
+**That is Paved offering to sell for you.** You told her you'd send them "shortly" — the draft
+reply is written and waiting.
+
+### What's in the draft
+
+| Bundle | Price | vs buying singly |
+|---|---:|---:|
+| Single newsletter send | $750 | — |
+| **Q4 Trio** — 3 sends, one per month Oct/Nov/Dec | **$2,000** | saves $250 (11%) |
+| 6 sends | $3,750 | saves $750 (17%) |
+| 1 newsletter + 1 LinkedIn | $2,000 | saves $250 (11%) |
+| **Q4 Full Stack** — 3 newsletter + 1 LinkedIn | **$3,300** | saves $450 (12%) |
+
+**Change any number you like before sending — this is your pricing call, not mine.** The logic:
+a commitment discount has to be a real discount or nobody buys it, and 11–17% is the normal
+band for newsletter bundles.
+
+> This also settles the thing I flagged on day one: your published 3-post packages cost **more**
+> than three singles ($4,800 vs $4,500). That's why bundles never sold. These are priced the
+> right way round.
+
+**Why it matters beyond one deal:** a listed bundle is the only thing here that sells while you
+sleep. One Q4 Trio is $2,000 — a quarter of a month's target from a listing you set up once.
 
 ---
 
-## ✅ Sent 19 Aug — the counter is off zero
+## Still waiting to send — six verified emails
 
-| Time | To | Note |
+All confirmed employer + role against a contact database. Real work addresses, no LinkedIn needed.
+
+| Company | Contact | Why |
 |---|---|---|
-| 08:41 | **Yuvna @ Paved** | Sid rewrote the ask to matching Q4 campaigns **and recurring deals** rather than naming Udacity/HubSpot. Better ask — recurring beats one-off and lets Yuvna surface brands not on our list. **Chase 26 Aug.** |
-| 08:45 | **Enterpret** | Sent as drafted. **Chase 25 Aug.** |
-
----
-
-## If you only do one more thing
-
-### → Reply to Optimizely.
-
-They messaged you on **16 June** asking for a repost because engagement was low. You never
-answered. It has been **two months.**
-
-This is the single best action available to you and it isn't a pitch — it's a reply you owe
-someone who is already paying you. It costs about four minutes.
-
-**Where:** 1stCollab partnerships page, or reply to Varun (`varun@1stcollab.com`).
-
-```
-Hi — apologies for the slow reply on this, it got away from me.
-
-Happy to repost. I'll get it back up this week and send you the link.
-
-Separately: I'm booking October–December LinkedIn slots now. If Optimizely wants another
-placement this quarter I'd rather come to you first than open the dates up. Same rate as
-last time.
-
-Sid
-```
-
-**Why this one:** a brand that asks you for more is the warmest signal in the business. Two
-months of silence turns that into a brand that stops asking. It is also the only item on any
-list here where *you owe them*, not the other way round.
-
----
-
-## Six verified emails, drafted and waiting in Gmail
-
-Employer and role confirmed against a contact database, not scraped headlines. Real work
-addresses — **no LinkedIn needed, send them from your inbox.**
-
-| Company | Contact | Why them |
-|---|---|---|
-| **Allstacks** | Hersh Tapadia, CEO | Sponsored TLDR Product **twice in five days** (7 + 11 Aug) |
-| **Mixpanel** | Paul Lenser, Product Marketing | Amplitude — their competitor — paid you $1,200 |
-| **Retool** | Kelsey McKeon, Content Marketing | Airtable — their competitor — paid $1,500 same-day |
+| **Allstacks** | Hersh Tapadia, CEO | Sponsored TLDR Product **twice in five days** |
+| **Mixpanel** | Paul Lenser, PMM | Amplitude — their competitor — paid you $1,200 |
+| **Retool** | Kelsey McKeon, Content Mktg | Airtable — their competitor — paid $1,500 same-day |
 | **Productboard** | Jordan Nolff, VP Growth | Their buyer *is* your audience |
-| **Linear** | Cristina Cordova, COO | Near-total overlap; rarely sponsors, asked honestly |
-| **Vercel** | Nicolas Kaden, Partnerships EMEA | v0 vs Replit; London-based, same time zone |
+| **Linear** | Cristina Cordova, COO | Near-total overlap |
+| **Vercel** | Nicolas Kaden, Partnerships EMEA | v0 vs Replit; London, same time zone |
 
-**Also still in drafts:** Varun (1stCollab), subject *"Q4 availability — JustAnotherPM"*.
-Asks for 4–5 Q4 slots a month and re-opens Recall. Still showing unsent.
+Plus **Varun (1stCollab)** — still unsent from 17 Aug.
 
 ---
 
-## ❌ Do not send — purged 19 Aug
+## Optimizely — still open, still owed
 
-The LinkedIn scraper put nine people at companies they don't work at. Worst was **Lovable**,
-written up as the best prospect on the list: Hayley Wade is Manager of Talent Ops at **Twill**,
-not influencer marketing at Lovable. All three Lovable contacts were wrong.
-
-Full list in `verified-contacts.md`. **Nothing goes out against a scraped headline again —
-verify employer and role first.**
+They asked for a repost on **16 June** and have now waited over two months. Copy is in
+`repitch-queue.md`. Four minutes.
 
 ---
 
@@ -77,21 +67,19 @@ verify employer and role first.**
 
 | | |
 |---|---:|
-| **Messages sent** | **2** ✅ |
-| Verified contacts drafted, waiting | **6** |
-| Warm re-pitches waiting | **8** |
-| Replies | 0 (sent this morning — too early) |
+| Messages sent | **2** |
+| **Replies** | **1** ✅ Paved, in 5.5h |
+| Reply rate | 50% (n=2 — too small to mean anything yet) |
+| Verified contacts drafted, waiting | 6 |
 | Booked | **$0 / $32,000** |
+| Days to 30 Nov | ~73 working days |
 
 ---
 
-## The honest note
+## The read
 
-Two sends is not two deals, but it is the first movement in three days and it came from the
-warm lane — which is where September is going to come from.
+Two emails went out and one came back the same day with a concrete, revenue-shaped ask. That
+is the warm lane doing exactly what it was supposed to do, and it's the strongest evidence yet
+that the constraint was never demand.
 
-The August forecast (~$3,750 best case) needs Varun and Optimizely to move as well. Both are
-one message. One of them is already written and sitting in drafts; the other is four minutes
-of typing.
-
-If something about a draft is wrong — tone, rate, wrong contact — say so and I'll rewrite it.
+Paved asked for this **this week**. Everything else on this page can wait a day. That can't.
