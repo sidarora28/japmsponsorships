@@ -26,7 +26,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
 | O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
 | O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
-| O12 | **Paved (Yuvna)** | Repeat | Yuvna Muthy Nunes | `yuvna@paved.com` verified | ✅ **SENT 19 Aug 08:41** | 19 Aug | chase 26 Aug | Sid rewrote the ask: matching Q4 campaigns **and recurring deals**, rather than naming Udacity/HubSpot. Better ask — recurring beats one-off and lets Yuvna surface brands we don't know about. |
+| O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | 🔥 **REPLIED 19 Aug 14:09** (5.5h) | 19 Aug | **bundles owed this week** | Asked Sid to list **bundles** on his Paved profile — multi-week, cross-format, multi-site — and offered to set them up. **Paved then pushes bundles through their own sales and marketing.** Bundle reply drafted 20 Aug, unsent. |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
@@ -48,11 +48,11 @@ The scraper attributed all of these to companies they do not work at. Full evide
 
 ---
 
-## Replied — moved to `pipeline.md`
+## Replied — live conversations
 
 | ID | Company | Contact | Replied | Outcome |
 |---|---|---|---|---|
-| — | | | | |
+| O12 | **Paved** | Yuvna Muthy Nunes | 19 Aug, 5.5h | **Wants bundles listed this week.** Will market them through Paved's own sales team once live. Reply drafted 20 Aug. |
 
 ---
 
@@ -146,7 +146,7 @@ verified list.
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
 | **Messages sent** | **2** ✅ (Enterpret, Paved — 19 Aug) |
-| Replied | 0 |
+| **Replied** | **1** 🔥 Paved, in 5.5h |
 | Booked | **$0** |
 
 **Watch the reply rate.** Under 2% after 200 sends means the email is wrong, not the market —
@@ -171,22 +171,33 @@ Earlier runs recorded T2 follow-ups "due 21 Aug" for Allstacks and Enterpret. Th
 **a follow-up cannot be due on a first touch that never went out.** The sequence clock starts
 when a message is actually sent, not when a draft is written.
 
-### Send status — 19 Aug
+### 🔥 First reply — 19 Aug, Paved
+
+Yuvna replied 5.5 hours after Sid's email. She asked him to list **bundles** on his Paved
+profile this week — multi-week placements, cross-format packages, multi-site deals — and
+offered to set them up herself. Once live, **Paved markets those bundles through their own
+sales and marketing team.**
+
+That is a distribution channel Sid does not have to work, and the first hard evidence that the
+constraint was never demand.
+
+Sid also told Yuvna, in his own words, that he "has discounted pricing for 3 month packages."
+**That settles the package-pricing question open since 17 Aug** — discounted bundles are
+authorised by Sid. Bundle reply drafted 20 Aug: newsletter single $750, Q4 Trio (3 sends)
+$2,000, 6 sends $3,750, plus two cross-format newsletter+LinkedIn options. Final pricing is
+Sid's to adjust before sending.
+
+### Send status — 19–20 Aug
 
 **First sends landed.** Sid sent two emails on 19 Aug:
 
 | Time | To | Note |
 |---|---|---|
-| 08:41 | **Yuvna @ Paved** | Rewritten by Sid: asks for matching Q4 campaigns **and recurring deals** rather than naming Udacity/HubSpot. Better ask. Chase 26 Aug. |
+| 08:41 | **Yuvna @ Paved** | Rewritten by Sid to ask for matching Q4 campaigns **and recurring deals**. Replied same day. |
 | 08:45 | **Enterpret** | Sent as drafted. Chase 25 Aug. |
 
-**Days elapsed: 3. Messages sent: 2. Booked: $0** — both went out this morning, far too early
-for a reply.
+**Messages sent: 2. Replies: 1. Booked: $0.**
 
-Still sitting in drafts, unsent: **Varun (1stCollab)** from 17 Aug, plus the six verified
-contacts drafted 19 Aug (Allstacks, Mixpanel, Retool, Productboard, Linear, Vercel). The Hugo
-draft stays unsent by decision.
-
-Sid reported the Varun email as sent on 17 Aug; it is still in the drafts folder and does not
-appear in Sent. It may have gone from `sidarora87@gmail.com`, which this desk cannot see.
-**Still unconfirmed.**
+Still sitting in drafts, unsent: the **Paved bundle reply** (drafted 20 Aug, owed this week),
+**Varun (1stCollab)** from 17 Aug, and the six verified contacts drafted 19 Aug (Allstacks,
+Mixpanel, Retool, Productboard, Linear, Vercel). The Hugo draft stays unsent by decision.
