@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 20 Aug 2026 |
+| Today | 25 Aug 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~73 working days.**
+That leaves **~68 working days.**
 
 ## The daily quota
 
@@ -56,11 +56,17 @@ Paved asked Sid to list bundles on his profile and said they will **push them th
 own sales and marketing** once live. That changes the shape of the newsletter lane:
 
 - A listed bundle sells without Sid working it — the only passive channel in the whole plan
-- One **Q4 Trio at $2,000** is a quarter of a monthly target from a one-time setup
-- Advertisers buying 3 sends instead of 1 raises revenue per deal ~2.7×
+- Advertisers buying 3 sends instead of 1 raises revenue per deal substantially
 
-Not counted in the projection above until something books, but it is the most promising
-development so far and it cost one email.
+**Status 25 Aug:** bundles sent 21 Aug and awaiting listing. Sid priced a **Q4 Full Stack at
+$5,500** (3 newsletter + 3 LinkedIn) — one sale of that is over half a monthly target.
+
+⚠️ **The submitted numbers overstate the open rate (40% vs a verified 25.4%) and follower
+count (~80K vs ~75K).** A correction is drafted and must go before the listing is built —
+Paved requires post-send stats, so an inflated listing creates a documented shortfall on the
+one lane that is currently live. See `prospects.md`.
+
+Not counted in the projection above until something books.
 
 ## ⚠️ Plan gap opened 18 Aug
 
@@ -81,13 +87,15 @@ Three ways to close a gap that size. One of them has to happen:
 Doing none of them means planning for ~$22,500 and calling it $32,000.
 
 **Update 20 Aug:** the Paved bundle lane above is a partial fourth answer — it raises revenue
-per newsletter deal rather than deal count, and it runs without Sid's time once listed.
+per newsletter deal rather than deal count, and it runs without Sid's time once listed. The
+$5,500 Full Stack is the clearest example: one sale is worth 3.7 single LinkedIn posts.
 
 ## Weekly tracker
 
 | Week ending | Prospects added | Sent | Replies | Deals booked | $ booked | Cumulative |
 |---|---:|---:|---:|---:|---:|---:|
-| 23 Aug | 18 | **2** | **1** 🔥 | 0 | $0 | $0 |
+| 23 Aug | 20 | **3** | **1** 🔥 | 0 | $0 | $0 |
+| 30 Aug | — | — | — | — | — | — |
 
 ## Pace check
 
@@ -110,3 +118,5 @@ because nothing cold closes in under two weeks. **September is the month that de
 - Reply rate is under 2% after 200 sends → the email is wrong, rewrite it
 - Zero deals booked by 15 Sep → cold outbound is not working, shift to the agency rails
 - Any rail (1stCollab, Paved) goes 14 days without a response from the rep
+- **Any audience figure leaves this desk that is not in `knowledge/audience.md`** — happened
+  21 Aug on the Paved bundles (40% open, ~80K followers) and needed a same-week correction
