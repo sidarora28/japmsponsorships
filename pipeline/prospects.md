@@ -16,7 +16,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
 | O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. Most aggressive spender found. |
-| O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | ✅ **SENT 19 Aug 08:45** | 19 Aug | chase 25 Aug | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
+| O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted 25 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
 | O3 | **Atlassian** (Jira) | A | — | not found | not sent | — | — | 🔺 **Sponsored TLDR TWICE** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (Jira teamwork graph). Repeat, current spender with the biggest budget on the list. **Priority: find a named contact.** Enterprise, so a generic inbox won't work. |
 | O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
@@ -26,7 +26,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
 | O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
 | O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
-| O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | 🔥 **REPLIED 19 Aug 14:09** (5.5h) | 19 Aug | **bundles owed by 21 Aug** | Asked Sid to list **bundles** on his Paved profile — multi-week, cross-format, multi-site — and offered to set them up. **Paved then pushes bundles through their own sales and marketing.** Bundle reply drafted 20 Aug, **still unsent as of 21 Aug**. |
+| O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | ✅ **BUNDLES SENT 21 Aug 07:21** | 21 Aug | chase 28 Aug | Deadline met. Sid's pricing improves on the draft — **Q4 Full Stack, 3 newsletter + 3 LinkedIn, $5,500**. ⚠️ **But the sent version quoted a 40% open rate and ~80,000 LinkedIn followers.** Correction drafted 25 Aug, unsent. |
 | O13 | **Viktor** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
 | O14 | **Temporal** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. Reliability platform for AI systems. Dev-facing, publishes case studies + ebooks — already invests in content marketing. |
 
@@ -52,9 +52,9 @@ The scraper attributed all of these to companies they do not work at. Full evide
 
 ## Replied — live conversations
 
-| ID | Company | Contact | Replied | Outcome |
+| ID | Company | Contact | Replied | Status |
 |---|---|---|---|---|
-| O12 | **Paved** | Yuvna Muthy Nunes | 19 Aug, 5.5h | **Wants bundles listed this week.** Will market them through Paved's own sales team once live. Reply drafted 20 Aug, unsent. |
+| O12 | **Paved** | Yuvna Muthy Nunes | 19 Aug, 5.5h | Bundles **sent 21 Aug**, awaiting listing. Paved markets them through their own sales team once live. ⚠️ Correction to the audience figures drafted 25 Aug, unsent. |
 
 ---
 
@@ -152,8 +152,8 @@ verified list.
 | Buyers named (raw, unverified) | 24 |
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
-| **Messages sent** | **2** (Enterpret, Paved — 19 Aug) |
-| **Drafts unsent** | **8** ⏰ |
+| **Messages sent** | **3** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug) |
+| **Drafts unsent** | **9** (7 backlog + 2 drafted 25 Aug) |
 | **Replied** | **1** 🔥 Paved, in 5.5h |
 | Booked | **$0** |
 
@@ -179,6 +179,31 @@ Earlier runs recorded T2 follow-ups "due 21 Aug" for Allstacks and Enterpret. Th
 **a follow-up cannot be due on a first touch that never went out.** The sequence clock starts
 when a message is actually sent, not when a draft is written.
 
+### 🚨 Audience numbers overstated in the sent Paved bundles — 21 Aug
+
+Sid met the deadline and sent the bundles on 21 Aug 07:21. His pricing is sound and improves
+on the draft in one respect: a **Q4 Full Stack at $5,500** pairing 3 newsletter sends with 3
+LinkedIn posts — over half a monthly target from a single advertiser. Putting LinkedIn on the
+Paved profile was his idea and is the strongest item in the set.
+
+**However, the sent version carried two wrong figures:**
+
+| Sent | Verified (`knowledge/audience.md`) |
+|---|---|
+| "20,170 subscribers, **40% open rate**" | **25.4%** trailing 3 months, 28.95% YTD |
+| "~80,000 LinkedIn followers" | ~75,000 |
+
+**Why this is urgent rather than cosmetic.** These figures go into a Paved marketplace listing
+that Paved markets on Sid's behalf, and Paved requires stats submission after every send. An
+advertiser sold on 40% who receives ~25% has a shortfall documented inside the platform that
+brokered the deal. That is precisely the failure `knowledge/audience.md` was written to
+prevent — on the only lane currently live.
+
+25.4% is a strong number for a 20K B2B list. It does not need inflating.
+
+Correction drafted 25 Aug: restates the verified figures, leaves every price unchanged, and
+fixes one arithmetic slip (Full Stack at $5,500 saves $1,250 against list, not $1,750).
+
 ### 🔥 First reply — 19 Aug, Paved
 
 Yuvna replied 5.5 hours after Sid's email. She asked him to list **bundles** on his Paved
@@ -191,21 +216,31 @@ constraint was never demand.
 
 Sid also told Yuvna, in his own words, that he "has discounted pricing for 3 month packages."
 **That settles the package-pricing question open since 17 Aug** — discounted bundles are
-authorised by Sid. Bundle reply drafted 20 Aug: newsletter single $750, Q4 Trio (3 sends)
-$2,000, 6 sends $3,750, plus two cross-format newsletter+LinkedIn options. Final pricing is
-Sid's to adjust before sending.
+authorised by Sid.
 
-### Send status — 21 Aug
+### Send status — 25 Aug
 
 | | |
 |---|---|
-| Sent | **2** — Enterpret and Paved, both 19 Aug |
+| Sent | **3** — Enterpret + Paved (19 Aug), Paved bundles (21 Aug) |
 | Replies | **1** — Paved, same day |
-| Unsent drafts | **8** |
+| Live conversations | **1** — Paved, bundles submitted and awaiting listing |
+| Unsent drafts | **9** |
 
-**Unsent, with age:** the **Paved bundle reply** (drafted 20 Aug, was owed *this week* — today
-is Friday), **Varun / 1stCollab** (17 Aug, five days), and the six verified contacts drafted
-19 Aug — Allstacks, Mixpanel, Retool, Productboard, Linear, Vercel. The Hugo draft stays
-unsent by decision.
+**Unsent, with age:**
 
-Enterpret has not replied; chase falls 25 Aug.
+| Draft | Waiting since |
+|---|---|
+| Paved correction (verified figures) — **urgent** | drafted 25 Aug |
+| Enterpret T2 chase | drafted 25 Aug |
+| Hersh Tapadia, CEO @ Allstacks | 19 Aug |
+| Paul Lenser, PMM @ Mixpanel | 19 Aug |
+| Kelsey McKeon, Content @ Retool | 19 Aug |
+| Jordan Nolff, VP Growth @ Productboard | 19 Aug |
+| Cristina Cordova, COO @ Linear | 19 Aug |
+| Nicolas Kaden, Partnerships @ Vercel | 19 Aug |
+| **Varun / 1stCollab** | **17 Aug — 8 days** |
+
+The Hugo draft stays unsent by decision. Enterpret has not replied to the 19 Aug email; the
+T2 chase is drafted but should be skipped if Sid's WhatsApp thread with their marketing lead
+is active.
