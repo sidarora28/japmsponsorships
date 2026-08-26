@@ -1,4 +1,4 @@
-# Verified contacts — audited 19 Aug 2026
+# Verified contacts — audited 19 Aug 2026, extended 26 Aug
 
 **These are the only contacts confirmed to work where we think they work.**
 
@@ -29,6 +29,41 @@ correct and the scraper as wrong.
 
 ---
 
+## 🔺 Atlassian — leads found 26 Aug, unverified, LinkedIn-only
+
+Atlassian has sponsored TLDR **three times in two weeks** (Product 11 Aug, AI 20 Aug, Product
+25 Aug), twice for Jira Product Discovery specifically. Biggest budget on the list.
+
+The employee scrape returned three plausible people. **The email finder has no record for any
+of them**, so there are no addresses and no confirmed roles — these are leads, not contacts.
+
+| Name | Headline (unverified) | LinkedIn |
+|---|---|---|
+| **Claire Drumond** | "Marketing Jira, Trello & Teamwork…" | `linkedin.com/in/claireefisher` |
+| **Tanguy Crusson** | "Founded Jira Product Discovery" | `linkedin.com/in/tanguy-crusson-99832a` |
+| Christopher Metoyer | "Brand Marketing at Atlassian" | `linkedin.com/in/christophermetoyer` |
+
+**How to approach these safely.** The Lovable failure came from asserting a person's role
+(*"you run influencer marketing at Lovable"*) on a scraped headline. That risk disappears if
+the opener makes a claim about **the company** instead:
+
+> *"Saw Jira Product Discovery in TLDR Product twice this month…"*
+
+That is verified from the newsletters themselves. It stays true regardless of whether a title
+is stale, so these can be approached on LinkedIn without waiting for verification.
+
+**Claire Drumond first** — marketing is where a media budget sits. Tanguy is the JPD founder:
+high influence, likely not the budget holder, worth a second touch if Claire goes quiet. Never
+both in the same week.
+
+## Figr AI — same situation
+
+TLDR Product sponsor 25 Aug. Scrape found **Simón Solbas, "CEO @ Figr"** — no database record,
+no email, and the profile slug is unconfirmed (two guesses both failed). At a company this
+small the CEO is the right buyer. **Find the real profile by hand before approaching.**
+
+---
+
 ## ❌ Purged — wrong company, do NOT contact
 
 The LinkedIn employee scraper attributed these people to companies they do not work at. Every
@@ -56,26 +91,30 @@ one would have produced an embarrassing email opening with a false premise.
 
 Emily Luehrs (Allstacks) · Megan Seidel (Productboard) · Collin O'Brien (Productboard) ·
 Karri Saarinen (Linear) · Nan Yu (Linear) · James Hawkins (PostHog) · Joe Martin (PostHog) ·
-Kiersten Davis (Retool) · Ben Swan (Mixpanel)
+Kiersten Davis (Retool) · Ben Swan (Mixpanel) · the three Atlassian leads · Simón Solbas (Figr)
 
-**No record does not mean wrong** — it means unconfirmed. Treat as leads, not contacts. Do not
-open an email with a claim about their role until it's checked.
+**No record does not mean wrong** — it means unconfirmed, and the database clearly has gaps
+(it holds nobody at Atlassian, a company of 10,000+). Treat these as leads. Approach them on
+channels that do not require an email address, and never open with a claim about their role.
 
 ---
 
-## The method fix
+## The method, corrected twice
 
-**A scraped LinkedIn headline is a claim, not a fact.** From now on, no contact enters a send
-queue until an independent source confirms employer and role. The email finder costs about
-$1 per 1,000 lookups, so verification is effectively free relative to the cost of one wrong
-email to a real buyer.
+**A scraped LinkedIn headline is a claim, not a fact.** No contact enters an *email* send queue
+until an independent source confirms employer and role. The email finder costs about $1 per
+1,000 lookups, so verification is effectively free next to the cost of one wrong email.
 
-Order of operations, corrected:
+**But absence of a record is not a reason to stop** — it is a reason to change the opener. A
+pitch that references something verified about *the company* ("you sponsored X on this date")
+carries no false-premise risk regardless of the person's exact title, and can go out over
+LinkedIn where no address is needed.
+
+Order of operations:
 
 1. Find sponsor companies (newsletter archives — this part works well)
 2. Scrape the company's employees for candidate names
-3. **Verify every candidate through the email finder before drafting**
-4. Draft only against verified employer + role
-5. Send
-
-Steps 1 and 2 were being treated as sufficient. They are not.
+3. **Verify through the email finder**
+4. **Verified** → draft an email against the confirmed role
+5. **Unverified** → LinkedIn only, and open on the company fact, never the person's role
+6. Send
