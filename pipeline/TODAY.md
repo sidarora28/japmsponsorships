@@ -1,75 +1,64 @@
-# TODAY — Tuesday 25 Aug
+# TODAY — Wednesday 26 Aug
 
 ---
 
-## 🚨 Send the correction to Paved. Today.
+## ⚠️ The correction is still unsent — day 2
 
-The bundles went out Friday 07:21 — **you hit the deadline.** But the sent version carried two
-wrong audience numbers, and they are about to go into a marketplace listing that Paved will
-actively sell against.
+The Paved bundles went out Friday with a **40% open rate** and **~80,000 followers**. Verified:
+**25.4%** and **~75,000**. The correction has been drafted since yesterday morning.
 
-| Sent to Paved | Verified |
+**Paved is building the listing now.** Once it is live and an advertiser buys against 40%,
+fixing it stops being an email and becomes a conversation about a shortfall — inside the
+platform that requires you to submit the real stats after every send.
+
+Draft subject: *"Re: Q4 newsletter inventory — bundles (one correction before you list)"*.
+Prices unchanged. Two minutes.
+
+---
+
+## Atlassian is now the strongest cold prospect on the list
+
+They have sponsored TLDR **three times in two weeks**:
+
+| Date | Edition | What |
+|---|---|---|
+| 11 Aug | Product | Jira Product Discovery eBook w/ Kyle Poyar + Aakash Gupta |
+| 20 Aug | AI | Jira teamwork graph |
+| **25 Aug** | **Product** | **Jira Product Discovery again** |
+
+Three placements in a fortnight is not a campaign, it's a standing budget — and the JPD
+positioning is aimed squarely at product managers, which is your entire audience. The eBook
+featuring Poyar and Gupta also shows they already buy creator-adjacent content.
+
+Searching for a named contact now. Enterprise, so a generic inbox won't do.
+
+---
+
+## Sourced today
+
+**Figr AI** — TLDR Product sponsor 25 Aug. AI that generates deployment-ready UI screens from
+a design system. Product/design buyer, strong audience fit.
+
+Disqualified: Google Cloud (no reachable buyer at that scale), Hazard Hunt (AI-safety niche),
+JumpCloud (identity/security).
+
+---
+
+## Nothing has been sent since Friday
+
+| Draft | Waiting |
 |---|---|
-| "20,170 subscribers, **40% open rate**" | **25.4%** trailing 3mo (28.95% YTD) |
-| "~80,000 LinkedIn followers" | ~75,000 |
+| **Paved correction** ⚠️ | 1 day |
+| Enterpret T2 chase | 1 day |
+| Hersh Tapadia, CEO @ Allstacks | 7 days |
+| Paul Lenser, PMM @ Mixpanel | 7 days |
+| Kelsey McKeon, Content @ Retool | 7 days |
+| Jordan Nolff, VP Growth @ Productboard | 7 days |
+| Cristina Cordova, COO @ Linear | 7 days |
+| Nicolas Kaden, Partnerships @ Vercel | 7 days |
+| **Varun @ 1stCollab** | **9 days** |
 
-**Why this can't wait.** Paved requires stats submission after every send. An advertiser sold
-on 40% who receives ~25% has a documented shortfall inside the platform that brokered the
-deal. That is the specific failure mode `knowledge/audience.md` exists to prevent.
-
-25.4% is still a strong number for a 20K B2B list. It does not need inflating.
-
-**Correction is drafted in Gmail** — subject *"Re: Q4 newsletter inventory — bundles (one
-correction before you list)"*. It restates the correct figures, keeps every price unchanged,
-and fixes one arithmetic slip (Full Stack at $5,500 saves $1,250, not $1,750).
-
-Two minutes, and it is far cheaper now than after an advertiser books.
-
----
-
-## What you sent Friday — worth noting
-
-The pricing you set is good, and better than my draft in one place:
-
-| Bundle | Your price | Saves |
-|---|---:|---:|
-| Single newsletter | $750 | — |
-| Q4 package (3 editions) | $2,000 | $250 |
-| 6 editions | $3,500 | $1,000 |
-| 1 LinkedIn post | $1,500 | — |
-| Newsletter + LinkedIn | $2,000 | $250 |
-| **Q4 Full Stack** — 3 newsletter + 3 LinkedIn | **$5,500** | $1,250 |
-
-**The Full Stack is the important one.** At $5,500 it is more than half a monthly target from
-a single advertiser, and it's now sitting in a listing Paved markets on your behalf. Adding
-LinkedIn to the Paved profile was your idea, not mine — it's the highest-value thing in the
-bundle set.
-
----
-
-## Also due today
-
-**Enterpret chase** — sent 19 Aug, no reply, T2 falls today. Draft is in Gmail. It also asks
-who owns sponsorship there, since `marketing@` was a guessed address and may not be monitored.
-
-> ⚠️ **Skip this if your WhatsApp thread with their marketing lead is live.** A cold chase
-> alongside a warm conversation looks disorganised. Your call — you can see that thread, I can't.
-
----
-
-## Still unsent — 7 drafts
-
-| To | Waiting |
-|---|---|
-| Hersh Tapadia, CEO @ Allstacks | 6 days |
-| Paul Lenser, PMM @ Mixpanel | 6 days |
-| Kelsey McKeon, Content @ Retool | 6 days |
-| Jordan Nolff, VP Growth @ Productboard | 6 days |
-| Cristina Cordova, COO @ Linear | 6 days |
-| Nicolas Kaden, Partnerships @ Vercel | 6 days |
-| **Varun @ 1stCollab** | **8 days** |
-
-Optimizely: **70 days** since they asked for a repost.
+Optimizely: **71 days** since they asked for a repost.
 
 ---
 
@@ -77,20 +66,24 @@ Optimizely: **70 days** since they asked for a repost.
 
 | | |
 |---|---:|
-| Messages sent | **3** |
-| Replies | **1** (Paved) |
-| Live conversations | **1** (Paved — bundles submitted) |
-| Drafts unsent | 7 + 2 new today |
+| Messages sent | 3 |
+| Replies | 1 (Paved) |
+| Drafts unsent | **9** |
 | Booked | **$0 / $32,000** |
-| Pace target, 31 Aug | $2,000 |
-| Days to 30 Nov | ~68 working days |
+| **Pace target, 31 Aug** | **$2,000** |
+| Days to 30 Nov | ~67 working days |
+
+**August closes in 3 working days at $0 against a $2,000 target.** That was always the easiest
+month to miss — nothing cold closes in two weeks — but September needs conversations *already
+running* on 1 September, and right now there is one.
 
 ---
 
 ## The read
 
-You cleared the deadline that mattered and the pricing you set is sound. The Full Stack bundle
-is genuinely the best asset created so far.
+The Paved thread proves the pitch works: one email, a reply in 5.5 hours, and a partner
+volunteering to sell for you. Nothing about the market is the problem.
 
-**The one thing standing between that and a problem is the 40% figure.** Fix it today and the
-Paved lane is clean.
+Seven verified contacts have been sitting for a week. If a week's silence is a signal that
+something about them is wrong — wrong companies, wrong tone, wrong channel — tell me and I'll
+rebuild them. If it's time, the correction is the two-minute one that matters most.
