@@ -17,7 +17,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 |---|---|---|---|---|---|---|---|---|
 | O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. |
 | O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted 25 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
-| O3 | **Atlassian** (Jira Product Discovery) | A | — searching | not found | not sent | — | — | 🔺🔺 **Sponsored TLDR THREE TIMES IN TWO WEEKS** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**. Three in a fortnight is a standing budget, not a campaign. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect. Enterprise, so a generic inbox won't work.** |
+| O3 | **Atlassian** (Jira Product Discovery) | A | Claire Drumond (Mktg Jira/Trello) · Tanguy Crusson (founded JPD) · Christopher Metoyer (Brand Mktg) — **names only, no email record** | **LinkedIn only** | not sent | — | — | 🔺🔺🔺 **Sponsored TLDR FOUR TIMES IN 16 DAYS** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph, "44% more accurate")**. Four in 16 days is a standing budget, not a campaign. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
 | O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
 | O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
@@ -30,12 +30,15 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O13 | **Viktor** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
 | O14 | **Temporal** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. Reliability platform for AI systems. Dev-facing, publishes case studies + ebooks — already invests in content marketing. |
 | O15 | **Figr AI** | A | — searching | not sourced | not sent | — | — | TLDR Product sponsor 25 Aug. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
+| O16 | **ngrok** | A | — **scrape returned 0 rows** (`ngrok` slug) |  not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. AI gateway for self-hosted models (ngrok.ai). Dev-infra buyer; moderate PM fit. |
+| O17 | **CData** | A | — **scrape returned 0 rows** (`cdata-software` slug) | not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. Promoting a report on Claude Code's limits when building an MCP server. **MCP is squarely an AI-PM topic — good fit.** |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
 Allstacks (Hersh Tapadia, CEO) · Mixpanel (Paul Lenser, PMM) · Retool (Kelsey McKeon, Content
-Marketing) · Productboard (Jordan Nolff, VP Growth) · Linear (Cristina Cordova, COO) ·
-Vercel (Nicolas Kaden, Partnerships EMEA)
+Marketing) · Productboard (Jordan Nolff, VP Growth) · Linear (Cristina Cordova, COO)
+
+**✅ Vercel (Nicolas Kaden) — SENT 26 Aug 11:03.** Moved to the active sequence below.
 
 Held in reserve: David Hsu (Retool CEO), Hubert Palan (Productboard CEO) — only if the primary
 contact goes quiet. Never both at one company in the same week.
@@ -142,6 +145,15 @@ row is not success.
 must be checked against the email finder before it can be drafted against. See
 `verified-contacts.md`.
 
+**Third confirmation, 27 Aug.** `ngrok` and `cdata-software` both returned **0 rows** — the run
+succeeded, the dataset was empty. That is the honest version of the same failure: the actor
+cannot resolve a company slug it was not given verbatim from LinkedIn. Cost so far across three
+runs: seven companies sourced and zero contacts produced from guessed slugs.
+
+**Rule, now with no exceptions: never guess a LinkedIn company slug.** Either paste the real
+company URL from LinkedIn, or leave the company unsourced. Guessing has a 0% hit rate over
+seven attempts.
+
 **Do not attempt the five common-word companies again by guessing slugs.** Either open LinkedIn
 and copy the real company URL by hand, or drop them. Granola is the only one worth the manual
 effort — PMs are its user base — and even that is worth less than sending one message from the
@@ -153,12 +165,12 @@ verified list.
 
 | | |
 |---|---:|
-| Companies sourced | 21 |
+| Companies sourced | 23 |
 | Buyers named (raw, unverified) | 24 |
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
-| **Messages sent** | **3** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug) |
-| **Drafts unsent** | **9** (7 backlog + 2 drafted 25 Aug) |
+| **Messages sent** | **4** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug; **Vercel 26 Aug**) |
+| **Drafts unsent** | **8** (6 backlog + 2 drafted 25 Aug) |
 | **Replied** | **1** 🔥 Paved, in 5.5h |
 | Booked | **$0** |
 
