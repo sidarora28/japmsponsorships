@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 27 Aug 2026 |
+| Today | 28 Aug 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~66 working days.**
+That leaves **~65 working days.**
 
 ## The daily quota
 
@@ -95,7 +95,7 @@ $5,500 Full Stack is the clearest example: one sale is worth 3.7 single LinkedIn
 | Week ending | Prospects added | Sent | Replies | Deals booked | $ booked | Cumulative |
 |---|---:|---:|---:|---:|---:|---:|
 | 23 Aug | 20 | **3** | **1** 🔥 | 0 | $0 | $0 |
-| 30 Aug (to 27th) | 3 | **1** (Vercel, 26 Aug) | 0 | 0 | $0 | **$0** |
+| 30 Aug | 3 | **1** (Vercel, 26 Aug) | 0 | 0 | $0 | **$0** |
 
 ## Pace check
 
@@ -125,12 +125,15 @@ because nothing cold closes in under two weeks. **September is the month that de
 
 ---
 
-## August closes in 2 working days at $0 against a $2,000 target
+## August closes TODAY at $0 against a $2,000 target
 
 Stated plainly so it is not a surprise on 1 September. August was always the month most likely
 to miss: the first cold email went out 19 Aug, and nothing cold closes inside two weeks.
 
-**The number that actually matters is how many live conversations exist on 1 September.**
-Right now: **one** (Paved, bundles awaiting listing) plus **one awaiting a reply** (Vercel).
-The September target of $10,000 cumulative needs roughly six, which means the six verified
-drafts and Varun have to go out this week — not next.
+**The number that actually matters is how many live conversations exist on Monday.**
+Right now: **one** (Paved, bundles awaiting listing, now 7 days silent) plus **one awaiting a
+reply** (Vercel). The September target of $10,000 cumulative needs roughly six.
+
+**Atlassian is the one prospect with a deadline of its own** — a State of AI SDLC summit on
+22 September, promoted in TLDR on 27 Aug. A placement that moves summit registrations has to
+run in the two weeks before it, which means the approach goes out now or the hook is gone.

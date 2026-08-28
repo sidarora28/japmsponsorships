@@ -16,8 +16,8 @@ Email column: `verified` (confirmed against a contact database or received from 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
 | O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. |
-| O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted 25 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
-| O3 | **Atlassian** (Jira Product Discovery) | A | Claire Drumond (Mktg Jira/Trello) · Tanguy Crusson (founded JPD) · Christopher Metoyer (Brand Mktg) — **names only, no email record** | **LinkedIn only** | not sent | — | — | 🔺🔺🔺 **Sponsored TLDR FOUR TIMES IN 16 DAYS** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph, "44% more accurate")**. Four in 16 days is a standing budget, not a campaign. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
+| O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted for real 28 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
+| O3 | **Atlassian** (Jira Product Discovery) | A | **⭐ Claire Drumond (Mktg Jira/Trello)** · Christopher Metoyer (Brand Mktg) · Tanguy Crusson (founded JPD, champion not buyer) — **names only, no email record** | **LinkedIn — DM written 28 Aug, `dm-queue.md`** | not sent | — | — | 🔺🔺🔺 **Sponsored TLDR FIVE TIMES IN 17 DAYS — and now has a dated event** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph)**, **AI 27 Aug — "State of AI SDLC" digital summit, 22 September**. Five in 17 days is a standing budget, not a campaign, and the summit puts a **date** on the spend. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
 | O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
 | O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
@@ -26,7 +26,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O9 | **Elastic** | A | — | not found | not sent | — | — | TLDR Product sponsor 31 Jul. Search/AI platform. Large budget, slower cycle. |
 | O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
 | O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
-| O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | ✅ **BUNDLES SENT 21 Aug 07:21** | 21 Aug | chase 28 Aug | Deadline met. Sid's pricing improves on the draft — **Q4 Full Stack, 3 newsletter + 3 LinkedIn, $5,500**. ⚠️ **But the sent version quoted a 40% open rate and ~80,000 LinkedIn followers.** Correction drafted 25 Aug, unsent. |
+| O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | ✅ **BUNDLES SENT 21 Aug 07:21** | 21 Aug | chase 28 Aug | Deadline met. Sid's pricing improves on the draft — **Q4 Full Stack, 3 newsletter + 3 LinkedIn, $5,500**. ⚠️ **But the sent version quoted a 40% open rate and ~80,000 LinkedIn followers.** **Correction + 7-day chase now drafted for real, 28 Aug** — combined into one reply on the bundles thread. |
 | O13 | **Viktor** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
 | O14 | **Temporal** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. Reliability platform for AI systems. Dev-facing, publishes case studies + ebooks — already invests in content marketing. |
 | O15 | **Figr AI** | A | — searching | not sourced | not sent | — | — | TLDR Product sponsor 25 Aug. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
@@ -170,7 +170,7 @@ verified list.
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
 | **Messages sent** | **4** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug; **Vercel 26 Aug**) |
-| **Drafts unsent** | **8** (6 backlog + 2 drafted 25 Aug) |
+| **Drafts unsent** | **8** (6 verified backlog + Paved correction/chase + Enterpret T2, both created 28 Aug) |
 | **Replied** | **1** 🔥 Paved, in 5.5h |
 | Booked | **$0** |
 
@@ -217,6 +217,27 @@ prevent — on the only lane currently live.
 Correction drafted 25 Aug: restates the verified figures, leaves every price unchanged, and
 fixes one arithmetic slip (Full Stack at $5,500 saves $1,250 against list, not $1,750).
 **Still unsent as of 26 Aug.**
+
+### 🚨 Two drafts I reported for four days did not exist — corrected 28 Aug
+
+A Gmail draft audit on 28 Aug found **29 drafts, of which only 8 are sponsorship drafts**:
+Allstacks (×2), Mixpanel, Retool, Productboard, Linear, Varun, Hugo.
+
+**The Paved correction and the Enterpret T2 chase were not among them.** Both had been logged
+here and in `TODAY.md` as "drafted 25 Aug, unsent" and reported to Sid as waiting on him for
+four consecutive days. They were never created. Sid was being asked to send two emails that
+did not exist.
+
+Both now exist:
+
+| Draft | Where | Note |
+|---|---|---|
+| **Paved — correction + chase** | Reply on the bundles thread, cc Kelly | Combined deliberately: the 7-day chase was due 28 Aug anyway, and attaching the correction to an email Sid wants to send makes it far likelier to go |
+| **Enterpret T2** | Reply on the 19 Aug thread | Skip if Sid's WhatsApp thread with their marketing lead is live |
+
+**The rule this cost:** never record a draft as existing without reading it back from Gmail.
+`create_draft` returning nothing is indistinguishable from never having called it, and the
+ledger is the only place that error can be caught.
 
 ### 🔥 First reply — 19 Aug, Paved
 
