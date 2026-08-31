@@ -1,93 +1,91 @@
-# TODAY — Friday 28 Aug
+# TODAY — Monday 31 Aug
 
 ---
 
-## 🚨 Two emails I said were waiting on you did not exist
+## 🔥 There is $2,000 sitting unread in the inbox, and it expires this week
 
-I audited every Gmail draft this morning. There are 29, of which 8 are sponsorship drafts:
-Allstacks (×2), Mixpanel, Retool, Productboard, Linear, Varun, Hugo.
+**Tarak Duggal, Creator Partnerships Lead at 1stCollab** — emailed Friday 28 Aug 06:11.
+**Unread for three days.**
 
-**The Paved correction and the Enterpret chase were not there.** I have been reporting both as
-"drafted, waiting on you" since 25 Aug. They were never created. You were being asked to send
-two emails that did not exist, four days running.
+> *"(Rush) Paid Partnership Opportunity with Luma — September 7 Live Date"*
 
-**Both exist now.** From here I read a draft back out of Gmail before logging it as written.
+Luma is promoting **Layers**, its new precision image-editing capability. Eligible formats
+include **1x LinkedIn Video Post** — which is your top card format, the one Airtable paid
+$1,500 for.
+
+| | |
+|---|---|
+| Live date | **7 September** |
+| Clock once accepted | 48h for script, then 72h for the video draft |
+| Usage rights / exclusivity | **None required** |
+| Rate quoted in the draft | **$2,000** |
+
+**Why $2,000 and not $1,500.** Tarak wrote, in his own email: *"please feel free to have your
+rates reflect the additional effort required for the rush turnaround."* The buyer invited a
+premium. $1,500 is the card rate for LinkedIn post + video; $2,000 is that plus a rush uplift.
+That is not repricing the card — it is a one-deal premium the buyer asked for. **If you want a
+different number, change it before sending.**
+
+The draft replies with rates rather than using the apply link, which is the route Tarak
+offered and the one that doesn't commit you to anything.
+
+### ⚠️ Read this before you send it
+
+`channels.md` says it plainly: *"Sid has gone overdue on concepts and drafts here more than
+once. This is the rail with the highest revenue per deal and the most relationship risk from
+slipping."* Tarak's email says delays **may terminate the agreement**.
+
+So the honest version: **only send this if the next seven days are genuinely clear.** A blown
+rush deadline on 1stCollab costs more than $2,000 — it's the rail that produced Airtable and
+Optimizely, and Varun is already sitting on an unanswered note from you.
+
+Three days are already gone. Rush campaigns fill. It may be gone — send anyway and find out.
 
 ---
 
-## ⚠️ The DM queue was pointing at the wrong people
+## August closed at $0
 
-`pipeline/dm-queue.md` still opened with *"Tier 0 — Lovable ⭐⭐ best prospect on the entire
-list"* and a ready-to-send note beginning **"saw you run influencer marketing at Lovable."**
-The 19 Aug audit proved that person works at Twill, not Lovable.
+| | |
+|---|---:|
+| August booked | **$0** |
+| August pace target | $2,000 |
+| Total booked | **$0 / $32,000** |
+| Sent, all time | 4 |
+| Days to 30 Nov | **~64 working days** |
 
-If you had worked that file top-down, **the first DM you sent went to the wrong person at the
-wrong company.** It has been rebuilt: everything the audit purged is struck, and the eight
-wrong-company names are listed so they can't quietly come back.
+This was the expected miss — the first cold email went out on 19 Aug, and nothing cold closes
+inside two weeks. But September's target is **$10,000 cumulative**, and September starts
+tomorrow with **four live conversations**, none of them yet worth a dollar:
 
-The queue is much shorter now — **one live target** — because most of it was wrong.
-
----
-
-## 🔺 Atlassian now has a deadline — this is the best cold prospect on the desk
-
-**Five TLDR placements in 17 days**, and yesterday's is different:
-
-| Date | Edition | What |
-|---|---|---|
-| 11 Aug | Product | Jira Product Discovery eBook w/ Kyle Poyar + Aakash Gupta |
-| 20 Aug | AI | Jira Teamwork Graph |
-| 25 Aug | Product | Jira Product Discovery again |
-| 26 Aug | AI | Teamwork Graph — "44% more accurate results" |
-| **27 Aug** | **AI** | **"State of AI SDLC" digital summit — 22 September** |
-
-Everything before this was brand spend with no deadline. **A summit on 22 September has a
-registration window that closes** — budget with a date on it, and a team measured on signups.
-Your audience is that summit's audience.
-
-No email exists for anyone there, so it's a LinkedIn approach: **⭐ Claire Drumond, Marketing
-for Jira/Trello.** Connection note and full message are written and ready to paste in
-`dm-queue.md`. The pitch opens on the summit, not on a scraped job title.
+| Deal | Value | State |
+|---|---:|---|
+| **Luma** (1stCollab) | **$2,000** | Reply drafted — **expires this week** |
+| Paved bundles | up to $5,500 | **10 days silent.** Correction + chase drafted |
+| Vercel | $1,500 | Sent 26 Aug, no reply. T2 due ~1 Sep |
+| Enterpret | $1,500 | T2 drafted, skip if WhatsApp is live |
 
 ---
 
 ## Send today, in this order
 
-| # | What | Why now |
+| # | What | Why |
 |---|---|---|
-| 1 | **Paved — correction + chase** (one email, cc Kelly) | 7 days of silence on the bundles, and the corrected figures ride along with a chase you want to send anyway |
-| 2 | **Varun @ 1stCollab** | **11 days.** This rail already paid you $1,500 same-day |
-| 3 | **Claire Drumond DM** (Atlassian) | The only prospect with a reason to move before 22 Sep |
-| 4 | Two of the five verified emails | Allstacks · Mixpanel · Retool · Productboard · Linear — all 9 days old |
-| 5 | Enterpret T2 | **Skip if your WhatsApp thread there is live** |
+| 1 | **Luma / Tarak** | Real money, live date 7 Sep, already 3 days cold |
+| 2 | **Paved — correction + chase** | 10 days silent on your own inventory |
+| 3 | **Varun @ 1stCollab** | **14 days.** And a colleague of his just brought you a deal |
+| 4 | **Claire Drumond DM** (Atlassian) | State of AI SDLC summit, 22 Sep — hook expires in ~2 weeks |
+| 5 | Two of the five verified emails | Allstacks · Mixpanel · Retool · Productboard · Linear — 12 days old |
 
-Optimizely: **73 days** since they asked for a repost.
-
----
-
-## Scoreboard
-
-| | |
-|---|---:|
-| Messages sent | 4 |
-| Replies | 1 (Paved) |
-| Drafts unsent | 8 |
-| Booked | **$0 / $32,000** |
-| **August target** | **$2,000 — closes today** |
-| Days to 30 Nov | ~65 working days |
-
-**August closes today at $0.** It was always the month most likely to miss — the first cold
-email went out on 19 Aug and nothing cold closes inside two weeks. September's $10,000 needs
-roughly six live conversations on Monday. There are two: Paved, and Vercel awaiting a reply.
+Optimizely: **76 days** since they asked for a repost.
 
 ---
 
 ## The read
 
-Two days running the failure has been in this repo, not in the market: drafts I claimed
-existed and didn't, and a queue aimed at people who'd purged. Both are fixed and both are
-logged so they can't recur.
+The inbound arrived on the best rail Sid has, in his best format, with a buyer who invited a
+higher price — and it sat unread over a weekend while the desk went looking for cold
+prospects. That is the diagnosis in `CLAUDE.md` happening again in real time: **inbound
+expires unanswered.**
 
-What's left is the same short list it has been all week. **Paved and Varun are the two that
-cost nothing and are most likely to produce money** — one is a partner sitting on your
-inventory, the other a rail that has already paid.
+Nothing sourced today. It wasn't the constraint. **Answering Tarak is worth more than ten cold
+prospects, and it takes one minute.**

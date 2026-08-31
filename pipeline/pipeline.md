@@ -28,7 +28,10 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 | ID | Brand | Rail | Contact | Stage | Placement | Value | Next action | Due | Updated |
 |---|---|---|---|---|---|---:|---|---|---|
-| — | *no active deals* | | | | | | Work `backlog.md` | — | 17 Aug 2026 |
+| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **SEND THE REPLY → SID.** Rush campaign, brand may already be filled | **TODAY** | 31 Aug 2026 |
+| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID | **overdue — 10 days silent** | 31 Aug 2026 |
+| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. T2 due ~1 Sep | 1 Sep | 31 Aug 2026 |
+| D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 31 Aug 2026 |
 
 ---
 
@@ -60,7 +63,15 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 | Month | Booked | Delivered | Collected | vs target |
 |---|---:|---:|---:|---|
-| Aug 2026 | $0 | $0 | $0 | — |
+| **Aug 2026** | **$0** | $0 | $0 | **CLOSED — missed $2,000 pace target** |
+| Sep 2026 | $0 | $0 | $0 | **$10,000 cumulative pace target** |
+
+**August closed at $0.** The first cold email went out 19 Aug and nothing cold closes inside
+two weeks, so this was the expected miss — but it is still a miss, and September has to carry
+what August didn't.
+
+**D1 (Luma, $2,000) is the first genuinely September-bookable deal on the desk.** It is also
+the one with an expiry date measured in days.
 
 Booked = terms agreed. Delivered = placement live. Collected = cash received. Track all three
 — the 2026 problem has been gaps between them, not just a shortage of bookings.

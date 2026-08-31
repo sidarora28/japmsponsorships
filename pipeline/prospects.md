@@ -54,6 +54,33 @@ The scraper attributed all of these to companies they do not work at. Full evide
 
 ---
 
+## 🔥 Inbound — 28 Aug, 1stCollab / Luma
+
+**The first inbound deal of the campaign, and it arrived while the desk was hunting cold.**
+
+Tarak Duggal (Creator Partnerships Lead, 1stCollab) emailed Friday 28 Aug 06:11 with a rush
+paid partnership for **Luma**, promoting *Layers*. Eligible formats include **1x LinkedIn Video
+Post** — Sid's top card format, the one Airtable paid $1,500 for. No usage rights or
+exclusivity required. **Content must be posted by 7 September.**
+
+**It sat unread for three days**, over a weekend, while the daily run went looking for cold
+prospects. That is the `CLAUDE.md` diagnosis — *inbound expires unanswered* — repeating live.
+
+Reply drafted 31 Aug at **$2,000**: the $1,500 card rate for LinkedIn post + video, plus a
+rush premium. Tarak explicitly invited one — *"please feel free to have your rates reflect the
+additional effort required for the rush turnaround."* Quoting above card is not repricing and
+is not discounting; the number is still Sid's to change before sending.
+
+The draft answers with rates rather than using the apply link, which is the route Tarak offered
+and the one that commits Sid to nothing.
+
+⚠️ **The risk is delivery, not price.** `channels.md`: *"Sid has gone overdue on concepts and
+drafts here more than once. This is the rail with the highest revenue per deal and the most
+relationship risk from slipping."* Tarak's terms say delays may terminate the agreement. Only
+send if the week is clear.
+
+---
+
 ## Replied — live conversations
 
 | ID | Company | Contact | Replied | Status |
@@ -170,6 +197,7 @@ verified list.
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
 | **Messages sent** | **4** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug; **Vercel 26 Aug**) |
+| **Inbound deals received** | **1** 🔥 Luma via 1stCollab, 28 Aug |
 | **Drafts unsent** | **8** (6 verified backlog + Paved correction/chase + Enterpret T2, both created 28 Aug) |
 | **Replied** | **1** 🔥 Paved, in 5.5h |
 | Booked | **$0** |

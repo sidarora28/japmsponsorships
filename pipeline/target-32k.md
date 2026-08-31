@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 28 Aug 2026 |
+| Today | 31 Aug 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~65 working days.**
+That leaves **~64 working days.**
 
 ## The daily quota
 
@@ -96,6 +96,7 @@ $5,500 Full Stack is the clearest example: one sale is worth 3.7 single LinkedIn
 |---|---:|---:|---:|---:|---:|---:|
 | 23 Aug | 20 | **3** | **1** 🔥 | 0 | $0 | $0 |
 | 30 Aug | 3 | **1** (Vercel, 26 Aug) | 0 | 0 | $0 | **$0** |
+| 6 Sep | — | — | **1** 🔥 inbound (Luma/1stCollab) | — | — | — |
 
 ## Pace check
 
@@ -125,14 +126,21 @@ because nothing cold closes in under two weeks. **September is the month that de
 
 ---
 
-## August closes TODAY at $0 against a $2,000 target
+## August CLOSED at $0 against a $2,000 target
 
 Stated plainly so it is not a surprise on 1 September. August was always the month most likely
 to miss: the first cold email went out 19 Aug, and nothing cold closes inside two weeks.
 
-**The number that actually matters is how many live conversations exist on Monday.**
-Right now: **one** (Paved, bundles awaiting listing, now 7 days silent) plus **one awaiting a
-reply** (Vercel). The September target of $10,000 cumulative needs roughly six.
+**The number that actually matters is how many live conversations exist going into September.**
+As of 31 Aug there are **four**: Luma (1stCollab, $2,000, inbound), Paved (bundles, 10 days
+silent), Vercel (sent, no reply) and Enterpret. The September target of $10,000 cumulative
+needs roughly six, so this is closer than it was — but none of the four has produced a dollar
+and one of them expires on 7 September.
+
+**🔥 Luma is the first inbound deal of the campaign and the first realistic September booking.**
+1stCollab brought it unprompted, which is the same rail that produced Airtable ($1,500,
+same-day yes) and Optimizely. It also proves the rail is alive while Varun's note sits
+unanswered at 14 days.
 
 **Atlassian is the one prospect with a deadline of its own** — a State of AI SDLC summit on
 22 September, promoted in TLDR on 27 Aug. A placement that moves summit registrations has to
