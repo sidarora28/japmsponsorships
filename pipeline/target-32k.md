@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 31 Aug 2026 |
+| Today | 1 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~64 working days.**
+That leaves **~63 working days.**
 
 ## The daily quota
 
@@ -96,7 +96,7 @@ $5,500 Full Stack is the clearest example: one sale is worth 3.7 single LinkedIn
 |---|---:|---:|---:|---:|---:|---:|
 | 23 Aug | 20 | **3** | **1** 🔥 | 0 | $0 | $0 |
 | 30 Aug | 3 | **1** (Vercel, 26 Aug) | 0 | 0 | $0 | **$0** |
-| 6 Sep | — | — | **1** 🔥 inbound (Luma/1stCollab) | — | — | — |
+| 6 Sep | 2 | 0 | **1** 🔥 inbound (Luma/1stCollab) | 0 | $0 | $0 |
 
 ## Pace check
 
@@ -105,7 +105,7 @@ To stay on track, cumulative bookings should be roughly:
 | Date | Should be at |
 |---|---:|
 | 31 Aug | $2,000 |
-| 30 Sep | $10,000 |
+| 30 Sep | $10,000 | ← **this month decides it** |
 | 31 Oct | $20,000 |
 | 30 Nov | $30,000 |
 | 31 Dec | **$32,000** |

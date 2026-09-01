@@ -15,9 +15,9 @@ Email column: `verified` (confirmed against a contact database or received from 
 
 | ID | Company | Vein | Contact | Email/channel | Seq | Last touch | Next due | Notes |
 |---|---|---|---|---|---|---|---|---|
-| O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product on BOTH 7 Aug and 11 Aug** — 4+ placements in 5 days. |
+| O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product THREE TIMES — 7 Aug, 11 Aug and 28 Aug.** Draft updated 1 Sep to open on the third placement. |
 | O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted for real 28 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
-| O3 | **Atlassian** (Jira Product Discovery) | A | **⭐ Claire Drumond (Mktg Jira/Trello)** · Christopher Metoyer (Brand Mktg) · Tanguy Crusson (founded JPD, champion not buyer) — **names only, no email record** | **LinkedIn — DM written 28 Aug, `dm-queue.md`** | not sent | — | — | 🔺🔺🔺 **Sponsored TLDR FIVE TIMES IN 17 DAYS — and now has a dated event** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph)**, **AI 27 Aug — "State of AI SDLC" digital summit, 22 September**. Five in 17 days is a standing budget, not a campaign, and the summit puts a **date** on the spend. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
+| O3 | **Atlassian** (Jira Product Discovery) | A | **⭐ Claire Drumond (Mktg Jira/Trello)** · Christopher Metoyer (Brand Mktg) · Tanguy Crusson (founded JPD, champion not buyer) — **names only, no email record** | **LinkedIn — DM written 28 Aug, `dm-queue.md`** | not sent | — | — | 🔺🔺🔺 **Sponsored TLDR SIX TIMES IN 18 DAYS — and has a dated event** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph)**, **AI 27 Aug — "State of AI SDLC" summit, 22 September**, **Product 28 Aug (Teamwork Graph)**. Six in 18 days is a standing budget, not a campaign, and the summit puts a **date** on the spend. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
 | O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
 | O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
@@ -32,6 +32,8 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O15 | **Figr AI** | A | — searching | not sourced | not sent | — | — | TLDR Product sponsor 25 Aug. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
 | O16 | **ngrok** | A | — **scrape returned 0 rows** (`ngrok` slug) |  not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. AI gateway for self-hosted models (ngrok.ai). Dev-infra buyer; moderate PM fit. |
 | O17 | **CData** | A | — **scrape returned 0 rows** (`cdata-software` slug) | not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. Promoting a report on Claude Code's limits when building an MCP server. **MCP is squarely an AI-PM topic — good fit.** |
+| O18 | **Guru** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Ebook: *The Knowledge Accuracy Gap* — AI agents amplifying outdated knowledge. Gated-content buyer, product/ops audience. **Good fit.** |
+| O19 | **Databricks** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Genie data agents. Large budget but aimed at data teams more than PMs. Lower priority. |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
@@ -113,11 +115,28 @@ Logged so the same company isn't researched twice.
 | Google Cloud | TLDR AI 25 Aug | Confidential computing for AI workloads. No reachable buyer at that scale for a $1,500 placement. |
 | Hazard Hunt | TLDR AI 25 Aug | AI safety red-teaming. Niche research audience, not product. |
 | JumpCloud | TLDR AI 25 Aug | Identity and access management. Security/IT, not product. |
+| IBM | TLDR AI 31 Aug | AI and code analysis. No reachable buyer at that scale for a $1,500 placement — same call as Google Cloud and Amazon. |
 | Amazon | TLDR Product 4 Aug | Promoting Mik Kersten's *Output to Outcome*. On-audience, but no reachable buyer at Amazon scale for a $1,500 placement. |
 | Statsig | LinkedIn scrape | Returned only engineers + 1 AE. No marketing contact. Retry later. |
 | Dovetail | LinkedIn scrape | Every hit was a *different* Dovetail (Regulatory, + Co, Furniture, an OT practice). Wrong company. |
 | **Gamma** | — | **Dropped 18 Aug, Sid's call.** Undelivered Dec 2025 campaign written off. Do not contact. |
 | **Passionfroot rail** | — | **Closed 18 Aug, Sid's call.** Hugo not contacted; Promoted and Rezonant no longer recoverable. |
+
+---
+
+### ⚠️ Correction 1 Sep — Varun was not "14 days silent"
+
+Earlier runs reported Varun at 11 and then 14 days silent. **That was the age of the unsent
+draft, not silence from Varun.** His last message was **January 2026**, closing the Airtable
+deal. He has been quiet for seven months.
+
+The distinction matters because it changes the email. It is not a chase — it is reopening a
+rail that produced $1,500 same-day and then went quiet, at the moment **his colleague Tarak
+came inbound with a live campaign**. The draft was rewritten 1 Sep to open on exactly that,
+which gives Varun a reason to reply now rather than a reminder that he owes one.
+
+**The general error: "days since we drafted" is not "days since they went quiet."** Only the
+second one is a fact about the other party.
 
 ---
 
@@ -192,7 +211,7 @@ verified list.
 
 | | |
 |---|---:|
-| Companies sourced | 23 |
+| Companies sourced | 25 |
 | Buyers named (raw, unverified) | 24 |
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |

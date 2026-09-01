@@ -28,10 +28,10 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 | ID | Brand | Rail | Contact | Stage | Placement | Value | Next action | Due | Updated |
 |---|---|---|---|---|---|---:|---|---|---|
-| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **SEND THE REPLY → SID.** Rush campaign, brand may already be filled | **TODAY** | 31 Aug 2026 |
-| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID | **overdue — 10 days silent** | 31 Aug 2026 |
-| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. T2 due ~1 Sep | 1 Sep | 31 Aug 2026 |
-| D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 31 Aug 2026 |
+| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **→ SID: send draft A ($2,000, take it) or draft B (pass + pitch Q4).** Day 4 unanswered | **DIES 7 SEP** | 1 Sep 2026 |
+| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID | **overdue — 11 days silent** | 1 Sep 2026 |
+| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. **T2 due today** | **1 Sep** | 1 Sep 2026 |
+| D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 1 Sep 2026 |
 
 ---
 
