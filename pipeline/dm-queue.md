@@ -83,6 +83,48 @@ Want me to send a couple of concepts?
 
 ---
 
+## Figr AI — second DM target, added 2 Sep
+
+**Sponsored TLDR Product twice: 25 Aug and 1 Sep.** Repeat buyer. Small company — founding
+engineers and a founder's office, no marketing hire — so one person can approve $1,500.
+
+**⭐ Moksh Garg** `linkedin.com/in/moksh-garg`
+
+**Why him, and why this one is safe to send.** His employer was confirmed *independently of the
+scraper*: he posts Figr AI product launches from his own profile, which is direct evidence
+rather than a headline claim. That matters here because scraping `linkedin.com/company/figrdesign`
+— the correct URL — returned people from a cannabis producer, an architecture studio, a VC fund,
+a blockchain company and a fashion label. See `prospects.md`.
+
+No email-finder record exists for him, so this is LinkedIn. Open on the **TLDR placements**,
+not on a job title.
+
+Connection note (249 chars):
+```
+Hi Moksh — saw Figr in TLDR Product twice in the last week. I write JustAnotherPM: ~75k AI PMs and product builders here on LinkedIn, plus a 20k newsletter. Designers and PMs shipping screens is exactly my audience. Booking Q4 — worth a chat?
+```
+
+Full message once accepted:
+```
+Hey Moksh — short version.
+
+Figr ran in TLDR Product on 25 August and again on 1 September, so you're buying against
+product people right now.
+
+JustAnotherPM: ~75,000 followers here, 20,170 newsletter subscribers at a 25.4% open rate.
+Almost all AI product managers and people shipping with AI, roughly 60% US/UK.
+
+"Three-week design cycle to four hours" is a claim my audience will argue about in the
+comments, which is the good kind of placement. I'm Head of Product for Gen AI at Yelp
+alongside the newsletter, so it reads as a practitioner recommendation rather than an ad.
+
+LinkedIn post $1,500, newsletter slot $750. Booking October–December.
+
+Want me to send a couple of concepts?
+```
+
+---
+
 ## ⛔ Do not DM — already on the email rail
 
 Touching these people on LinkedIn as well breaks the one-channel rule and reads as a blast.
@@ -150,7 +192,7 @@ URL or leave the company unsourced.
 
 | | |
 |---|---:|
-| **DM targets live today** | **1** (Atlassian — Claire Drumond) |
+| **DM targets live today** | **2** (Atlassian — Claire Drumond · Figr AI — Moksh Garg) |
 | On the email rail instead | 6 verified + Enterpret |
 | Purged as wrong-company | 8 |
 | Unverified, held as backups | 13 |

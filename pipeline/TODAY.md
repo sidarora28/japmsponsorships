@@ -1,70 +1,80 @@
-# TODAY — Tuesday 1 September
+# TODAY — Wednesday 2 September
 
-**September is the month that decides $32,000. It opens at $0.**
+## One thing. Luma, and today is the last day it works.
 
----
+**Live date is Monday 7 September.** Accept today → 48h for script (Friday 4th) → 72h for the
+draft (Monday 7th) → post Monday. That is at the wire with no slack and no room for the
+approval step to slip.
 
-## Luma dies in four days. Two drafts, pick one.
+**Tomorrow the arithmetic stops working.** Draft A is viable today and not after.
 
-Tarak's email arrived Friday 28 Aug. It's now **day 4 unanswered**, and the live date is
-**7 September**. Once accepted it's 48h to script, then 72h to draft — so the accept has to
-happen in the next day or two for the maths to work at all.
+Two drafts sit in that thread. Send one:
 
-There are now **two drafts in the thread.** Send one. Either is a good outcome; only silence
-is a bad one.
-
-| | Draft | When to send it |
+| | | |
 |---|---|---|
-| **A** | **Take it — $2,000** | If the next seven days are genuinely clear. Card rate $1,500 for LinkedIn post + video, plus the rush premium Tarak explicitly invited |
-| **B** | **Pass, and ask for the Q4 pipeline** | If they're not clear. Declines cleanly, then pitches October–December at $1,500 with normal lead times |
+| **A** | **Take it — $2,000** | Only if this week is clear |
+| **B** | **Pass, pitch Q4 instead** | Declines cleanly, then puts October–December in front of a live 1stCollab buyer at $1,500 |
 
-**B is not a wasted email.** Turning down a rush you can't deliver, and saying so plainly,
-protects the rail — and it puts your Q4 inventory in front of a live 1stCollab buyer who just
-demonstrated he brings deals. `channels.md` is blunt about the risk on this rail: *"Sid has
-gone overdue on concepts and drafts here more than once."*
-
-**The only wrong answer is not replying.** That is precisely how Recall died in April.
+**If you do nothing else today, do this one.** It's a click. Silence is the only outcome that
+costs money — it's how Recall died in April.
 
 ---
 
-## Correction to something I've been reporting
+## 🔴 I need to tell you the plan isn't working, and why
 
-I've been calling Varun "11 days silent", then "14 days". That was the age of the *unsent
-draft*, not silence from Varun. **Varun last wrote in January 2026** — the Airtable deal.
-He has been quiet for seven months.
+Thirteen working days in:
 
-That makes the email better, not worse: it's not a chase, it's reopening a rail that paid
-$1,500 and went quiet — at the exact moment his colleague brought you a deal. **I've rewritten
-the draft to open on Tarak's Luma email**, which gives Varun a reason to reply now.
+| | Planned | Actual |
+|---|---:|---:|
+| Sends | ~130 | **4** |
+| Cold replies | ~6 | **0** |
+| **Inbound deals** | 0 | **1 ($2,000)** |
+| Booked | $2,000 | **$0** |
+
+The $32,000 plan needs ~750 cold touches by 30 November. At the actual rate that's about 20.
+**That isn't a plan missing by a margin — the assumption underneath it is wrong.**
+
+### But look at what did work
+
+| Lane | Effort | Result |
+|---|---|---|
+| Cold outbound | 3 sends | 0 replies |
+| **Paved** | **1 send** | Reply in **5.5 hours**, and a partner offering to sell for you |
+| **1stCollab** | **0 sends** | **A $2,000 deal arrived unprompted** |
+
+One email to Paved bought a sales team. **Zero** emails to 1stCollab still produced a live
+campaign, because their reps prospect *for* you. Meanwhile 25 sourced cold companies have
+produced nothing — because sending is the step that doesn't happen.
+
+### The version that fits your actual constraint
+
+You are not going to send 10 emails a day. A plan that needs it produces $0, which is what the
+last thirteen days produced. **Rails-first, about one action a day:**
+
+| Lane | Sep–Nov |
+|---|---:|
+| 1stCollab — reps bring deals, you quote | **$9,000–12,000** |
+| Paved bundles — listed once, Paved sells them | **$4,000–11,000** |
+| Re-pitch the 8 warm past sponsors | ~$3,000 |
+| Cold, at whatever volume happens | $0–3,000 |
+| **Total** | **~$16,000–29,000** |
+
+Short of $32,000, and far more honest than the cold plan. **Every number there depends on
+answering email, not on prospecting.** Full working in `target-32k.md` — the target still
+reads $32,000, because changing it is your call, not mine.
+
+**I'm cutting the daily ask to one action from here.** Sourcing continues in the background
+and stops being the headline, because it was never the constraint.
 
 ---
 
-## Allstacks bought a third time — draft updated
+## Sourced (background, not the point)
 
-TLDR Product Management, **28 Aug**, Product Studio again. That's the 7th, the 11th and the
-28th.
-
-Hersh Tapadia's email has been sitting drafted for 13 days saying *"in TLDR twice"*. It now
-says **three times, including the 28th** — a sharper and more current opening line. Subject
-updated too.
-
----
-
-## Atlassian: six placements in 18 days
-
-11, 20, 25, 26, 27 and 28 August. The 27th was the **State of AI SDLC summit on 22 September**
-— still the only prospect on the desk with a deadline of its own, and the DM to Claire Drumond
-is written and ready in `dm-queue.md`.
-
----
-
-## Sourced today
-
-| Company | Read |
-|---|---|
-| **Guru** ✅ | TLDR AI 31 Aug — ebook on AI agents amplifying outdated knowledge. Gated-content buyer, product/ops audience. Good fit |
-| **Databricks** ~ | TLDR AI 31 Aug — Genie data agents. Big budget, but aimed at data teams more than PMs. Lower priority |
-| **IBM** ❌ | TLDR AI 31 Aug — disqualified, same as Google Cloud and Amazon: no reachable buyer at that scale for $1,500 |
+**Figr AI ran a second time** — TLDR Product, 25 Aug and 1 Sep. Repeat buyer, small company,
+one person approves $1,500. Found their real LinkedIn URL by search rather than guessing a
+slug, and scraped it for a named contact. **Algolia** added (TLDR AI 1 Sep, hallucination
+white paper). AWS and Verda disqualified — no reachable buyer at that scale, and GPU infra
+isn't a PM audience.
 
 ---
 
@@ -73,37 +83,17 @@ is written and ready in `dm-queue.md`.
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| September pace target | **$10,000 by 30 Sep** |
+| September pace | $10,000 by 30 Sep |
 | Sent, all time | 4 |
-| **Days since last send** | **6** |
-| Working days to 30 Nov | **~63** |
+| **Days since last send** | **7** |
+| Working days to 30 Nov | ~62 |
 
-| Live deal | Value | State |
+| Deal | Value | State |
 |---|---:|---|
-| **Luma** (1stCollab) | **$2,000** | **Dies 7 Sep.** Two drafts ready |
-| Paved bundles | up to $5,500 | 11 days silent. Correction + chase drafted |
-| Vercel | $1,500 | Sent 26 Aug. **T2 due today** |
+| **Luma** | **$2,000** | **Last viable day** |
+| Paved | up to $5,500 | 12 days silent |
+| Vercel | $1,500 | T2 overdue |
 | Enterpret | $1,500 | T2 drafted |
 
----
-
-## Send today
-
-1. **Luma — draft A or draft B.** Four days left.
-2. **Paved** — correction + chase, 11 days.
-3. **Varun** — rewritten, and the Tarak reference makes it timely.
-4. **Hersh @ Allstacks** — updated with the third placement.
-5. **Claire Drumond DM** — the 22 Sep summit hook.
-
-Optimizely: **77 days**.
-
----
-
-## The read
-
-Six days without a send, and the desk's own diagnosis is holding: nothing here is short of
-prospects. There are four live deals, two of them inbound-warm, and $2,000 with four days on
-the clock.
-
-I've made the Luma decision as small as I can — two finished drafts, one click each. Beyond
-that it needs you.
+Ready when you are: Varun (rewritten), Hersh @ Allstacks (updated), Claire Drumond DM.
+Optimizely: **78 days**.

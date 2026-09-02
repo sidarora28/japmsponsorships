@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 1 Sep 2026 |
+| Today | 2 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~63 working days.**
+That leaves **~62 working days.**
 
 ## The daily quota
 
@@ -112,6 +112,68 @@ To stay on track, cumulative bookings should be roughly:
 
 Ramp is deliberately back-loaded — the first two weeks are pipeline-building with no closes,
 because nothing cold closes in under two weeks. **September is the month that decides this.**
+
+## 🔴 Re-forecast, 2 Sep — the plan's central assumption has not held
+
+**This is a decision for Sid, not a change the desk has made. The target still reads $32,000.**
+
+### What 13 working days actually produced
+
+| | Planned | Actual |
+|---|---:|---:|
+| Prospects contacted per day | 10 | **~0.3** |
+| Total sends (17 Aug – 2 Sep) | ~130 | **4** |
+| Cold replies | ~6 | **0** |
+| **Inbound deals received** | 0 | **1 ($2,000)** |
+| Booked | $2,000 | **$0** |
+
+The $32,000 plan rests on ~750 cold touches by 30 November. At the observed rate that is
+about **20**. This is not a plan missing by a margin — the assumption underneath it is wrong.
+
+### What has actually worked
+
+| Lane | Effort spent | Result |
+|---|---|---|
+| Cold outbound | 3 sends | 0 replies |
+| **Paved** | **1 send** | Reply in **5.5 hours**, bundles requested, Paved offering to sell them |
+| **1stCollab** | **0 sends** | **1 inbound deal, $2,000, unprompted** |
+
+**The rails produce; cold has not.** One email to Paved bought a partner who sells on Sid's
+behalf. Zero emails to 1stCollab still produced a live campaign, because their reps prospect
+*for* him. Meanwhile 24 sourced cold contacts have produced nothing, because sending is the
+step that doesn't happen.
+
+### The version of this that fits the actual constraint
+
+The constraint is Sid's time, and it is not going to become 10 emails a day. A plan that needs
+that is a plan that produces $0 — which is what the last 13 days produced.
+
+**Rails-first, roughly one action a day:**
+
+| Lane | Mechanism | Sep–Nov estimate |
+|---|---|---:|
+| **1stCollab** | Tarak and Varun bring campaigns; Sid replies with a rate | **$9,000–12,000** |
+| **Paved bundles** | Listed once, Paved's own sales team sells them | **$4,000–11,000** |
+| **Re-pitch the 8 warm past sponsors** | One afternoon, ~25% close | **~$3,000** |
+| Cold, at whatever volume happens | — | $0–3,000 |
+| **Total** | | **~$16,000–29,000** |
+
+Short of $32,000 at the midpoint, and far more plausible than the cold plan. **Every number in
+that table depends on replying to email, not on prospecting.**
+
+### The one change worth more than everything else
+
+**Answer inbound within 24 hours.** In 13 days exactly one inbound deal arrived and it has now
+sat 5 days. That single email is worth more than all 25 sourced companies combined, and it is
+the failure `CLAUDE.md` was written to stop.
+
+### What the desk is doing about it
+
+Reducing the daily ask. `TODAY.md` will lead with **one action**, not five. Sourcing continues
+in the background but is no longer reported as the headline, because it has never been the
+constraint.
+
+---
 
 ## Escalate immediately if
 

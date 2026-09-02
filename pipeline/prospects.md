@@ -29,11 +29,12 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | ✅ **BUNDLES SENT 21 Aug 07:21** | 21 Aug | chase 28 Aug | Deadline met. Sid's pricing improves on the draft — **Q4 Full Stack, 3 newsletter + 3 LinkedIn, $5,500**. ⚠️ **But the sent version quoted a 40% open rate and ~80,000 LinkedIn followers.** **Correction + 7-day chase now drafted for real, 28 Aug** — combined into one reply on the bundles thread. |
 | O13 | **Viktor** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
 | O14 | **Temporal** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. Reliability platform for AI systems. Dev-facing, publishes case studies + ebooks — already invests in content marketing. |
-| O15 | **Figr AI** | A | — searching | not sourced | not sent | — | — | TLDR Product sponsor 25 Aug. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
+| O15 | **Figr AI** | A | **⭐ Moksh Garg** — employer confirmed independently (posts Figr AI launches from his own profile), `linkedin.com/in/moksh-garg`. No email record | LinkedIn slug `figrdesign` **confirmed by search, not guessed** | not sent | — | — | 🔺 **TLDR Product sponsor TWICE — 25 Aug and 1 Sep.** Repeat buyer, small company (founding engineers, founder's office), so one person approves $1,500. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
 | O16 | **ngrok** | A | — **scrape returned 0 rows** (`ngrok` slug) |  not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. AI gateway for self-hosted models (ngrok.ai). Dev-infra buyer; moderate PM fit. |
 | O17 | **CData** | A | — **scrape returned 0 rows** (`cdata-software` slug) | not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. Promoting a report on Claude Code's limits when building an MCP server. **MCP is squarely an AI-PM topic — good fit.** |
 | O18 | **Guru** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Ebook: *The Knowledge Accuracy Gap* — AI agents amplifying outdated knowledge. Gated-content buyer, product/ops audience. **Good fit.** |
 | O19 | **Databricks** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Genie data agents. Large budget but aimed at data teams more than PMs. Lower priority. |
+| O20 | **Algolia** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 1 Sep. White paper on hallucination mitigation in enterprise search. Gated-content buyer; search is a PM topic. Moderate fit. |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
@@ -116,6 +117,8 @@ Logged so the same company isn't researched twice.
 | Hazard Hunt | TLDR AI 25 Aug | AI safety red-teaming. Niche research audience, not product. |
 | JumpCloud | TLDR AI 25 Aug | Identity and access management. Security/IT, not product. |
 | IBM | TLDR AI 31 Aug | AI and code analysis. No reachable buyer at that scale for a $1,500 placement — same call as Google Cloud and Amazon. |
+| AWS | TLDR AI 1 Sep | Agentic architecture guide. Same scale problem. |
+| Verda | TLDR AI 1 Sep | Instant GPU clusters. ML-infra audience, not product. |
 | Amazon | TLDR Product 4 Aug | Promoting Mik Kersten's *Output to Outcome*. On-audience, but no reachable buyer at Amazon scale for a $1,500 placement. |
 | Statsig | LinkedIn scrape | Returned only engineers + 1 AE. No marketing contact. Retry later. |
 | Dovetail | LinkedIn scrape | Every hit was a *different* Dovetail (Regulatory, + Co, Furniture, an OT practice). Wrong company. |
@@ -166,6 +169,34 @@ attribution, mostly consultants and job-seekers. Unusable. Starting from a *know
 scraping its employees gives candidates who are at least pre-qualified by the fact the company
 buys this media — but see the audit note below on why those candidates still are not facts.
 
+### ⛔⛔ 2 Sep — the correct URL does not fix the scraper either
+
+The rule after seven failed slug guesses was *"paste the real company URL."* That rule was
+**not sufficient**, and it cost a run to learn.
+
+Figr's real LinkedIn URL was found by web search — `linkedin.com/company/figrdesign`, confirmed,
+not guessed. Scraping it returned **30 rows spanning at least five different companies called
+FIGR**:
+
+| What came back | Actually |
+|---|---|
+| Harvesting & Curing Manager, Wholesale Trading, Procurement Manager | **A cannabis producer** |
+| Adi Atic, "Founder + Director" | **FIGR Architecture Studio** |
+| Ellie Craig, Anna Stejskal | **FIGR Ventures** |
+| Alana Ackerson, Monica Ventura | **Figure (FIGR)**, a blockchain company |
+| Aakriti Harjai | **FOUR FIGR Fashion Design** |
+
+Genuine figr.design people were in there — Mohit Yadav's headline literally reads
+*"Founding Engineer @figr.design"* — but they were a minority of the rows.
+
+**The corrected rule: the actor matches on company *name*, and a correct URL does not stop it.**
+For any company whose name is a word, an abbreviation, or shared across industries, the output
+is a mixture and every row must be verified individually before it is used. The URL discipline
+still matters; it just isn't sufficient on its own.
+
+**Cheapest reliable path is the email finder**, which returns the employer as a field rather
+than a headline claim. Run it on 2–3 candidates rather than trusting 30 scraped rows.
+
 ### ⛔ Scraper limit — stop paying to rediscover this
 
 The employee scraper matches on **name**, not on a verified company entity. For companies
@@ -211,7 +242,7 @@ verified list.
 
 | | |
 |---|---:|
-| Companies sourced | 25 |
+| Companies sourced | 26 |
 | Buyers named (raw, unverified) | 24 |
 | **Buyers verified** | **8** |
 | **Buyers purged as wrong-company** | **9** |
