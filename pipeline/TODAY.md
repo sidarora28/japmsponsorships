@@ -1,80 +1,70 @@
-# TODAY — Wednesday 2 September
+# TODAY — Thursday 3 September
 
-## One thing. Luma, and today is the last day it works.
+## Luma: draft A is effectively gone. Send B.
 
-**Live date is Monday 7 September.** Accept today → 48h for script (Friday 4th) → 72h for the
-draft (Monday 7th) → post Monday. That is at the wire with no slack and no room for the
-approval step to slip.
+Working to the stated windows: accept today → 48h script (Sat 5th) → 72h draft (Tue 8th).
+**The live date is Monday 7th.** It no longer fits.
 
-**Tomorrow the arithmetic stops working.** Draft A is viable today and not after.
+It isn't literally impossible — those windows are maximums, and a same-day script plus a
+weekend edit would make it. But that means beating the allowance on the one rail where
+`channels.md` records you running late before, in a week you're also interviewing.
 
-Two drafts sit in that thread. Send one:
+**So: send draft B.** It declines the rush cleanly and puts your October–December inventory in
+front of a 1stCollab buyer who just proved he brings deals. That converts a missed $2,000 into
+a live Q4 conversation, which is worth more than the $2,000 was.
 
-| | | |
-|---|---|---|
-| **A** | **Take it — $2,000** | Only if this week is clear |
-| **B** | **Pass, pitch Q4 instead** | Declines cleanly, then puts October–December in front of a live 1stCollab buyer at $1,500 |
-
-**If you do nothing else today, do this one.** It's a click. Silence is the only outcome that
-costs money — it's how Recall died in April.
+If you want A instead, it's still in the thread and the choice is yours. **The only bad
+outcome is the sixth day of silence.**
 
 ---
 
-## 🔴 I need to tell you the plan isn't working, and why
+## A correction: Optimizely isn't an email you can send
 
-Thirteen working days in:
+I've been reporting *"Optimizely: 78 days"* as though it were a reply sitting in your outbox.
+It isn't. Their 16 June repost request came through **1stCollab's in-app messaging**
+(`notifications@1stcollab.com`), so it can only be answered on the partnership page — not by
+email. There is nothing for me to draft.
 
-| | Planned | Actual |
-|---|---:|---:|
-| Sends | ~130 | **4** |
-| Cold replies | ~6 | **0** |
-| **Inbound deals** | 0 | **1 ($2,000)** |
-| Booked | $2,000 | **$0** |
+Two things that do work:
 
-The $32,000 plan needs ~750 cold touches by 30 November. At the actual rate that's about 20.
-**That isn't a plan missing by a margin — the assumption underneath it is wrong.**
+1. Reply on the 1stCollab partnership page (that's the actual fix, and it's ~30 seconds)
+2. The Varun draft now carries it, so he can nudge it internally
 
-### But look at what did work
-
-| Lane | Effort | Result |
-|---|---|---|
-| Cold outbound | 3 sends | 0 replies |
-| **Paved** | **1 send** | Reply in **5.5 hours**, and a partner offering to sell for you |
-| **1stCollab** | **0 sends** | **A $2,000 deal arrived unprompted** |
-
-One email to Paved bought a sales team. **Zero** emails to 1stCollab still produced a live
-campaign, because their reps prospect *for* you. Meanwhile 25 sourced cold companies have
-produced nothing — because sending is the step that doesn't happen.
-
-### The version that fits your actual constraint
-
-You are not going to send 10 emails a day. A plan that needs it produces $0, which is what the
-last thirteen days produced. **Rails-first, about one action a day:**
-
-| Lane | Sep–Nov |
-|---|---:|
-| 1stCollab — reps bring deals, you quote | **$9,000–12,000** |
-| Paved bundles — listed once, Paved sells them | **$4,000–11,000** |
-| Re-pitch the 8 warm past sponsors | ~$3,000 |
-| Cold, at whatever volume happens | $0–3,000 |
-| **Total** | **~$16,000–29,000** |
-
-Short of $32,000, and far more honest than the cold plan. **Every number there depends on
-answering email, not on prospecting.** Full working in `target-32k.md` — the target still
-reads $32,000, because changing it is your call, not mine.
-
-**I'm cutting the daily ask to one action from here.** Sourcing continues in the background
-and stops being the headline, because it was never the constraint.
+I should have checked where that message actually lived before putting it on a list of drafts
+for eight days running.
 
 ---
 
-## Sourced (background, not the point)
+## New draft: Product-Led Alliance — a warm lead nobody ever followed up
 
-**Figr AI ran a second time** — TLDR Product, 25 Aug and 1 Sep. Repeat buyer, small company,
-one person approves $1,500. Found their real LinkedIn URL by search rather than guessing a
-slug, and scraped it for a named contact. **Algolia** added (TLDR AI 1 Sep, hallucination
-white paper). AWS and Verda disqualified — no reachable buyer at that scale, and GPU infra
-isn't a PM audience.
+Fiona Standen, marketing manager at PLA, **approached you** in February about media
+partnerships for their AI Product Summit. You booked a call for 3 March. **The email thread
+ends there — nothing after the call, six months ago.**
+
+She's London-based, she runs summits, and summits buy media. It's a direct contact with **no
+marketplace fee**, which makes it worth more per dollar than the rails.
+
+Drafted at card: $1,500 LinkedIn, $750 newsletter. If she comes back proposing a promo swap or
+barter instead of cash — which media partnerships often are — that's yours to decide, not mine.
+
+---
+
+## What the re-pitch queue actually is
+
+`repitch-queue.md` claims "8 warm re-pitches, ~25% close, one afternoon." Working through it
+properly today, most of it collapses:
+
+| Re-pitch | Reality |
+|---|---|
+| Udacity, HubSpot, Superhuman AI, Product Faculty, Shift | All Paved. The file's own rule says go **through the rep** — so these are **one email to Yuvna**, and the 19 Aug email already asked about Udacity and HubSpot |
+| Airtable, Optimizely | Both 1stCollab → **one email to Varun**, already drafted |
+| **Product-Led Alliance** | **Direct. Genuinely separate. Drafted today** |
+
+So the warm lane is not eight emails. It's **three** — Yuvna, Varun, Fiona — and two of them
+were already written. That is a smaller number than the file advertised, and an honest one.
+
+It also means the Paved and Varun emails carry far more weight than they look like they do.
+Each one is really five re-pitches.
 
 ---
 
@@ -85,15 +75,18 @@ isn't a PM audience.
 | Booked | **$0 / $32,000** |
 | September pace | $10,000 by 30 Sep |
 | Sent, all time | 4 |
-| **Days since last send** | **7** |
-| Working days to 30 Nov | ~62 |
+| **Days since last send** | **8** |
+| Working days to 30 Nov | ~61 |
 
 | Deal | Value | State |
 |---|---:|---|
-| **Luma** | **$2,000** | **Last viable day** |
-| Paved | up to $5,500 | 12 days silent |
+| **Luma** | — | **A expired. Send B** |
+| Paved | up to $5,500 | 13 days silent — *and this is 5 re-pitches* |
 | Vercel | $1,500 | T2 overdue |
 | Enterpret | $1,500 | T2 drafted |
 
-Ready when you are: Varun (rewritten), Hersh @ Allstacks (updated), Claire Drumond DM.
-Optimizely: **78 days**.
+**Ready to send:** Luma B · Paved · Varun · Fiona (new) · Hersh @ Allstacks
+**Ready to paste:** Claire Drumond (Atlassian, 22 Sep summit) · Moksh Garg (Figr)
+**30 seconds, no draft needed:** Optimizely repost, on the 1stCollab partnership page
+
+Nothing sourced today. It isn't the constraint and I've stopped pretending it is.

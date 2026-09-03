@@ -51,6 +51,47 @@ Asking a brand for new budget while you owe them work is how a warm lead goes co
 
 ---
 
+## ⚠️ 3 Sep — this queue is smaller than it looks
+
+Worked through properly, "8 warm re-pitches" is not 8 emails.
+
+The file's own rule says marketplace re-pitches go **through the rep**, not around them. Apply
+that consistently and the lane collapses:
+
+| Re-pitches | Rail | Actually |
+|---|---|---|
+| R1 Udacity · R2 HubSpot · R6 Superhuman AI · R10 Product Faculty · R12 Shift | Paved | **One email to Yuvna.** The 19 Aug email already named Udacity and HubSpot |
+| R4 Airtable · R3 Optimizely | 1stCollab | **One email to Varun**, drafted |
+| **R13 Product-Led Alliance** | **Direct** | **Genuinely separate — drafted 3 Sep** |
+
+**The warm lane is three emails, not eight, and two were already written.**
+
+That is worth knowing for two reasons. It means the ~25% close rate applies to a much smaller
+base than "15 messages" implied — so the ~2 deals this lane was projected to produce rests on
+three sends, not fifteen. And it means **the Paved and Varun emails are each carrying five
+re-pitches**, which makes them considerably more valuable than they appear on a to-do list.
+
+### R3 Optimizely — not an email at all
+
+Their 16 June repost request arrived through **1stCollab's in-app messaging**
+(`notifications@1stcollab.com`). It can only be answered on the partnership page. Earlier runs
+listed it as an unsent draft for eight days; there was never a draft to send. Sid replies
+in-app, and the Varun email now mentions it so he can nudge internally.
+
+### R13 Product-Led Alliance — drafted 3 Sep
+
+Fiona Standen (`fiona@pmmalliance.com`), marketing manager, **approached Sid** in Feb 2026
+about media partnerships for their AI Product Summit. A call was booked for 3 March. **The
+thread ends there** — no email after the call, six months ago.
+
+London-based, runs summits, and summits buy media. Direct contact, **no marketplace fee**.
+Drafted at card: $1,500 LinkedIn, $750 newsletter.
+
+⚠️ Media partnerships are often proposed as promo swaps rather than cash. **A barter or
+affiliate swap is outside the desk's authority — if she counters that way it goes to Sid.**
+
+---
+
 ## The re-pitch message
 
 Short. The relationship does the work, not the copy.

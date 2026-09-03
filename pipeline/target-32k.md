@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 2 Sep 2026 |
+| Today | 3 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~62 working days.**
+That leaves **~61 working days.**
 
 ## The daily quota
 
@@ -154,7 +154,7 @@ that is a plan that produces $0 — which is what the last 13 days produced.
 |---|---|---:|
 | **1stCollab** | Tarak and Varun bring campaigns; Sid replies with a rate | **$9,000–12,000** |
 | **Paved bundles** | Listed once, Paved's own sales team sells them | **$4,000–11,000** |
-| **Re-pitch the 8 warm past sponsors** | One afternoon, ~25% close | **~$3,000** |
+| **Re-pitch the warm past sponsors** | **Three emails, not eight** — Yuvna covers 5, Varun covers 2, Fiona is direct | **~$3,000** |
 | Cold, at whatever volume happens | — | $0–3,000 |
 | **Total** | | **~$16,000–29,000** |
 

@@ -28,10 +28,11 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 | ID | Brand | Rail | Contact | Stage | Placement | Value | Next action | Due | Updated |
 |---|---|---|---|---|---|---:|---|---|---|
-| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **→ SID: send draft A ($2,000, take it) or draft B (pass + pitch Q4).** Day 4 unanswered | **DIES 7 SEP** | 1 Sep 2026 |
-| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID | **overdue — 11 days silent** | 1 Sep 2026 |
-| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. **T2 due today** | **1 Sep** | 1 Sep 2026 |
-| D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 1 Sep 2026 |
+| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **→ SID: send draft B (pass + pitch Q4).** Draft A no longer fits the 7 Sep live date | **A EXPIRED** | 3 Sep 2026 |
+| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID. **Also carries 5 Paved re-pitches** | **overdue — 13 days silent** | 3 Sep 2026 |
+| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. **T2 overdue** | overdue | 3 Sep 2026 |
+| D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 3 Sep 2026 |
+| D5 | **Product-Led Alliance** | Direct | Fiona Standen — `fiona@pmmalliance.com` | `INBOX` (dormant since Mar) | Q4 LinkedIn / newsletter | $1,500 | **Re-pitch drafted 3 Sep** → SID. ⚠️ If she counters with a promo swap, that's Sid's call | — | 3 Sep 2026 |
 
 ---
 
