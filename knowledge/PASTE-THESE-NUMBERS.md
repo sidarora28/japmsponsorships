@@ -9,16 +9,16 @@ bottom.
 
 ```
 ~75,000 LinkedIn followers
-20,170 newsletter subscribers
-25.4% open rate (trailing 3 months)
-1.4–1.6% click rate
+~20,100 newsletter subscribers
+25.8% open rate (trailing 3 months)
+1.6% click rate
 ~60% US/UK, audience is AI product managers and product builders
 ```
 
 ## One-liner — for a short pitch
 
 ```
-~75,000 LinkedIn followers and 20,170 newsletter subscribers at a 25.4% open rate, roughly 60% US/UK.
+~75,000 LinkedIn followers and ~20,100 newsletter subscribers at a 25.8% open rate, roughly 60% US/UK.
 ```
 
 ## Rates
@@ -48,8 +48,8 @@ Two emails have now gone out with different, higher numbers than the verified on
 
 | Sent | Date | Claimed | Verified |
 |---|---|---|---|
-| Paved bundles | 21 Aug | **40%** open, ~80,000 followers | 25.4%, ~75,000 |
-| Vercel (Nicolas Kaden) | 26 Aug | **32%** open, 21,000 subscribers | 25.4%, 20,170 |
+| Paved bundles | 21 Aug | **40%** open, ~80,000 followers | 25.8%, ~75,000 |
+| Vercel (Nicolas Kaden) | 26 Aug | **32%** open, 21,000 subscribers | 25.8%, ~20,100 |
 
 Neither figure is wildly off, and both are the kind of thing that happens when you're typing
 quickly from memory rather than deliberately inflating anything. But the effect is the same.
@@ -60,8 +60,12 @@ quickly from memory rather than deliberately inflating anything. But the effect 
   documented shortfall inside the platform that brokered the deal.
 - **Vercel would check.** They run a large developer-marketing programme; the numbers get
   compared against what actually happens.
-- **25.4% on a 20K B2B list is genuinely good.** It doesn't need help. Overstating buys nothing
+- **25.8% on a 20K B2B list is genuinely good.** It doesn't need help. Overstating buys nothing
   and risks the one thing that can't be rebought — being believed next time.
 
 **The fix is mechanical, not a discipline problem.** Paste from this file. It takes two seconds
 and removes the failure mode entirely.
+
+
+**Re-verified from Beehiiv 4 Sep 2026.** Open and click rates have both moved up since
+August; subscribers are 63 lower. Use the approximate figure — it stays true as the list moves.

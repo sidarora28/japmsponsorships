@@ -57,7 +57,7 @@ The scraper attributed all of these to companies they do not work at. Full evide
 
 ---
 
-## 🔥 Inbound — 28 Aug, 1stCollab / Luma
+## ❌ Inbound — 28 Aug, 1stCollab / Luma — EXPIRED UNANSWERED 4 Sep
 
 **The first inbound deal of the campaign, and it arrived while the desk was hunting cold.**
 
@@ -69,7 +69,19 @@ exclusivity required. **Content must be posted by 7 September.**
 **It sat unread for three days**, over a weekend, while the daily run went looking for cold
 prospects. That is the `CLAUDE.md` diagnosis — *inbound expires unanswered* — repeating live.
 
-Reply drafted 31 Aug at **$2,000**: the $1,500 card rate for LinkedIn post + video, plus a
+**Outcome: expired.** The reply was drafted 31 Aug and never sent. The 7 September live date
+cannot be reached from 4 September working to the stated 48h/72h windows. Logged as **L5** in
+`pipeline.md`, alongside Promoted, Coworker.ai, Rezonant and Recall — all of which died the
+same way.
+
+**L5 is different from the other four.** Those expired before this desk existed. Luma expired
+with a finished draft in Gmail, a named contact, an agreed price, and a daily report putting it
+at the top of the list for four consecutive days. Nothing was missing except the send.
+
+Draft B (decline cleanly, pitch Q4 at card) is still worth sending — the rail matters more
+than this one campaign, and Tarak has now demonstrated he brings deals.
+
+Original reply drafted 31 Aug at **$2,000**: the $1,500 card rate for LinkedIn post + video, plus a
 rush premium. Tarak explicitly invited one — *"please feel free to have your rates reflect the
 additional effort required for the rush turnaround."* Quoting above card is not repricing and
 is not discounting; the number is still Sid's to change before sending.
@@ -126,6 +138,15 @@ Logged so the same company isn't researched twice.
 | **Passionfroot rail** | — | **Closed 18 Aug, Sid's call.** Hugo not contacted; Promoted and Rezonant no longer recoverable. |
 
 ---
+
+### 🔧 Tooling note 4 Sep — `update_draft` detaches a reply from its thread
+
+Updating the Paved correction with fresh Beehiiv figures moved it off the original bundles
+thread onto its own. The recipients, cc and subject survived; the quoted history did not.
+
+Impact here is cosmetic — the subject matches so it threads on Yuvna's side, and the body says
+"the bundles I sent over on the 21st" explicitly. **But the rule going forward: for a draft
+that is a reply, create a new draft rather than updating the existing one.**
 
 ### ⚠️ Correction 1 Sep — Varun was not "14 days silent"
 

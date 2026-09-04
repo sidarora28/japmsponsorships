@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 3 Sep 2026 |
+| Today | 4 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~61 working days.**
+That leaves **~60 working days.**
 
 ## The daily quota
 
@@ -124,7 +124,7 @@ because nothing cold closes in under two weeks. **September is the month that de
 | Prospects contacted per day | 10 | **~0.3** |
 | Total sends (17 Aug – 2 Sep) | ~130 | **4** |
 | Cold replies | ~6 | **0** |
-| **Inbound deals received** | 0 | **1 ($2,000)** |
+| **Inbound deals received** | 0 | **1 ($2,000) — expired unsent 4 Sep** |
 | Booked | $2,000 | **$0** |
 
 The $32,000 plan rests on ~750 cold touches by 30 November. At the observed rate that is
@@ -160,6 +160,19 @@ that is a plan that produces $0 — which is what the last 13 days produced.
 
 Short of $32,000 at the midpoint, and far more plausible than the cold plan. **Every number in
 that table depends on replying to email, not on prospecting.**
+
+### 4 Sep — the experiment ran and gave an answer
+
+Luma was the cleanest possible test of where the bottleneck sits. An inbound deal, on the best
+rail, in Sid's top format, from a buyer who invited a higher price, with a named contact, a
+finished draft, and four daily reports naming it the top priority.
+
+**It expired unsent.** That removes sourcing, verification, drafting, pricing and prioritisation
+as candidate constraints. What remains is the send.
+
+No amount of additional desk output changes that number. Ten more prospects a day against an
+unworked queue is motion, not progress — and continuing to produce it would be the desk lying
+to itself about what it is achieving.
 
 ### The one change worth more than everything else
 

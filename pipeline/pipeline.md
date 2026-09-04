@@ -28,7 +28,7 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 | ID | Brand | Rail | Contact | Stage | Placement | Value | Next action | Due | Updated |
 |---|---|---|---|---|---|---:|---|---|---|
-| **D1** | **Luma** (Layers) | 1stCollab | **Tarak Duggal**, Creator Partnerships Lead — `tarak@1stcollab.com` | **`INBOX` → reply drafted** | 1x LinkedIn video post | **$2,000** | **→ SID: send draft B (pass + pitch Q4).** Draft A no longer fits the 7 Sep live date | **A EXPIRED** | 3 Sep 2026 |
+| ~~D1~~ | ~~**Luma**~~ | 1stCollab | Tarak Duggal — `tarak@1stcollab.com` | **`LOST`** | 1x LinkedIn video post | **$2,000** | **Moved to LOST (L5).** Draft B (pass + pitch Q4) still worth sending to keep the rail warm | — | 4 Sep 2026 |
 | D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID. **Also carries 5 Paved re-pitches** | **overdue — 13 days silent** | 3 Sep 2026 |
 | D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. **T2 overdue** | overdue | 3 Sep 2026 |
 | D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 3 Sep 2026 |
@@ -52,9 +52,15 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 | L2 | Coworker.ai | Passionfroot | $480 | Expired unanswered — **recoverable**, see B6 | May 2026 |
 | L3 | Rezonant | Passionfroot | ? | Never answered — **recoverable**, see B7 | Apr 2026 |
 | L4 | Recall | 1stCollab | ~$1,200 | Match never actioned — **recoverable**, see B8 | Apr 2026 |
+| **L5** | **Luma** (Layers) | **1stCollab** | **$2,000** | **Rush campaign, 7 Sep live date. Arrived 28 Aug, reply drafted 31 Aug, never sent. Expired unanswered.** | **Sep 2026** |
 
-> All four died the same way: nobody replied. Combined, ~$3–4K in two months. This table is
-> here as a standing argument for the 24-hour rule.
+> **All five died the same way: nobody replied.** Combined, ~$5–6K. This table is here as a
+> standing argument for the 24-hour rule.
+>
+> **L5 is the one that matters, because the desk was running.** Promoted, Coworker.ai, Rezonant
+> and Recall all died before there was a desk. Luma died *with* a finished draft sitting in
+> Gmail for four days and a daily report naming it as the top priority. The bottleneck is not
+> sourcing, not contact discovery, not drafting, and not knowing what to do. **It is the send.**
 
 ---
 
