@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 4 Sep 2026 |
+| Today | 7 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~60 working days.**
+That leaves **~59 working days — but see the absence below.**
 
 ## The daily quota
 
@@ -160,6 +160,54 @@ that is a plan that produces $0 — which is what the last 13 days produced.
 
 Short of $32,000 at the midpoint, and far more plausible than the cold plan. **Every number in
 that table depends on replying to email, not on prospecting.**
+
+### 🔴 7 Sep — Sid is away until 28 September
+
+Confirmed from his own email of 6 Sep: *"we are not in London until the 28th of Sep."* Figma
+interview 10 Sep, Wise interview scheduled.
+
+**This is the answer to the question the desk put on 4 Sep**, and it is option 2 — the time
+isn't there right now. Not disengagement; a calendar.
+
+#### What it does to the arithmetic
+
+| | |
+|---|---:|
+| Working days to 30 Nov | ~59 |
+| **Minus 7–28 September** | **~38** |
+| Rails-first projection, was ~$16–29K | **~$10–20K** |
+
+**$32,000 is not reachable on any honest reading.** It was already resting on a sending rate
+that never materialised; removing three of the four weeks in which Q4 inventory is actually
+bought settles it. `CLAUDE.md` is explicit that Q4 gets booked in September and that outbound
+should be in market by early September.
+
+Recording this rather than quietly carrying a number nobody believes. **The target line above
+still says $32,000 because changing it is Sid's call, not the desk's.**
+
+#### What still works while he's away
+
+Exactly one thing: **a listed Paved bundle.** Yuvna offered to push bundles through Paved's own
+sales and marketing once live. It is the only lane in the entire plan that produces revenue
+without Sid replying to anything.
+
+That reframes the Paved chase from "one of five overdue emails" to **the single highest-value
+action available**, and it has been sitting drafted while the listing goes unbuilt for 17 days.
+
+Everything else — Varun, Fiona, Allstacks, both DMs — requires a reply and therefore waits.
+
+#### The one thing that dies rather than waits
+
+**Atlassian.** Their State of AI SDLC summit is 22 September. A placement that moves
+registrations must run in the fortnight before it, so the approach has to go by ~15 Sep. Six
+TLDR placements in 18 days says the budget is real. This is the only item on the desk that is
+*gone* rather than delayed — and it's a paste from `dm-queue.md`, not a draft.
+
+#### Desk behaviour for the absence
+
+Daily runs reduce to: check inbound, draft a same-day reply to anything live, stay quiet
+otherwise. **No sourcing** — adding prospects to an unworked queue during an absence is motion,
+not progress. Recommended that the trigger move to weekly until 28 Sep; that is Sid's to change.
 
 ### 4 Sep — the experiment ran and gave an answer
 

@@ -1,78 +1,87 @@
-# TODAY — Friday 4 September
+# TODAY — Monday 7 September
 
-## Luma expired. It's the fifth inbound deal to die unanswered.
+## The answer to Friday's question is in the inbox: you're away until 28 September
 
-$2,000, arrived 28 August, reply drafted 31 August, never sent. The 7 September live date
-can't be reached from today. Logged as **L5** in `pipeline.md`.
+From your reply to the building concierge on 6 Sep: *"we are not in London until the 28th of
+Sep."* Plus a Figma interview on the 10th and a Wise interview scheduled.
 
-The other four in that table — Promoted, Coworker.ai, Rezonant, Recall — all died the same
-way, and all of them died *before this desk existed*.
-
-**L5 is the one that matters.** It had a named contact, an agreed price, a finished draft in
-Gmail, and four consecutive daily reports putting it at the top of the list. Nothing was
-missing except the send.
-
-Draft B is still worth sending. It declines cleanly and pitches Q4 — the rail is worth more
-than the campaign was, and Tarak has now proved he brings deals.
+That's a real answer, and it changes the plan rather than the report. **Q4 inventory is bought
+in September** — `CLAUDE.md` says outbound should be in market by early September, not October.
+Three of those four weeks are now gone.
 
 ---
 
-## Where this actually stands
+## One thing matters more than everything else combined: Paved
+
+**It is the only lane that earns money while you are away.**
+
+Every other deal needs you to reply — Varun, Fiona, Allstacks, the DMs. A **listed Paved
+bundle sells itself**: Yuvna said Paved pushes bundles through their own sales and marketing
+once they're live. You do nothing after the listing goes up.
+
+**Status: 17 days silent.** The bundles went over on 21 August and have not been listed. The
+draft chases that and carries the corrected figures, which have to land before the listing is
+built because Paved requires post-send stats.
+
+That draft also carries **five warm re-pitches** — Udacity, HubSpot, Superhuman AI, Product
+Faculty and Shift all run through Yuvna.
+
+> **If you send exactly one email in the next three weeks, send this one.** It's the only one
+> that keeps working after you close the laptop.
+
+---
+
+## What expires while you're away
+
+| | Expires | Note |
+|---|---|---|
+| **Atlassian — Claire Drumond DM** | **~15 Sep** | The State of AI SDLC summit is 22 Sep. A placement that moves registrations has to run in the fortnight before. Six TLDR placements in 18 days says the budget is real. Dead on your return |
+| Vercel T2 | mid-Sep | Sent 26 Aug, no reply. Lapses without a follow-up |
+| Enterpret T3 | ~mid-Sep | T2 still undrafted-unsent |
+| **Q4 selling window** | **30 Sep** | Brands allocate Q4 in September. Reaching them on 28 Sep is late, not impossible |
+
+Atlassian is the only one that's genuinely gone rather than just delayed — and it's a paste,
+not a draft. `dm-queue.md`, two minutes.
+
+---
+
+## The plan, re-scoped for the actual calendar
+
+Selling days to 30 November were ~60. **Take out 7–28 September and it's ~38.**
 
 | | |
 |---|---:|
-| Working days | **16** |
-| Sends | **4** |
-| Cold replies | **0** |
-| Inbound received | 1 |
-| Inbound converted | **0** |
-| **Booked** | **$0 / $32,000** |
-| Drafts ready and unsent | **7** |
+| Booked | **$0 / $32,000** |
+| Realistic selling days left | **~38** |
+| Rails-first projection (was ~$16–29K) | **~$10–20K** |
 
-Sixteen days of sourcing, verification, drafting and reporting have produced $0, and the
-single deal that arrived on its own expired on the desk. **The constraint has never once been
-the thing I can do.** I can find buyers, verify them, write the emails and tell you which one
-matters most. I have done all of that. None of it converts without you hitting send.
+$32,000 was already resting on assumptions that hadn't held. With three weeks out it isn't
+reachable on any honest reading. **That is not a reason to do nothing — it's a reason to pick
+the two or three things that still work and let the rest go.**
 
-So the useful question is not "what else should the desk find." It's which of these is true:
-
-1. **The drafts are wrong** — tone, price, targets. Tell me and I rebuild them today.
-2. **The time isn't there.** Then $32,000 is not the plan; the rails-first ~$16–29K version in
-   `target-32k.md` is, and it needs about one email a week, not ten a day.
-3. **Sponsorship isn't the priority right now.** Entirely reasonable — in which case the daily
-   routine should go weekly and stop generating a report nobody needs.
-
-I can't pick that for you, and I'd rather ask once than produce a sixteenth identical report.
+Those are: **Paved listed** (passive revenue), **Varun** (his reps prospect for you), and
+**one afternoon on 28 Sep** working the re-pitches for November–December.
 
 ---
 
-## Audience numbers re-verified from Beehiiv today
+## What I'm changing at this end
 
-Every pending draft quotes these, so I checked them against the API rather than the file:
+The routine is firing a full daily hunt into a three-week absence, which produces noise you'll
+return to as a backlog. **I'd suggest moving it to weekly until 28 September** — it's your
+trigger, so I haven't touched it, but say the word and I will.
 
-| | Was | **Now** |
-|---|---:|---:|
-| Subscribers | 20,170 | **20,107** |
-| Open rate | 25.4% | **25.82%** ▲ |
-| Click rate | 1.4–1.6% | **1.61%** ▲ |
-
-**Nothing is overstated** — engagement moved up. Subscribers are 63 lower, a 0.3% difference,
-so I have not rewritten seven drafts over it. Going forward the phrasing is **"~20,100
-subscribers at a 25.8% open rate"**, which stays true as the list moves.
-
-**The Paved correction has been updated**, because accuracy is that email's entire purpose and
-it feeds a listing Paved sells against.
-
-One number worth having: **1,153 of 2,097 new subscribers came from paid social.** The
-inventory costs real cash to produce, which is a concrete argument against discounting.
+Meanwhile I'll keep the daily run to: check inbound, answer anything live, and stay quiet
+otherwise. **Anything that arrives while you're away gets a same-day draft**, so nothing
+repeats what happened to Luma.
 
 ---
 
-## Ready to send, unchanged
+## Ready when you are
 
-**Email:** Luma B · Paved (14 days silent — *and it carries 5 re-pitches*) · Varun (*2
-re-pitches*) · Fiona @ Product-Led Alliance · Hersh @ Allstacks
-**LinkedIn:** Claire Drumond (Atlassian — 22 Sep summit, ~2 weeks left) · Moksh Garg (Figr)
-**In-app, 30 seconds:** Optimizely repost on the 1stCollab partnership page
+**Send now (2 min):** Paved — 17 days, 5 re-pitches, the only passive lane
+**Paste before ~15 Sep:** Claire Drumond DM — the Atlassian summit
+**Whenever:** Varun · Fiona @ PLA · Hersh @ Allstacks · Luma B · Moksh Garg
+**In-app, 30 sec:** Optimizely repost
 
-Nothing sourced today, deliberately.
+Nothing sourced today. With three weeks out, adding prospects to an unworked queue would be
+the least useful thing I could do.

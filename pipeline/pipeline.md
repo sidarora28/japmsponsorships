@@ -29,8 +29,8 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 | ID | Brand | Rail | Contact | Stage | Placement | Value | Next action | Due | Updated |
 |---|---|---|---|---|---|---:|---|---|---|
 | ~~D1~~ | ~~**Luma**~~ | 1stCollab | Tarak Duggal — `tarak@1stcollab.com` | **`LOST`** | 1x LinkedIn video post | **$2,000** | **Moved to LOST (L5).** Draft B (pass + pitch Q4) still worth sending to keep the rail warm | — | 4 Sep 2026 |
-| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | Correction + chase drafted → SID. **Also carries 5 Paved re-pitches** | **overdue — 13 days silent** | 3 Sep 2026 |
-| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. **T2 overdue** | overdue | 3 Sep 2026 |
+| D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | **→ SID, highest-value action on the desk.** Carries 5 re-pitches, and a listed bundle is the ONLY lane that earns during the 7–28 Sep absence | **overdue — 17 days silent** | 7 Sep 2026 |
+| D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. T2 overdue; will lapse during the absence | overdue | 7 Sep 2026 |
 | D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 3 Sep 2026 |
 | D5 | **Product-Led Alliance** | Direct | Fiona Standen — `fiona@pmmalliance.com` | `INBOX` (dormant since Mar) | Q4 LinkedIn / newsletter | $1,500 | **Re-pitch drafted 3 Sep** → SID. ⚠️ If she counters with a promo swap, that's Sid's call | — | 3 Sep 2026 |
 
