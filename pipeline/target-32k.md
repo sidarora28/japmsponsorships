@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 7 Sep 2026 |
+| Today | 8 Sep 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -201,7 +201,13 @@ Everything else — Varun, Fiona, Allstacks, both DMs — requires a reply and t
 **Atlassian.** Their State of AI SDLC summit is 22 September. A placement that moves
 registrations must run in the fortnight before it, so the approach has to go by ~15 Sep. Six
 TLDR placements in 18 days says the budget is real. This is the only item on the desk that is
-*gone* rather than delayed — and it's a paste from `dm-queue.md`, not a draft.
+*gone* rather than delayed.
+
+**Update 8 Sep: it is now a drafted email, not a LinkedIn paste.** The email finder returned
+`cmetoyer2@atlassian.com` (Christopher Metoyer, Sr Manager Brand Creative Strategy), company
+verified against the database. Three weeks of LinkedIn DMs produced zero sends; email has
+produced four. Moving the best cold prospect onto the channel that actually gets used is worth
+more than the imperfect job title costs.
 
 #### Desk behaviour for the absence
 

@@ -32,6 +32,7 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 | D2 | **Paved bundles** | Paved | Yuvna Muthy Nunes | `QUOTED` | Q4 newsletter + LinkedIn bundles, listing | up to $5,500 | **→ SID, highest-value action on the desk.** Carries 5 re-pitches, and a listed bundle is the ONLY lane that earns during the 7–28 Sep absence | **overdue — 17 days silent** | 7 Sep 2026 |
 | D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. T2 overdue; will lapse during the absence | overdue | 7 Sep 2026 |
 | D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 3 Sep 2026 |
+| D6 | **Atlassian** | Direct | Christopher Metoyer — `cmetoyer2@atlassian.com` **verified 8 Sep** | `INBOX` | LinkedIn post before the 22 Sep summit | $1,500 | **Email drafted 8 Sep** → SID. **Send by ~15 Sep or the summit hook is gone** | **~15 Sep** | 8 Sep 2026 |
 | D5 | **Product-Led Alliance** | Direct | Fiona Standen — `fiona@pmmalliance.com` | `INBOX` (dormant since Mar) | Q4 LinkedIn / newsletter | $1,500 | **Re-pitch drafted 3 Sep** → SID. ⚠️ If she counters with a promo swap, that's Sid's call | — | 3 Sep 2026 |
 
 ---

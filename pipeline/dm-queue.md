@@ -27,7 +27,7 @@ Atlassian. That is a shorter list than before and an honest one.
 
 ---
 
-## ⭐ Atlassian — the only live DM target, and the best cold prospect on the desk
+## ~~⭐ Atlassian — DM target~~ → MOVED TO EMAIL 8 Sep
 
 **Five TLDR placements in 17 days**, and the latest is a dated event:
 
@@ -45,7 +45,12 @@ budget with a date on it and a team measured on signups. Sid's audience is that 
 audience. This is the one prospect on the desk with a reason to move this month rather than
 next quarter.
 
-**No email-finder record exists for anyone at Atlassian**, which is why this is LinkedIn.
+> ✅ **8 Sep: a verified email was found.** `cmetoyer2@atlassian.com` — Christopher Metoyer,
+> Sr Manager, Brand Creative Strategy, employer confirmed by the email-finder database. **The
+> pitch is now a drafted email, not a DM.** Do not also DM Claire Drumond — one person per
+> company. The material below is kept only as a fallback if the email bounces.
+
+**No email-finder record exists for Claire Drumond**, which is why she was LinkedIn-only.
 Open on the **company** fact — the summit, the TLDR run — never on a scraped job title.
 
 **⭐ Claire Drumond — Marketing, Jira / Trello / Teamwork** `linkedin.com/in/claireefisher`
@@ -192,7 +197,7 @@ URL or leave the company unsourced.
 
 | | |
 |---|---:|
-| **DM targets live today** | **2** (Atlassian — Claire Drumond · Figr AI — Moksh Garg) |
+| **DM targets live today** | **1** (Figr AI — Moksh Garg). Atlassian moved to email 8 Sep |
 | On the email rail instead | 6 verified + Enterpret |
 | Purged as wrong-company | 8 |
 | Unverified, held as backups | 13 |

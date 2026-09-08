@@ -118,3 +118,27 @@ Order of operations:
 4. **Verified** → draft an email against the confirmed role
 5. **Unverified** → LinkedIn only, and open on the company fact, never the person's role
 6. Send
+
+
+---
+
+## Added 8 September 2026 — Atlassian
+
+| Company | Contact | Email | Source |
+|---|---|---|---|
+| **Atlassian** | **Christopher Metoyer, Sr Manager, Brand Creative Strategy** | `cmetoyer2@atlassian.com` | **Email finder — employer returned as a database field, not a scraped headline** |
+
+**Why this matters more than one more contact.** Atlassian had been the strongest cold prospect
+on the desk for three weeks — six TLDR placements in 18 days plus a dated event — but with no
+email record it was queued as a LinkedIn DM. **No LinkedIn DM has ever been sent.** Email is
+the channel that actually gets used here, so this moves Atlassian from a lane that has produced
+nothing to one that has.
+
+The finder returned **no record** for Claire Drumond (`claireefisher`) or Moksh Garg. Those stay
+LinkedIn-only.
+
+⚠️ **Christopher is brand creative, not media buying.** Claire Drumond owns Jira marketing and
+would be the better buyer — but an imperfect contact on a working channel beats a perfect one
+on a channel that never fires. The draft asks to be routed if he isn't the owner.
+
+**One person per company.** Atlassian is now on the email rail; do not also DM Claire.
