@@ -17,7 +17,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 |---|---|---|---|---|---|---|---|---|
 | O1 | **Allstacks** | A | **Hersh Tapadia (CEO) ✅ verified** — Gage Hollen purged (Planview); Emily Luehrs unverified | `hersh.tapadia@allstacks.com` **verified** | drafted 19 Aug, unsent | — | — | **Sponsored TLDR Product THREE TIMES — 7 Aug, 11 Aug and 28 Aug.** Draft updated 1 Sep to open on the third placement. |
 | O2 | **Enterpret** | A | — (Michelle Luo purged — works at Checkbox) | `marketing@` inferred | T1 sent 19 Aug, **T2 chase drafted for real 28 Aug** | 19 Aug | T3 ~1 Sep | TLDR sponsor 12 Aug, Marty Cagan webinar 27 Aug. Sid also pinged their marketing lead on WhatsApp 17 Aug — handling direct. |
-| O3 | **Atlassian** (Jira Product Discovery) | A | **⭐ Claire Drumond (Mktg Jira/Trello)** · Christopher Metoyer (Brand Mktg) · Tanguy Crusson (founded JPD, champion not buyer) — **names only, no email record** | ✅ **`cmetoyer2@atlassian.com` verified 8 Sep** — Christopher Metoyer, Sr Mgr Brand Creative Strategy. **Email drafted 8 Sep** | drafted, unsent | — | — | 🔺🔺🔺 **Sponsored TLDR SIX TIMES IN 18 DAYS — and has a dated event** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph)**, **AI 27 Aug — "State of AI SDLC" summit, 22 September**, **Product 28 Aug (Teamwork Graph)**. Six in 18 days is a standing budget, not a campaign, and the summit puts a **date** on the spend. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
+| O3 | **Atlassian** (Jira Product Discovery) | A | **⭐ Claire Drumond (Mktg Jira/Trello)** · Christopher Metoyer (Brand Mktg) · Tanguy Crusson (founded JPD, champion not buyer) — **names only, no email record** | ✅ **`cmetoyer2@atlassian.com` verified 8 Sep** — Christopher Metoyer, Sr Mgr Brand Creative Strategy. **Email drafted 8 Sep** | drafted, unsent | — | — | 🔺🔺🔺 **Sponsored TLDR SEVEN TIMES IN THREE WEEKS — and has a dated event** — Product 11 Aug (JPD eBook w/ Kyle Poyar + Aakash Gupta), AI 20 Aug (teamwork graph), **Product 25 Aug (JPD again)**, **AI 26 Aug (Teamwork Graph)**, **AI 27 Aug — "State of AI SDLC" summit, 22 September**, **Product 28 Aug (Teamwork Graph)**, **Product 8 Sep (Jira Product Discovery again)**. **Seven in three weeks.** Not a campaign — a standing budget. The summit puts a date on part of it; the rest runs regardless. JPD targets product managers directly — the exact audience. The Poyar/Gupta eBook also shows they already buy creator-adjacent content. **Top cold prospect.** No email-finder record for anyone there — approach on LinkedIn, opening on the verified *company* fact (they are buying PM-audience media weekly), never on a scraped job title. |
 | O4 | **WorkOS** | A | — (Shannon Elliott purged — works at Orca Security) | none | not sent | — | — | TLDR sponsor 12 Aug (Pipes). Dev-tool adjacent. Needs a fresh, verified contact. |
 | O5 | **Gitar** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR quick-link 12 Aug. AI code review. |
 | O6 | **Granola** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 11 Aug. **AI notetaker — PMs are literally the user base.** Worth recovering by hand. |
@@ -27,7 +27,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O10 | **Tines** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. AI agent/automation platform. IT-governance lean, weaker PM fit. |
 | O11 | **PointFive** | A | — | **scraper unusable — common-word name** | not sent | — | — | TLDR AI sponsor 17 Aug. LLM cost analysis / token-spend reduction. **AI PMs own this problem.** |
 | O12 | **Paved (Yuvna + Kelly)** | Repeat | Yuvna Muthy Nunes; `kelly@paved.com` cc'd | `yuvna@paved.com` verified | ✅ **BUNDLES SENT 21 Aug 07:21** | 21 Aug | chase 28 Aug | Deadline met. Sid's pricing improves on the draft — **Q4 Full Stack, 3 newsletter + 3 LinkedIn, $5,500**. ⚠️ **But the sent version quoted a 40% open rate and ~80,000 LinkedIn followers.** **Correction + 7-day chase now drafted for real, 28 Aug** — combined into one reply on the bundles thread. |
-| O13 | **Viktor** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
+| O13 | **Viktor** | A | — | not sourced | not sent | — | — | 🔺 **TLDR AI sponsor TWICE — 20 Aug and 9 Sep.** Repeat buyer. AI employee platform in Slack/Teams, 3,200+ tool integrations. AI-workflow buyer. |
 | O14 | **Temporal** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 20 Aug. Reliability platform for AI systems. Dev-facing, publishes case studies + ebooks — already invests in content marketing. |
 | O15 | **Figr AI** | A | **⭐ Moksh Garg** — employer confirmed independently (posts Figr AI launches from his own profile), `linkedin.com/in/moksh-garg`. No email record | LinkedIn slug `figrdesign` **confirmed by search, not guessed** | not sent | — | — | 🔺 **TLDR Product sponsor TWICE — 25 Aug and 1 Sep.** Repeat buyer, small company (founding engineers, founder's office), so one person approves $1,500. AI that generates deployment-ready UI screens from a design system. Product/design buyer — strong audience fit. |
 | O16 | **ngrok** | A | — **scrape returned 0 rows** (`ngrok` slug) |  not sourced | not sent | — | — | TLDR AI sponsor 26 Aug. AI gateway for self-hosted models (ngrok.ai). Dev-infra buyer; moderate PM fit. |
@@ -35,6 +35,8 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O18 | **Guru** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Ebook: *The Knowledge Accuracy Gap* — AI agents amplifying outdated knowledge. Gated-content buyer, product/ops audience. **Good fit.** |
 | O19 | **Databricks** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Genie data agents. Large budget but aimed at data teams more than PMs. Lower priority. |
 | O20 | **Algolia** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 1 Sep. White paper on hallucination mitigation in enterprise search. Gated-content buyer; search is a PM topic. Moderate fit. |
+| O21 | **Pendo** | A | — | not sourced | not sent | — | — | 🔥 TLDR Product sponsor 8 Sep. Launching **Learning Lab** — free self-paced product courses on AI agents, product judgment and AI-native practice. **Pendo sells to product managers and is promoting education to them. Among the strongest audience fits sourced to date.** |
+| O22 | **Weights & Biases** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 9 Sep. AI governance ebook — review gates, ISO 42001, EU AI Act. ML-engineering lean, PM-adjacent. Moderate fit. |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
 
@@ -131,6 +133,7 @@ Logged so the same company isn't researched twice.
 | IBM | TLDR AI 31 Aug | AI and code analysis. No reachable buyer at that scale for a $1,500 placement — same call as Google Cloud and Amazon. |
 | AWS | TLDR AI 1 Sep | Agentic architecture guide. Same scale problem. |
 | Verda | TLDR AI 1 Sep | Instant GPU clusters. ML-infra audience, not product. |
+| Spectro Cloud | TLDR AI 9 Sep | AMD Instinct GPU servers. Infra, not product. |
 | Amazon | TLDR Product 4 Aug | Promoting Mik Kersten's *Output to Outcome*. On-audience, but no reachable buyer at Amazon scale for a $1,500 placement. |
 | Statsig | LinkedIn scrape | Returned only engineers + 1 AE. No marketing contact. Retry later. |
 | Dovetail | LinkedIn scrape | Every hit was a *different* Dovetail (Regulatory, + Co, Furniture, an OT practice). Wrong company. |
@@ -263,7 +266,7 @@ verified list.
 
 | | |
 |---|---:|
-| Companies sourced | 26 |
+| Companies sourced | 28 |
 | Buyers named (raw, unverified) | 24 |
 | **Buyers verified** | **9** |
 | **Buyers purged as wrong-company** | **9** |
