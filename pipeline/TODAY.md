@@ -1,43 +1,52 @@
-# TODAY — Thursday 10 September
+# TODAY — Friday 11 September
 
-**No sponsorship inbound. Nothing sent.** Two things worth two minutes.
+**No sponsorship inbound. Nothing sent.** Used the quiet day to build the 28 September restart
+pack, starting with the best prospect the desk has found.
 
 ---
 
-## 🔺 Atlassian ran a seventh time — and I've made the draft outlive its deadline
+## 🔥 Pendo — verified, drafted, and better qualified than anything before it
 
-TLDR Product, **8 September**, Jira Product Discovery again. That's **seven placements in
-three weeks**: 11, 20, 25, 26, 27, 28 August and 8 September.
+`jennifer.peterson@pendo.io` — **Jennifer Peterson, Senior Director of Marketing, Global Brand
+and Content.** Verified against the email-finder database, two consistent records.
 
-Seven in three weeks stops being a campaign and starts being a standing budget. The summit was
-only ever the sharpest hook on it — **the spend continues regardless.**
+Four things line up at once, which hasn't happened before:
 
-So there are now **two drafts** to `cmetoyer2@atlassian.com`:
+| | |
+|---|---|
+| **Audience fit** | Pendo sells product analytics *to* product managers. Your list is product managers. Not adjacent — identical |
+| **Live spend** | **Learning Lab** ran in TLDR Product on 8 Sep: free courses on AI agents and product judgment, co-produced with **Mind the Product** |
+| **Right function** | Global Brand *and Content* is the person who buys content distribution — not an adjacent title hoping to route it onward |
+| **Verified email** | Not inferred |
 
-| | Draft | Use |
+Compare Atlassian, where the only verified contact is brand creative rather than media buying.
+**Here the contact and the budget are the same person.**
+
+The draft opens on Learning Lab and makes the practitioner point, which matters more than usual
+when what they're selling is a course.
+
+---
+
+## Atlassian: 4 days on draft A
+
+Both drafts are ready. A leads on the 22 Sep summit and is better before ~15 Sep; B leads on
+seven placements in three weeks and works indefinitely after.
+
+---
+
+## The restart pack for the 28th
+
+Everything below is finished and current. Nothing needs research when you're back.
+
+| | Who | Hook |
 |---|---|---|
-| **A** | *"State of AI SDLC (22 Sep) → 75K AI PMs"* | **Before ~15 Sep.** Ties the placement to summit registrations |
-| **B** | *"Jira in TLDR 7 times in 3 weeks"* | **After the 15th.** Drops the summit, leads on the standing budget, pitches Q4 |
-
-**This is the Luma lesson applied early.** Luma had one time-boxed draft, the date passed, and
-nothing was left — I only wrote the fallback after it was too late. Atlassian now has its
-successor written *before* the deadline, so the prospect survives even if the hook doesn't.
-
-Either is one click. A is better if it goes this week.
-
----
-
-## 🔥 Pendo — the best audience fit sourced so far
-
-TLDR Product, 8 Sep. They're launching **Learning Lab** — free, self-paced product courses on
-AI agents, product judgment and AI-native practice.
-
-Pendo sells *to* product managers and is spending to reach them with education. That's not
-adjacent to your audience, it's the same audience with the same intent. Worth a contact hunt
-when there's a send to attach it to.
-
-Also: **Viktor ran a second time** (TLDR AI, 20 Aug and 9 Sep) — repeat buyer.
-**Weights & Biases** added, moderate fit. **Spectro Cloud** disqualified — GPU infra.
+| **Pendo** 🔥 | Jennifer Peterson | Learning Lab |
+| **Atlassian** | Christopher Metoyer | 7 TLDR placements (draft B) |
+| **Paved** | Yuvna | Listing + corrected figures + **5 re-pitches** |
+| **Varun** | 1stCollab | Q4, opens on Tarak's inbound |
+| **Fiona** | Product-Led Alliance | Reviving the March conversation |
+| **Allstacks** | Hersh Tapadia | 3 TLDR placements |
+| Enterpret · Luma B | | |
 
 ---
 
@@ -46,14 +55,9 @@ Also: **Viktor ran a second time** (TLDR AI, 20 Aug and 9 Sep) — repeat buyer.
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Realistic selling days left | ~35 |
-| Sends | 4 · Drafts ready | **9** |
+| Realistic selling days left | ~34 |
+| Sends | 4 · **Drafts ready 10** |
+| **Verified buyers** | **11** (+2) |
 | Companies sourced | 28 |
 
-| | Silent |
-|---|---:|
-| **Paved** — 5 re-pitches, the only passive lane | **20 days** |
-| Vercel · Enterpret · Optimizely | lapsed |
-
-**Two emails, both one click:** Atlassian A (best before 15 Sep) · Paved (20 days).
-Nothing else needs you before the 28th.
+**Paved: 21 days silent.** Still the only lane that earns while you're away, and still one click.

@@ -33,6 +33,7 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 | D3 | **Vercel** | Direct | Nicolas Kaden, Partnerships EMEA | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | Sent 26 Aug, no reply. T2 overdue; will lapse during the absence | overdue | 7 Sep 2026 |
 | D4 | **Enterpret** | Direct | `marketing@` + Sid's WhatsApp thread | `QUOTED` | Q4 LinkedIn / newsletter | $1,500 | T2 chase drafted → SID. Skip if WhatsApp is live | overdue | 3 Sep 2026 |
 | D6 | **Atlassian** | Direct | Christopher Metoyer — `cmetoyer2@atlassian.com` **verified 8 Sep** | `INBOX` | LinkedIn post before the 22 Sep summit | $1,500 | **Two drafts → SID.** A (summit) best before ~15 Sep; **B (7 placements in 3 weeks, no summit) works after** — the prospect survives the deadline | ~15 Sep for A | 10 Sep 2026 |
+| D7 | **Pendo** | Direct | Jennifer Peterson, Sr Dir Marketing, Global Brand & Content — `jennifer.peterson@pendo.io` **verified** | `INBOX` | Q4 LinkedIn / newsletter | $1,500 | **Email drafted 11 Sep** → SID. Best-qualified prospect on the desk | — | 11 Sep 2026 |
 | D5 | **Product-Led Alliance** | Direct | Fiona Standen — `fiona@pmmalliance.com` | `INBOX` (dormant since Mar) | Q4 LinkedIn / newsletter | $1,500 | **Re-pitch drafted 3 Sep** → SID. ⚠️ If she counters with a promo swap, that's Sid's call | — | 3 Sep 2026 |
 
 ---

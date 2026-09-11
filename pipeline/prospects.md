@@ -35,7 +35,7 @@ Email column: `verified` (confirmed against a contact database or received from 
 | O18 | **Guru** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Ebook: *The Knowledge Accuracy Gap* — AI agents amplifying outdated knowledge. Gated-content buyer, product/ops audience. **Good fit.** |
 | O19 | **Databricks** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 31 Aug. Genie data agents. Large budget but aimed at data teams more than PMs. Lower priority. |
 | O20 | **Algolia** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 1 Sep. White paper on hallucination mitigation in enterprise search. Gated-content buyer; search is a PM topic. Moderate fit. |
-| O21 | **Pendo** | A | — | not sourced | not sent | — | — | 🔥 TLDR Product sponsor 8 Sep. Launching **Learning Lab** — free self-paced product courses on AI agents, product judgment and AI-native practice. **Pendo sells to product managers and is promoting education to them. Among the strongest audience fits sourced to date.** |
+| O21 | **Pendo** | A | ✅ **Jennifer Peterson, Sr Dir Marketing — Global Brand & Content** (Brett Baker, Dir Marketing Eng, as backup) | `jennifer.peterson@pendo.io` **verified 11 Sep** | **drafted 11 Sep**, unsent | — | — | 🔥 TLDR Product sponsor 8 Sep. Launching **Learning Lab** — free self-paced product courses on AI agents, product judgment and AI-native practice. **Pendo sells to product managers and is promoting education to them. Among the strongest audience fits sourced to date.** |
 | O22 | **Weights & Biases** | A | — | not sourced | not sent | — | — | TLDR AI sponsor 9 Sep. AI governance ebook — review gates, ISO 42001, EU AI Act. ML-engineering lean, PM-adjacent. Moderate fit. |
 
 ### ✅ Verified and drafted, awaiting send — see `verified-contacts.md`
@@ -268,7 +268,7 @@ verified list.
 |---|---:|
 | Companies sourced | 28 |
 | Buyers named (raw, unverified) | 24 |
-| **Buyers verified** | **9** |
+| **Buyers verified** | **11** |
 | **Buyers purged as wrong-company** | **9** |
 | **Messages sent** | **4** (Enterpret + Paved 19 Aug; Paved bundles 21 Aug; **Vercel 26 Aug**) |
 | **Inbound deals received** | **1** 🔥 Luma via 1stCollab, 28 Aug |

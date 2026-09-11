@@ -142,3 +142,32 @@ would be the better buyer — but an imperfect contact on a working channel beat
 on a channel that never fires. The draft asks to be routed if he isn't the owner.
 
 **One person per company.** Atlassian is now on the email rail; do not also DM Claire.
+
+
+---
+
+## Added 11 September 2026 — Pendo
+
+| Company | Contact | Email | Source |
+|---|---|---|---|
+| **Pendo** | **Jennifer Peterson, Senior Director of Marketing, Global Brand and Content** | `jennifer.peterson@pendo.io` | **Email finder — employer returned as a database field, two matching records** |
+| Pendo (backup) | Brett Baker, Director, Marketing Engineering | `brett.baker@pendo.io` | Verified, but wrong function — do not use unless Jennifer bounces |
+
+**This is the best-qualified prospect the desk has produced.** Four things line up at once,
+which has not happened before:
+
+1. **Audience fit is total.** Pendo sells product analytics *to* product managers. Sid's list
+   is product managers.
+2. **They are spending on exactly this.** Learning Lab — free, self-paced courses on AI agents
+   and product judgment, co-produced with **Mind the Product** — ran in TLDR Product on 8 Sep.
+3. **The function is right.** Global Brand *and Content* is the person who buys content
+   distribution, not an adjacent title hoping to route it.
+4. **The email is verified**, not inferred, with two consistent records.
+
+Compare with Atlassian, where the only verified contact is brand creative rather than media
+buying. Here the contact and the budget are the same person.
+
+Hook used: Learning Lab. It is specific, true, current, and the placement being pitched is the
+one that sells courses.
+
+No record for Laura Baverman.
