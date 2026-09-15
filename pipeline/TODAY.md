@@ -1,24 +1,17 @@
-# TODAY — Monday 14 September
+# TODAY — Tuesday 15 September
 
 **No sponsorship inbound. Nothing sent. Nothing sourced.**
 
-Atlassian draft A (the 22 Sep summit) expires tomorrow. Draft B takes over and works
-indefinitely, so the prospect survives.
+**Atlassian draft A expired today.** The 22 Sep summit needed a fortnight's run-up. Draft B
+(*"Jira in TLDR 7 times in 3 weeks"*) takes over and has no expiry — the prospect is intact,
+the hook is gone. `RETURN-28-SEP.md` now warns against sending the wrong one.
 
-Paved: **24 days silent.**
-
----
-
-## Consolidated into one document
-
-Rewriting this file daily during an absence produces a stack nobody reads. Everything that
-matters now lives in **`pipeline/RETURN-28-SEP.md`** — one page, sixty seconds: the number, the
-four emails worth sending in order, what died and why.
-
-Daily runs from here stay minimal: check inbound, draft same-day anything live, log it, stop.
+Paved: **25 days silent.**
 
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Selling days left | ~32 |
+| Selling days left | ~31 |
 | Drafts ready | 10 · Verified buyers 11 |
+
+Everything that matters is in **`pipeline/RETURN-28-SEP.md`**.

@@ -29,7 +29,7 @@ Everything is written, current, and verified. No research left.
 | **1** | **Yuvna @ Paved** | Bundles have sat unlisted since 21 Aug. Carries **5 re-pitches** (Udacity, HubSpot, Superhuman AI, Product Faculty, Shift) and the corrected audience figures. **A listed bundle is the only thing that sells without you.** | up to **$5,500** |
 | **2** | **Jennifer Peterson @ Pendo** | Best-qualified prospect the desk has produced. Pendo sells to PMs; they're spending on PM education right now (Learning Lab, with Mind the Product); she owns Global Brand *and Content*; email verified | **$1,500** |
 | **3** | **Varun @ 1stCollab** | Reopens the rail that paid $1,500 same-day. Opens on Tarak's inbound. Carries the Airtable and Optimizely re-pitches | **$1,500+** |
-| **4** | **Christopher Metoyer @ Atlassian** | Seven TLDR placements in three weeks — a standing budget. Use **draft B** (the summit one has expired) | **$1,500** |
+| **4** | **Christopher Metoyer @ Atlassian** | Seven TLDR placements in three weeks — a standing budget. ⚠️ **Use draft B** — subject *"Jira in TLDR 7 times in 3 weeks"*. Do **not** send the summit draft; that date has passed | **$1,500** |
 
 Then, when there's time: Fiona @ Product-Led Alliance · Hersh @ Allstacks · Enterpret.
 
@@ -40,7 +40,7 @@ Then, when there's time: Fiona @ Product-Led Alliance · Hersh @ Allstacks · En
 | | Lost | Cause |
 |---|---:|---|
 | **Luma** (1stCollab) | **$2,000** | Arrived 28 Aug, drafted 31 Aug, never sent. 7 Sep live date passed |
-| Atlassian summit hook | — | 22 Sep event; the approach needed to go by ~15 Sep. Prospect survives via draft B |
+| Atlassian summit hook | — | **Expired 15 Sep.** 22 Sep event; the approach needed a fortnight's run-up. Prospect survives via draft B |
 
 Luma is the fifth inbound deal to expire unanswered (`pipeline.md`, L1–L5). The other four died
 before this desk existed. **Luma had a named contact, an agreed price, a finished draft and four
