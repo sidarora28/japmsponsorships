@@ -15,8 +15,8 @@ Two kinds of item here, and they're different jobs:
 
 | # | Item | Blocker | Action | Owner |
 |---|---|---|---|---|
-| B1 | **Miro / inBeat** | Invoice + expense receipts never sent | Draft invoice + compile receipts → Kat / Patricia. **Already earned.** | Sid to send |
-| B2 | **Anvil / CreatorBuzz** | Open campaign deliverable; Krizia following up | Get the deliverable scheduled and shipped, then invoice | Sid delivers |
+| B1 | **Miro / inBeat** | ⚠️ **UNVERIFIED — see audit below.** Nothing in Gmail supports a completed paid campaign | **Sid to confirm it happened before anything is invoiced** | Sid to confirm |
+| B2 | **Anvil / CreatorBuzz** | ⚠️ **UNVERIFIED — see audit below.** No Krizia thread exists in this mailbox | **Sid to confirm what is actually owed** | Sid to confirm |
 | B3 | **Gamma / Passionfroot** | Live links never supplied (Dec 2025 posts still unconfirmed as of May 2026) | Pull the live URLs, send to Passionfroot. May be blocking payment. | Desk drafts |
 | B4 | **Paved stats** | Any sent sponsored issue with unsubmitted stats | Audit all Paved sends. **Payout does not release until stats are in.** | Desk drafts |
 
@@ -53,3 +53,57 @@ Move each item to `pipeline/pipeline.md` once it becomes a live thread, and stri
 ## Status
 
 *Nothing worked yet — this is the opening state as of 17 Aug 2026. Update as items move.*
+
+
+---
+
+## 🔍 Collections audit — 16 September 2026
+
+CLAUDE.md ranks collections second, above outbound: *"Overdue invoices and unsubmitted stats are
+cash, not sales."* So with nothing else moving, the desk went to collect. **Two of the four items
+turned out not to be supported by evidence.**
+
+### B1 — Miro / inBeat: no completed campaign found
+
+The backlog described this as an unsent invoice plus expense receipts on money **already earned**.
+
+Searching Gmail for inBeat, Miro, Kat and Patricia returns exactly one relevant thread:
+
+> **1–2 July 2024** — Patricia (`patricia@inbeat.agency`), Community Manager at inBeat, writing
+> *"on behalf of Miro"*, cc `kat@inbeat.agency` and three Miro staff. It is an **invitation** to
+> *"an advanced look at"* a Miro product. She followed up once the next day. **No reply from Sid
+> appears in the thread.**
+
+Everything else matching "Miro" is Sid's own **$11.80/month Miro subscription** receipts.
+
+**There is no brief, no rate agreement, no deliverable confirmation, no invoice and no expense
+claim anywhere in the mailbox.** What exists is a two-year-old event invitation that looks
+unanswered.
+
+⚠️ **Do not invoice this.** Sending an invoice for a campaign that may never have run is worse
+than not chasing — it costs credibility with an agency that still books creators. **Sid needs to
+confirm from his own records whether this ever happened** before anything goes out.
+
+### B2 — Anvil / CreatorBuzz: no Krizia thread at all
+
+The backlog says there is an open campaign deliverable with Krizia Gallenero following up.
+
+**Searching Krizia, CreatorBuzz and Anvil returns no correspondence whatsoever.** The only hit is
+a LinkedIn notification from **21 April 2025**: *"Your post has been sponsored by Anvil"* — which
+is a paid-boost notice on a post that already went live, not an outstanding deliverable.
+
+On that evidence the Anvil post **ran**. What is unclear is whether anything is still owed in
+either direction. **Sid to confirm.**
+
+### What this means
+
+Both items entered the backlog as facts and have been carried as "money on the table" ever since.
+Neither is verifiable from the mailbox. They may be real and living in a platform dashboard
+(inBeat and CreatorBuzz both run their own portals) or in Sid's memory — but the desk cannot act
+on them, and **should not have listed them as earned without evidence.**
+
+**The rule, same as the one the Lovable contacts taught: an entry in a file is a claim, not a
+fact.** Backlog items asserting owed money need a source — a thread, an invoice, a contract —
+recorded next to them.
+
+B3 (Gamma live links) and B4 (Paved stats) are unaffected; both have documented email trails.
