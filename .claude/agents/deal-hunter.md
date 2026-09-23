@@ -104,6 +104,22 @@ low reply rate. Never invent a person who does not exist.
 Cold outbound alone reaches roughly half the target. Every day also check:
 
 - **New inbound** in Gmail across all five rails → draft a reply the same day
+
+### ⚠️ There are TWO mailboxes. Search both, every run.
+
+| Address | What lives there |
+|---|---|
+| `sid.arora.87@gmail.com` | Personal. Paved, 1stCollab, most marketplace rails |
+| **`sid@justanotherpm.com`** | **The business address. Brands write here directly.** |
+
+**The business mailbox went unsearched from 17 Aug to 22 Sep.** Three live sponsorship threads
+sat in it — including Outskill, where a buyer chased five times over three weeks for data the
+desk could have supplied in five minutes — while every daily report said "no sponsorship
+inbound."
+
+A search restricted to one account is not a search. Query both explicitly, for example
+`to:sid@justanotherpm.com OR from:sid@justanotherpm.com`, and never conclude "no inbound"
+without having done so.
 - **Rep silence** — if Varun (1stCollab), Hugo (Passionfroot) or Yuvna (Paved) has gone 14 days
   without a response, chase. They have brand demand queued; that is the cheapest volume there is.
 - **Past sponsors** — work `knowledge/target-brands.md` Tier 1 on a rota. Check

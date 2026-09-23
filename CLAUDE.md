@@ -78,6 +78,9 @@ offers this year. Outbound for Oct–Dec should be in market by early September,
 
 - **Gmail** — every rail (Passionfroot, Paved, 1stCollab, CreatorBuzz, inBeat) runs on email.
   This is the primary sensor. Drafts only.
+  - ⚠️ **TWO mailboxes: `sid.arora.87@gmail.com` and `sid@justanotherpm.com`.** The second is
+    the business address brands write to directly, and it went unsearched for five weeks while
+    three live deals sat in it. **Search both before ever reporting "no inbound."**
 - **Beehiiv** — audience numbers, post stats for advertiser reporting (Paved payouts depend
   on these being submitted).
 - **Stripe** — payment confirmation, chasing what never landed.
