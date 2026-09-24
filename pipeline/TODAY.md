@@ -1,45 +1,65 @@
-# TODAY — Wednesday 23 September
+# TODAY — Thursday 24 September
 
-**Outskill draft still unsent. No new sponsorship inbound in either mailbox.**
-
----
-
-## Made the mailbox fix permanent
-
-`CLAUDE.md` and `.claude/agents/deal-hunter.md` now both state that there are **two mailboxes**
-and that a search of one is not a search. The rule: never report "no inbound" without having
-queried `sid@justanotherpm.com` explicitly.
-
-That's the durable fix for the five weeks of false all-clears.
+**Two drafts written. Both from the business mailbox, both live.**
 
 ---
 
-## Outskill is still the top action
+## ⏳ Tiiny Host now has a deadline — and it lands the week you're back
 
-You were working in that mailbox on 21 Sep — a batch of course certificates went out from
-`sid@justanotherpm.com` that afternoon. So Sowmya's fifth chase is sitting in an inbox you're
-actively using.
+Marjorie chased again yesterday:
 
-The draft is written: percentage demographics, both corrected figures, price held at $750.
-**Two things only you can do** — attach the click dashboard screenshot, and check the reply
-sends from `sid@justanotherpm.com` rather than your personal address.
+> *"we are wrapping up next week our ambassador programme phase 1. It would be great to have
+> a timeline on this project."*
+
+That's her **third** ask (17, 21, 23 Sep). You last replied on 20 Sep saying you'd send an
+updated draft and didn't have enough footage for video.
+
+**Draft written, proposing — not committing — a timeline that fits inside their wrap-up:**
+
+| | |
+|---|---|
+| Updated draft | Wednesday 30 September |
+| Live | Friday 2 October |
+
+It also settles the visual question: static image rather than video, with the reasoning that a
+strong image beats a weak clip. Marjorie asked to keep concept and execution on your side, so
+the draft accepts that and only asks to *see* what Elston has.
+
+⚠️ **The commercial terms on this one aren't recorded anywhere.** "Ambassador programme" often
+means affiliate or barter rather than cash. If it is a swap, that's outside the desk's
+authority and yours to decide — worth confirming what was agreed before the post goes live.
 
 ---
 
-## Also in that mailbox today
+## Mark Progano — inbound collab enquiry
 
-**Matt Bellmann (`m.bellmann@checkyouai.com`)** — "a different perspective on how to increase
-revenue without building something new." That's an agency selling *to* you, not a sponsor.
-No action.
+Replied to your AI agents issue with *"Would you want to collab?"* — nothing specified. Short
+qualifying draft: asks what he has in mind and states card rates so the conversation starts at
+the right number.
+
+---
+
+## ✅ The send-from worry from Tuesday is resolved
+
+Both drafts came back with `authuser=sid@justanotherpm.com`. **Drafts created in that thread
+do sit in the business mailbox**, so the Outskill reply will send from the right address.
+
+---
+
+## Still the single most valuable click
+
+**Outskill — Sowmya, 24 days waiting, five chases, $750 agreed.** Draft ready with the
+percentage demographics and both corrected figures. The only part I can't do is the click
+dashboard screenshot.
 
 ---
 
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Live deals | 6 |
-| Drafts ready | 11 |
-| Selling days to 30 Nov | ~25 |
-| Outskill waiting | **23 days** · Paved **33 days** |
+| Live deals | **7** |
+| Drafts ready | **13** |
+| Selling days to 30 Nov | ~24 |
+| Outskill | **24 days** · Tiiny Host **deadline next week** · Paved **34 days** |
 
-Back on the 28th — five days.
+Back on Monday.
