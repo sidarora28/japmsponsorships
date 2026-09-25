@@ -1,65 +1,52 @@
-# TODAY — Thursday 24 September
+# TODAY — Friday 25 September
 
-**Two drafts written. Both from the business mailbox, both live.**
+## ✅ You handled Tiiny Host yourself — and beat my draft
 
----
+You replied to Marjo at 12:21 yesterday committing to **an updated draft plus visual options by
+Saturday**, and offering both videos and images rather than picking one. She came straight back:
+*"Okay brilliant, thanks Sid. Looking forward to it."*
 
-## ⏳ Tiiny Host now has a deadline — and it lands the week you're back
+That's faster and a tighter date than the 30 Sep I was proposing, and offering options is the
+better call.
 
-Marjorie chased again yesterday:
-
-> *"we are wrapping up next week our ambassador programme phase 1. It would be great to have
-> a timeline on this project."*
-
-That's her **third** ask (17, 21, 23 Sep). You last replied on 20 Sep saying you'd send an
-updated draft and didn't have enough footage for video.
-
-**Draft written, proposing — not committing — a timeline that fits inside their wrap-up:**
-
-| | |
-|---|---|
-| Updated draft | Wednesday 30 September |
-| Live | Friday 2 October |
-
-It also settles the visual question: static image rather than video, with the reasoning that a
-strong image beats a weak clip. Marjorie asked to keep concept and execution on your side, so
-the draft accepts that and only asks to *see* what Elston has.
-
-⚠️ **The commercial terms on this one aren't recorded anywhere.** "Ambassador programme" often
-means affiliate or barter rather than cash. If it is a swap, that's outside the desk's
-authority and yours to decide — worth confirming what was agreed before the post goes live.
+> ⚠️ **My Tiiny Host draft is now stale — don't send it.** It proposes 30 September and
+> image-only, which contradicts what you've already committed to. It's still sitting in that
+> thread. The live commitment is **Saturday 26 September**, and the deliverable is yours.
 
 ---
 
-## Mark Progano — inbound collab enquiry
+## 🔴 Outskill chased a sixth time this morning
 
-Replied to your AI agents issue with *"Would you want to collab?"* — nothing specified. Short
-qualifying draft: asks what he has in mind and states card rates so the conversation starts at
-the right number.
+> *"I am following up on my previous message. Please let me know when you will be able to send
+> the demo so we can proceed."*
 
----
+That's **31 Aug, 7, 10, 17, 22 and 25 September**. Twenty-five days. A buyer who has already
+accepted $750 and simply wants audience data.
 
-## ✅ The send-from worry from Tuesday is resolved
+**You were in that mailbox yesterday.** You read Marjo's email and replied to it within a day.
+So Outskill isn't being missed — it's being stepped past.
 
-Both drafts came back with `authuser=sid@justanotherpm.com`. **Drafts created in that thread
-do sit in the business mailbox**, so the Outskill reply will send from the right address.
+If I had to guess why: replying means correcting the figures you sent on 31 August. The stats
+in that thread say **21,000 subscribers, 40%+ open, 4–5% click**. The real ones are **20,107,
+25.8%, 1.6%** — and she is explicitly asking for the dashboard screenshot that shows the click
+number.
 
----
+**That's the whole blocker, and the draft already removes it.** It states the corrected figures
+plainly as a from-memory error, gives her the percentage breakdown she asked for, and holds the
+price at $750. She has chased six times across four weeks — this is someone who wants to buy,
+not someone looking for a reason to walk. 25.8% on a 20K B2B list is a good number.
 
-## Still the single most valuable click
-
-**Outskill — Sowmya, 24 days waiting, five chases, $750 agreed.** Draft ready with the
-percentage demographics and both corrected figures. The only part I can't do is the click
-dashboard screenshot.
+The only part I can't produce is the screenshot.
 
 ---
 
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Live deals | **7** |
-| Drafts ready | **13** |
-| Selling days to 30 Nov | ~24 |
-| Outskill | **24 days** · Tiiny Host **deadline next week** · Paved **34 days** |
+| Live deals | 7 · Drafts ready | 13 |
+| Selling days to 30 Nov | ~23 |
+| **Outskill** | **25 days, 6 chases** |
+| Tiiny Host | **deliverable due tomorrow** |
+| Paved | 35 days silent |
 
-Back on Monday.
+Back Monday.
