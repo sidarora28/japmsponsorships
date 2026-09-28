@@ -1,52 +1,70 @@
-# TODAY — Friday 25 September
+# TODAY — Monday 28 September · you're back
 
-## ✅ You handled Tiiny Host yourself — and beat my draft
+## 💰 New lane found: 15 live Beehiiv ad offers, unclaimed
 
-You replied to Marjo at 12:21 yesterday committing to **an updated draft plus visual options by
-Saturday**, and offering both videos and images rather than picking one. She came straight back:
-*"Okay brilliant, thanks Sid. Looking forward to it."*
+Beehiiv emailed on Saturday — *"You have fresh ad offers"* — so I queried the ad network
+directly. **Fifteen offers are sitting available and none have been claimed.**
 
-That's faster and a tighter date than the 30 Sep I was proposing, and offering options is the
-better call.
+All CPC. Highest payers, best fits first:
 
-> ⚠️ **My Tiiny Host draft is now stale — don't send it.** It proposes 30 September and
-> image-only, which contradicts what you've already committed to. It's still sitting in that
-> thread. The live commitment is **Saturday 26 September**, and the deliverable is yours.
+| Advertiser | Per click | Fit | Expires |
+|---|---:|---|---|
+| **Attio** | **$3.00** | CRM built for startups — strong PM fit | 3 Oct |
+| **Aligned** | **$3.00** | Buyer-collaboration tool, sales-side | 3 Oct |
+| **HubSpot for Startups** | **$2.62** | ⚠️ **Expires Wed** — and they've bought from you twice via Paved | **30 Sep** |
+| Modash · Kalshi · Remote.com · Voices.com | $2.25 | Mixed | 2–3 Oct |
+| Superhuman AI | $1.50 | Past sponsor | 3 Oct |
+| Oyster · SureThing · The Code | $1.50–1.87 | — | **30 Sep** |
+| The Rundown AI · The Deep View · Marketing Millennials · Coveron | $1.31–1.50 | Competing newsletters | 2–3 Oct |
+
+**What this is and isn't.** Beehiiv's own estimates are conservative — $3–6 per placement — so
+this is not $750 money. But it is **money on sends you are making anyway, with zero selling**,
+and it stacks: several can run across October issues.
+
+**Recommendation: claim Attio first** (highest rate, closest audience fit), then HubSpot for
+Startups before Wednesday. Placement is a dashboard action and the post is yours, so I've
+surfaced these rather than claiming anything.
+
+⚠️ **One conflict to watch.** If Outskill buys a *main ad placement*, running network ads in
+the same issue dilutes what they paid for. Keep network ads out of any issue that carries a
+direct sponsor.
+
+---
+
+## ⚠️ The Tiiny Host deliverable didn't go
+
+You told Marjo on Wednesday you'd send the updated draft plus visual options **by Saturday**.
+Nothing went out over the weekend, and she's had no reply since acknowledging.
+
+`channels.md` records this exact pattern as the thing that costs relationships rather than
+single deals. It's two days late, not fatal — a one-line note today with a new date would
+close it cleanly.
 
 ---
 
-## 🔴 Outskill chased a sixth time this morning
+## 🔴 Outskill: 28 days, six chases, still the top action
 
-> *"I am following up on my previous message. Please let me know when you will be able to send
-> the demo so we can proceed."*
-
-That's **31 Aug, 7, 10, 17, 22 and 25 September**. Twenty-five days. A buyer who has already
-accepted $750 and simply wants audience data.
-
-**You were in that mailbox yesterday.** You read Marjo's email and replied to it within a day.
-So Outskill isn't being missed — it's being stepped past.
-
-If I had to guess why: replying means correcting the figures you sent on 31 August. The stats
-in that thread say **21,000 subscribers, 40%+ open, 4–5% click**. The real ones are **20,107,
-25.8%, 1.6%** — and she is explicitly asking for the dashboard screenshot that shows the click
-number.
-
-**That's the whole blocker, and the draft already removes it.** It states the corrected figures
-plainly as a from-memory error, gives her the percentage breakdown she asked for, and holds the
-price at $750. She has chased six times across four weeks — this is someone who wants to buy,
-not someone looking for a reason to walk. 25.8% on a 20K B2B list is a good number.
-
-The only part I can't produce is the screenshot.
+Sowmya's last message was Friday. Draft is ready: percentage demographics, both figures
+corrected, $750 held. You supply the click screenshot.
 
 ---
+
+## Your first day back — the four that matter
+
+| # | Action | Why |
+|---|---|---|
+| 1 | **Outskill reply** | 28 days, six chases, price already agreed |
+| 2 | **Tiiny Host note** | Two days past a date you set |
+| 3 | **Claim Attio + HubSpot for Startups** | Free money; HubSpot expires Wednesday |
+| 4 | **Paved** — correction + chase | 38 days silent. Carries 5 re-pitches |
+
+Then, when there's room: Pendo · Varun · Atlassian (draft B) · Fiona · Allstacks.
 
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
 | Live deals | 7 · Drafts ready | 13 |
-| Selling days to 30 Nov | ~23 |
-| **Outskill** | **25 days, 6 chases** |
-| Tiiny Host | **deliverable due tomorrow** |
-| Paved | 35 days silent |
+| **New: Beehiiv ad offers** | **15 unclaimed** |
+| Selling days to 30 Nov | ~22 |
 
-Back Monday.
+Full brief: `pipeline/RETURN-28-SEP.md`.
