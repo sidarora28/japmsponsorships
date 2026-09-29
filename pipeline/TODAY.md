@@ -1,70 +1,56 @@
-# TODAY — Monday 28 September · you're back
+# TODAY — Tuesday 29 September
 
-## 💰 New lane found: 15 live Beehiiv ad offers, unclaimed
+## ✅ Tiiny Host delivered — overnight
 
-Beehiiv emailed on Saturday — *"You have fresh ad offers"* — so I queried the ad network
-directly. **Fifteen offers are sitting available and none have been claimed.**
+Two emails at 00:28 and 00:43: updated draft, a **carousel PDF** with all images, and a video,
+with the question of which format she prefers. Marjo had chased again yesterday asking whether
+you were on track to post this week.
 
-All CPC. Highest payers, best fits first:
-
-| Advertiser | Per click | Fit | Expires |
-|---|---:|---|---|
-| **Attio** | **$3.00** | CRM built for startups — strong PM fit | 3 Oct |
-| **Aligned** | **$3.00** | Buyer-collaboration tool, sales-side | 3 Oct |
-| **HubSpot for Startups** | **$2.62** | ⚠️ **Expires Wed** — and they've bought from you twice via Paved | **30 Sep** |
-| Modash · Kalshi · Remote.com · Voices.com | $2.25 | Mixed | 2–3 Oct |
-| Superhuman AI | $1.50 | Past sponsor | 3 Oct |
-| Oyster · SureThing · The Code | $1.50–1.87 | — | **30 Sep** |
-| The Rundown AI · The Deep View · Marketing Millennials · Coveron | $1.31–1.50 | Competing newsletters | 2–3 Oct |
-
-**What this is and isn't.** Beehiiv's own estimates are conservative — $3–6 per placement — so
-this is not $750 money. But it is **money on sends you are making anyway, with zero selling**,
-and it stacks: several can run across October issues.
-
-**Recommendation: claim Attio first** (highest rate, closest audience fit), then HubSpot for
-Startups before Wednesday. Placement is a dashboard action and the post is yours, so I've
-surfaced these rather than claiming anything.
-
-⚠️ **One conflict to watch.** If Outskill buys a *main ad placement*, running network ads in
-the same issue dilutes what they paid for. Keep network ads out of any issue that carries a
-direct sponsor.
+That closes the overdue item. **It's now with her**, and the next move is hers.
 
 ---
 
-## ⚠️ The Tiiny Host deliverable didn't go
+## ⚠️ Correction — the HubSpot offer I told you to claim is already gone
 
-You told Marjo on Wednesday you'd send the updated draft plus visual options **by Saturday**.
-Nothing went out over the weekend, and she's had no reply since acknowledging.
+Yesterday I said *"HubSpot for Startups expires Wednesday, claim it."* I re-queried this
+morning: **it isn't there any more, and neither is Voices.com.** Every offer ID changed
+overnight, and three new ones appeared (GURU 2026, TLDR Marketing, The Daily Upside).
 
-`channels.md` records this exact pattern as the thing that costs relationships rather than
-single deals. It's two days late, not fatal — a one-line note today with a new date would
-close it cleanly.
+**So the offers rotate daily, not on the deadlines they display.** That makes the earlier
+advice wrong in a way worth naming: the `send_by` date is the *latest* it could run, not how
+long it stays claimable. The rule is **claim it when you see it**, or accept that it may not be
+there tomorrow.
+
+### Still available, still worth claiming
+
+| Advertiser | Per click | Note |
+|---|---:|---|
+| **Attio** | **$3.00** | Highest rate, CRM for startups — best audience fit. Still the pick |
+| Kalshi · Modash · Remote.com | $2.25 | |
+| Oyster · GURU 2026 · **TLDR Marketing** | $1.87 | TLDR is where most of your prospect list comes from |
+| Superhuman AI · The Code · SureThing · Coveron · The Rundown AI | $1.50 | Superhuman is a past sponsor |
+
+**Expiring tomorrow (30 Sep): Oyster, SureThing, The Code.**
+
+Still small money — Beehiiv estimates $2–6 a placement — and still free revenue on sends you're
+making anyway. Keep them out of any issue carrying a direct sponsor.
 
 ---
 
-## 🔴 Outskill: 28 days, six chases, still the top action
+## 🔴 Outskill — 29 days, six chases, unanswered
 
-Sowmya's last message was Friday. Draft is ready: percentage demographics, both figures
-corrected, $750 held. You supply the click screenshot.
+The one thing that hasn't moved. Draft ready: percentage demographics, both figures corrected,
+$750 held. You supply the click screenshot.
+
+You cleared Tiiny Host at half past midnight. This one is a fraction of that effort.
 
 ---
-
-## Your first day back — the four that matter
-
-| # | Action | Why |
-|---|---|---|
-| 1 | **Outskill reply** | 28 days, six chases, price already agreed |
-| 2 | **Tiiny Host note** | Two days past a date you set |
-| 3 | **Claim Attio + HubSpot for Startups** | Free money; HubSpot expires Wednesday |
-| 4 | **Paved** — correction + chase | 38 days silent. Carries 5 re-pitches |
-
-Then, when there's room: Pendo · Varun · Atlassian (draft B) · Fiona · Allstacks.
 
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
 | Live deals | 7 · Drafts ready | 13 |
-| **New: Beehiiv ad offers** | **15 unclaimed** |
-| Selling days to 30 Nov | ~22 |
+| Selling days to 30 Nov | ~21 |
+| Paved silent | 39 days |
 
-Full brief: `pipeline/RETURN-28-SEP.md`.
+**Today:** Outskill · Attio · Paved.
