@@ -1,61 +1,75 @@
-# TODAY — Wednesday 30 September
+# TODAY — Thursday 1 October
 
-## 🎉 Tiiny Host said yes — and asked for an invoice
-
-Marjorie, yesterday 17:05:
-
-> *"Thanks for this. Please go ahead with the carousel. As a next steps, please kindly share
-> detailed performances (screenshots etc.) as well as your invoice."*
-
-**That's the first approved, invoiceable placement since this desk started.** Approval came
-within 17 hours of you sending the package at half past midnight.
-
-**Sequence: publish the carousel → let it run a few days → send screenshots + invoice.**
-
-A short confirmation reply is drafted, telling her the post is going up and that performance
-data will follow once the numbers mean something rather than first-hour spikes.
-
-### ⚠️ One thing only you can answer: what's the fee?
-
-`pipeline.md` has carried Tiiny Host as **"terms unconfirmed"** since 24 September, and I
-flagged then that an "ambassador programme" might be affiliate or barter rather than cash. Her
-asking for an invoice settles that it's cash — but **the amount is recorded nowhere in this
-repo, and I won't invent one.**
-
-For reference, card rate for a LinkedIn post is **$1,500**. If what was agreed is different,
-invoice what was agreed. Either way, **write the number into `pipeline.md` once you send it** —
-that's the first real entry in the money column.
+**September closed at $0 booked against a $10,000 cumulative pace target.** One placement is
+approved and going live today, but it has never been priced, so it can't be counted yet.
 
 ---
 
-## The Beehiiv ad estimates have doubled
+## ⚠️ Tiiny Host: the affiliate question is the one I can't answer for you
 
-Same offers, but Beehiiv's own estimated payouts are roughly 2× yesterday's:
+Marjo, 04:57 this morning:
 
-| Advertiser | Per click | Est. payout |
-|---|---:|---:|
-| **Attio** | $3.00 | **$12.00** |
-| Greenfield Robotics | $2.43 | $9.72 |
-| Modash | $2.25 | $9.00 |
-| Oyster · GURU 2026 · TLDR Marketing | $1.87 | $7.48 |
+> *"Also I can't remember if you are signed up in our affiliate programme? […] Just in case if
+> you want to share your affiliate…"*
 
-Still unclaimed, all of them. Nearly all now run to **5 October**; Coveron expires 3 Oct.
-Attio remains the pick.
+Two days ago she asked for **an invoice**. Today she's pointing at **an affiliate link**. Those
+are compatible — fee for the placement, commission on referrals — but they're also the shape
+of a conversation that ends with the affiliate link *instead of* the fee.
+
+`CLAUDE.md` is explicit that a barter or affiliate swap is outside the desk's authority, so
+I've drafted the clarifying question rather than deciding it:
+
+> *"I've been treating the affiliate link as additive to the placement fee rather than instead
+> of it — the fee covers producing and posting the carousel to ~75,000 followers, and the
+> affiliate link earns on whatever it refers afterwards. Can you confirm that matches your
+> side?"*
+
+It also signs up for the programme and offers to put the link in the carousel, so it reads as
+cooperative rather than defensive.
+
+**This is worth getting right before you invoice.** It's the difference between the first
+booked revenue of the campaign and a post that paid in commission.
+
+You told her it goes live today. **The fee is still recorded nowhere — write it into
+`pipeline.md` when you know it.**
 
 ---
 
-## 🔴 Outskill — 30 days, six chases
+## Attio is gone — second expiry I flagged and nobody claimed
 
-Unchanged and still the largest single unclosed item. Draft ready, $750 agreed, you supply the
+Attio was the top Beehiiv offer two days running at $3.00/click. **It's no longer in the list**,
+along with Greenfield Robotics, Superhuman AI, SureThing and Coveron.
+
+Six new advertisers appeared, including **TLDR AI** and **Morning Brew**:
+
+| Advertiser | Per click |
+|---|---:|
+| **Modash** | **$2.25** |
+| Front · 1440 Media | $2.06 |
+| Oyster · TLDR AI · GURU 2026 · Morning Brew · TLDR Marketing | $1.87 |
+
+Estimated payouts also fell back to $3–7 after yesterday's doubled figures, so the estimates
+move around and aren't worth reading closely. **Modash is the pick now.** All run to 6 Oct.
+
+Two picks have now expired unclaimed. I'll keep surfacing them, but a claim takes a minute in
+the dashboard and nothing happens without it.
+
+---
+
+## 🔴 Outskill — 31 days, six chases
+
+Still the largest unclosed item and still untouched. $750 agreed, draft ready, you supply the
 click screenshot.
 
 ---
 
 | | |
 |---|---:|
-| Booked | **$0 / $32,000** — *first invoice imminent* |
-| Live deals | 7 · Drafts ready | 13 |
-| Selling days to 30 Nov | ~20 |
-| Paved silent | 40 days |
+| **Booked** | **$0 / $32,000** |
+| Aug | **closed $0** vs $2,000 |
+| Sep | **closed $0** vs $10,000 |
+| Oct pace target | **$20,000 cumulative** |
+| Selling days to 30 Nov | ~19 |
+| Paved silent | 41 days |
 
-**Today: publish the Tiiny carousel · answer Outskill · claim Attio.**
+**Today: publish the carousel · send the affiliate clarification · answer Outskill.**
