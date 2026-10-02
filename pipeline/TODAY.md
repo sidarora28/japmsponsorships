@@ -1,75 +1,70 @@
-# TODAY — Thursday 1 October
+# TODAY — Friday 2 October
 
-**September closed at $0 booked against a $10,000 cumulative pace target.** One placement is
-approved and going live today, but it has never been priced, so it can't be counted yet.
+## ✅ Tiiny Host is live and the invoice is unblocked
 
----
+The carousel went up yesterday. Elston sent billing details at 21:10:
 
-## ⚠️ Tiiny Host: the affiliate question is the one I can't answer for you
+> **Tiiny Labs Limited, International House, 64 Nile Street, London N1 7SR, United Kingdom**
+> cc `elston@tiiny.host` · Marjo also wants impressions + a performance screenshot
 
-Marjo, 04:57 this morning:
-
-> *"Also I can't remember if you are signed up in our affiliate programme? […] Just in case if
-> you want to share your affiliate…"*
-
-Two days ago she asked for **an invoice**. Today she's pointing at **an affiliate link**. Those
-are compatible — fee for the placement, commission on referrals — but they're also the shape
-of a conversation that ends with the affiliate link *instead of* the fee.
-
-`CLAUDE.md` is explicit that a barter or affiliate swap is outside the desk's authority, so
-I've drafted the clarifying question rather than deciding it:
-
-> *"I've been treating the affiliate link as additive to the placement fee rather than instead
-> of it — the fee covers producing and posting the carousel to ~75,000 followers, and the
-> affiliate link earns on whatever it refers afterwards. Can you confirm that matches your
-> side?"*
-
-It also signs up for the programme and offers to put the link in the carousel, so it reads as
-cooperative rather than defensive.
-
-**This is worth getting right before you invoice.** It's the difference between the first
-booked revenue of the campaign and a post that paid in commission.
-
-You told her it goes live today. **The fee is still recorded nowhere — write it into
-`pipeline.md` when you know it.**
+**Everything needed to invoice exists except the amount, which only you know.** Card rate for
+a LinkedIn post is $1,500.
 
 ---
 
-## Attio is gone — second expiry I flagged and nobody claimed
+## Why nothing else has booked — the anatomy
 
-Attio was the top Beehiiv offer two days running at $3.00/click. **It's no longer in the list**,
-along with Greenfield Robotics, Superhuman AI, SureThing and Coveron.
+46 days. Here is every number that matters.
 
-Six new advertisers appeared, including **TLDR AI** and **Morning Brew**:
-
-| Advertiser | Per click |
+| What the desk built | |
 |---|---:|
-| **Modash** | **$2.25** |
-| Front · 1440 Media | $2.06 |
-| Oyster · TLDR AI · GURU 2026 · Morning Brew · TLDR Marketing | $1.87 |
+| Companies sourced | 28 |
+| Buyers verified with real emails | 11 |
+| Finished drafts written | 13 |
+| Beehiiv ad offers surfaced | 15 |
 
-Estimated payouts also fell back to $3–7 after yesterday's doubled figures, so the estimates
-move around and aren't worth reading closely. **Modash is the pick now.** All run to 6 Oct.
+| What happened to it | |
+|---|---:|
+| Cold emails actually sent | **4** (all August) |
+| Cold replies | **0** |
+| Drafts sent from the queue | **0** |
+| Ad offers claimed | **0** |
 
-Two picks have now expired unclaimed. I'll keep surfacing them, but a claim takes a minute in
-the dashboard and nothing happens without it.
+| What arrived on its own | Outcome |
+|---|---|
+| **Luma** — $2,000, 1stCollab | **Expired unsent.** Draft sat 4 days |
+| **Outskill** — $750, price agreed | **32 days, 6 chases, unanswered** |
+| **Tiiny Host** | ✅ **Live. Invoice pending** |
+| Wooly Network | Untriaged |
+| Mark Progano | Draft ready |
 
----
+### The pattern
 
-## 🔴 Outskill — 31 days, six chases
+**Every single thing that moved, moved because you were personally in the thread.** Tiiny Host
+went chase → approved → live in eight days once you engaged with it directly.
 
-Still the largest unclosed item and still untouched. $750 agreed, draft ready, you supply the
-click screenshot.
+**Nothing has ever moved from a draft handed to you in a queue.** Thirteen of them, six weeks,
+zero sends. That is not a near miss — it is a model that returns zero.
+
+So the answer to "what's happening" is not that the market said no. Nobody has been asked.
+Four cold emails went out in six weeks, and the one buyer who said yes unprompted has been
+waiting a month for audience data.
+
+### What I'd change
+
+Stop producing drafts into a queue. It has 13 and converts at zero. Instead: **one thread a
+day, the live one, in front of you — and I stop adding.**
+
+Right now that thread is **Outskill**. $750, already agreed, someone chasing you six times.
+It is the cheapest money on the desk and the clearest test of whether anything in this queue
+is worth keeping.
 
 ---
 
 | | |
 |---|---:|
-| **Booked** | **$0 / $32,000** |
-| Aug | **closed $0** vs $2,000 |
-| Sep | **closed $0** vs $10,000 |
-| Oct pace target | **$20,000 cumulative** |
-| Selling days to 30 Nov | ~19 |
-| Paved silent | 41 days |
+| Booked | **$0 / $32,000** |
+| Aug · Sep | closed **$0** vs $2,000 · $10,000 |
+| Selling days to 30 Nov | ~18 |
 
-**Today: publish the carousel · send the affiliate clarification · answer Outskill.**
+**Today: invoice Tiiny Host · answer Outskill.** Nothing else.
