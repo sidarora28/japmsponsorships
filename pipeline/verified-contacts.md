@@ -217,3 +217,37 @@ strong fit — they sponsored TLDR Product 2 Oct on digital friction.
 
 **Check which mailbox a draft landed in.** The `viewUrl` in the create_draft result names the
 account (`authuser=…`). Any sponsorship draft not in `sid@justanotherpm.com` is invisible.
+
+
+### ❌ Rejected 2 Oct — three headline/domain mismatches
+
+Checked nine profiles today. **One verified (Algolia). Three were near-misses that a scraped or
+web-searched headline would have sent to the wrong company:**
+
+| Candidate | Headline claimed | Email finder returned | Verdict |
+|---|---|---|---|
+| Hollie Wegman | Marketing leadership @ **Attio** | Company "Attio" but email **`hollie@envoy.com`** | ❌ Contradictory record. Domain beats label |
+| Jeremy Lee | Product Marketing @ **Attio** | **Ramp** — `jlee@ramp.com` | ❌ Wrong company |
+| Jack Eaton | B2B Marketing @ **Modash** | **Peak Reach** (his own company) — `jack@peakreachmedia.com` | ❌ Wrong company |
+
+**New rule, and the sharpest version of the Lovable lesson: when the email domain contradicts
+the claimed employer, the domain wins.** Hollie Wegman's record literally says Attio while
+handing back an `envoy.com` address. Either the record is stale or the fields are merged from
+two sources. Not usable either way.
+
+### 📉 Honest yield rate
+
+Nine profiles checked, five returned no record at all, three were wrong-company, **one was
+usable.** That is roughly **1 verified net-new contact per 9 profiles**, and each profile costs
+a lookup.
+
+Also no record for: Stella Resta (content marketing manager @ Fullstory — headline self-named),
+Adam Gunn (VP of Brand @ Fullstory), Will R. (Field & Partner Marketing @ WorkOS — LinkedIn slug
+is literally `will-workos`), Laura Hamilton (CMO, no company named).
+
+**Fullstory and WorkOS both have named, plausible marketing leads and no obtainable email.**
+They stay unsourced rather than drafted to a guess.
+
+**Implication for volume:** this toolchain produces 1–2 verified net-new contacts per working
+session, not ten. Getting to ten a day needs a real contact database with seats (Apollo, Clay,
+Hunter), not an email-finder with a one-in-nine hit rate.

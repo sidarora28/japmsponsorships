@@ -59,5 +59,30 @@ Anything not in `sid@justanotherpm.com` is invisible and therefore worthless.
 | Net-new verified today | 1 (Algolia) |
 | Booked | $0 / $32,000 |
 
-Next batch: Fullstory, Guru, WorkOS, Orkes, Temporal, Elastic, Viktor — all TLDR sponsors still
-needing a verified contact.
+---
+
+## Second batch — ran it, and it mostly failed. Honestly:
+
+Checked nine profiles today. **One usable.** Three were wrong-company near-misses:
+
+| Candidate | Claimed | Actually | |
+|---|---|---|---|
+| Hollie Wegman | Marketing lead @ **Attio** | Record says Attio but email is **`hollie@envoy.com`** | ❌ |
+| Jeremy Lee | Product Marketing @ **Attio** | **Ramp** | ❌ |
+| Jack Eaton | B2B Marketing @ **Modash** | **Peak Reach**, his own company | ❌ |
+
+Five more returned no record at all — including **Adam Gunn (VP of Brand, Fullstory)** and
+**Will R. (Field & Partner Marketing, WorkOS)**, whose LinkedIn slug is literally `will-workos`.
+
+**New rule: when the email domain contradicts the claimed employer, the domain wins.** That is
+the sharpest version of the Lovable mistake, and it caught three sends today.
+
+### What this means for volume
+
+**This toolchain yields 1–2 verified net-new contacts per session, not ten.** Nine lookups →
+one usable address. Fullstory and WorkOS both have named, plausible buyers and no obtainable
+email, so they stay unsourced rather than drafted to a guess.
+
+If you want ten a day, the constraint is the data source, not the effort — that needs a real
+contact database with seats (Apollo, Clay, Hunter). Say the word and I'll work within whichever
+you'd rather pay for.
