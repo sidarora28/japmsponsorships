@@ -171,3 +171,49 @@ Hook used: Learning Lab. It is specific, true, current, and the placement being 
 one that sells courses.
 
 No record for Laura Baverman.
+
+
+---
+
+## 🚨 2 October — the drafts were in the wrong mailbox the whole time
+
+A draft audit found `sid@justanotherpm.com` — **the mailbox Sid actually works from** — held only
+**one** sponsorship draft (Outskill). Everything else sat in `sid.arora.87@gmail.com`.
+
+`create_draft` has no "from" field; it lands drafts in whichever account the connector resolves
+to, and that changed partway through. So nine finished drafts were written to an inbox Sid does
+not open for business email.
+
+**That is a large part of why six weeks of drafts produced zero sends.** The queue existed; he
+could not see it.
+
+**All verified contacts were re-drafted into the business mailbox on 2 Oct:**
+
+| Company | Contact | Email | Hook used |
+|---|---|---|---|
+| **Atlassian** | Christopher Metoyer, Sr Mgr Brand Creative Strategy | `cmetoyer2@atlassian.com` | State of Product 2027 report, TLDR 2 Oct |
+| **Pendo** | Jennifer Peterson, Sr Dir Mktg, Global Brand & Content | `jennifer.peterson@pendo.io` | Learning Lab w/ Mind the Product |
+| **Allstacks** | Hersh Tapadia, CEO | `hersh.tapadia@allstacks.com` | 3 TLDR placements in August |
+| **Mixpanel** | Paul Lenser, Product Marketing | `paul.lenser@mixpanel.com` | Amplitude already sponsored |
+| **Retool** | Kelsey McKeon, Content Marketing | `kelseymckeon@retool.com` | Airtable paid $1,500 same-day |
+| **Productboard** | Jordan Nolff, VP Growth & Product | `jordan.nolff@productboard.com` | Audience is their buyer |
+| **Linear** | Cristina Cordova, COO | `cristina@linear.app` | Honest long shot, total overlap |
+| **1stCollab** | Varun | `varun@1stcollab.com` | Q4 inventory + Recall + Optimizely repost |
+| **Product-Led Alliance** | Fiona Standen, Marketing Manager | `fiona@pmmalliance.com` | Reviving the March conversation |
+
+### ✅ Net-new verified 2 Oct
+
+| Company | Contact | Email | Source |
+|---|---|---|---|
+| **Algolia** | **Robin Smith, Interim Head of Growth** | `robin.smith@algolia.com` | Email finder — employer returned as a database field. Scraped headline ("Leading Product-Led Growth @ Algolia") corroborates |
+
+Hook: their hallucination-mitigation white paper, TLDR AI 1 Sep.
+
+**No record** for Stella Resta (content marketing manager @ Fullstory, headline self-named) or
+Laura Hamilton (CMO, no company named). Fullstory remains unsourced for email despite being a
+strong fit — they sponsored TLDR Product 2 Oct on digital friction.
+
+### Standing rule added
+
+**Check which mailbox a draft landed in.** The `viewUrl` in the create_draft result names the
+account (`authuser=…`). Any sponsorship draft not in `sid@justanotherpm.com` is invisible.

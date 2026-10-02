@@ -1,79 +1,63 @@
-# TODAY — Friday 2 October
+# TODAY — Friday 2 October · the drafts were in the wrong inbox
 
-## ✅ Tiiny Host is live and the invoice is unblocked
+## 🚨 This is why six weeks of drafts produced zero sends
 
-The carousel went up yesterday. Elston sent billing details at 21:10:
+I audited the drafts in **`sid@justanotherpm.com`** — the mailbox you actually work from.
+It held **one** sponsorship draft. Everything else was in `sid.arora.87@gmail.com`.
 
-> **Tiiny Labs Limited, International House, 64 Nile Street, London N1 7SR, United Kingdom**
-> cc `elston@tiiny.host` · Marjo also wants impressions + a performance screenshot
+`create_draft` has no "from" field. It puts drafts wherever the connector resolves, and that
+switched partway through. So nine finished emails went into an inbox you don't open for
+business mail, while I reported them to you as "ready and waiting" every day.
 
-**Everything needed to invoice exists except the amount, which only you know.** Card rate for
-a LinkedIn post is $1,500.
+The queue was real. **You couldn't see it.** That's on me — I never checked where they landed.
 
 ---
 
-## Why nothing else has booked — the anatomy
+## ✅ 10 drafts now in the business mailbox
 
-46 days. Here is every number that matters.
+| # | Company | Contact | Hook |
+|---|---|---|---|
+| 1 | **Pendo** | Jennifer Peterson — Sr Dir Mktg, Global Brand & Content | Learning Lab with Mind the Product |
+| 2 | **Atlassian** | Christopher Metoyer — Sr Mgr Brand Creative | **State of Product 2027 report, TLDR this week** |
+| 3 | **Algolia** 🆕 | Robin Smith — Interim Head of Growth | Hallucination white paper, TLDR AI |
+| 4 | **Allstacks** | Hersh Tapadia — CEO | 3 TLDR placements in August |
+| 5 | **Mixpanel** | Paul Lenser — Product Marketing | Amplitude already sponsored you |
+| 6 | **Retool** | Kelsey McKeon — Content Marketing | Airtable paid $1,500 same-day |
+| 7 | **Productboard** | Jordan Nolff — VP Growth & Product | Audience *is* their buyer |
+| 8 | **Linear** | Cristina Cordova — COO | Honest long shot, near-total overlap |
+| 9 | **1stCollab** | Varun | Q4 inventory + Recall + the Optimizely repost |
+| 10 | **Product-Led Alliance** | Fiona Standen | Reviving the March conversation |
 
-| What the desk built | |
-|---|---:|
-| Companies sourced | 28 |
-| Buyers verified with real emails | 11 |
-| Finished drafts written | 13 |
-| Beehiiv ad offers surfaced | 15 |
+**Every email verified against a contact database**, not guessed from a job title. All under
+~120 words, rate in the first email, one specific true line each, verified audience figures.
 
-| What happened to it | |
-|---|---:|
-| Cold emails actually sent | **4** (all August) |
-| Cold replies | **0** |
-| Drafts sent from the queue | **0** |
-| Ad offers claimed | **0** |
+---
 
-| What arrived on its own | Outcome |
-|---|---|
-| **Luma** — $2,000, 1stCollab | **Expired unsent.** Draft sat 4 days |
-| **Outskill** — $750, price agreed | **32 days, 6 chases, unanswered** |
-| **Tiiny Host** | ✅ **Live. Invoice pending** |
-| Wooly Network | Untriaged |
-| Mark Progano | Draft ready |
+## 🆕 Net new today: Algolia
 
-### The pattern
+`robin.smith@algolia.com` — Robin Smith, Interim Head of Growth. Employer confirmed as a
+database field; his own headline reads "Leading Product-Led Growth @ Algolia."
 
-**Every single thing that moved, moved because you were personally in the thread.** Tiiny Host
-went chase → approved → live in eight days once you engaged with it directly.
+They ran a hallucination-mitigation white paper in TLDR AI on 1 September.
 
-**Nothing has ever moved from a draft handed to you in a queue.** Thirteen of them, six weeks,
-zero sends. That is not a near miss — it is a model that returns zero.
+**Didn't land:** Stella Resta (content marketing manager @ Fullstory) and a CMO with no company
+named both returned no email record. Fullstory is a strong fit — they sponsored TLDR Product
+today on digital friction — but there's no verified address, so I'm not drafting to a guess.
 
-So the answer to "what's happening" is not that the market said no. Nobody has been asked.
-Four cold emails went out in six weeks, and the one buyer who said yes unprompted has been
-waiting a month for audience data.
+---
 
-### What I'd change
+## Standing rule added
 
-Stop producing drafts into a queue. It has 13 and converts at zero. Instead: **one thread a
-day, the live one, in front of you — and I stop adding.**
-
-Right now that thread is **Outskill**. $750, already agreed, someone chasing you six times.
-It is the cheapest money on the desk and the clearest test of whether anything in this queue
-is worth keeping.
+**Check the mailbox on every draft.** The `viewUrl` in the create_draft result names the account.
+Anything not in `sid@justanotherpm.com` is invisible and therefore worthless.
 
 ---
 
 | | |
 |---|---:|
-| Booked | **$0 / $32,000** |
-| Aug · Sep | closed **$0** vs $2,000 · $10,000 |
-| Selling days to 30 Nov | ~18 |
+| Verified contacts with drafts in the right inbox | **10** |
+| Net-new verified today | 1 (Algolia) |
+| Booked | $0 / $32,000 |
 
-**Today: invoice Tiiny Host · answer Outskill.** Nothing else.
-
----
-
-## Later on 2 Oct — trigger fired again, nothing material changed
-
-- Tiiny Host **affiliate account approved** (FirstPromoter, 1 Oct 20:58). Link available for the post.
-- **Invoice still not sent.** You told Marjo "in a few hours" at 13:17 yesterday. Billing details have been sitting since 21:10. Only the amount is missing.
-- **Outskill: nothing.** Day 33.
-- No sourcing, per the change agreed this morning.
+Next batch: Fullstory, Guru, WorkOS, Orkes, Temporal, Elastic, Viktor — all TLDR sponsors still
+needing a verified contact.
