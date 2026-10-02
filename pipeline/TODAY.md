@@ -68,3 +68,12 @@ is worth keeping.
 | Selling days to 30 Nov | ~18 |
 
 **Today: invoice Tiiny Host · answer Outskill.** Nothing else.
+
+---
+
+## Later on 2 Oct — trigger fired again, nothing material changed
+
+- Tiiny Host **affiliate account approved** (FirstPromoter, 1 Oct 20:58). Link available for the post.
+- **Invoice still not sent.** You told Marjo "in a few hours" at 13:17 yesterday. Billing details have been sitting since 21:10. Only the amount is missing.
+- **Outskill: nothing.** Day 33.
+- No sourcing, per the change agreed this morning.
