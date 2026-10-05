@@ -235,6 +235,20 @@ the claimed employer, the domain wins.** Hollie Wegman's record literally says A
 handing back an `envoy.com` address. Either the record is stale or the fields are merged from
 two sources. Not usable either way.
 
+> ### 🔧 Refined 5 Oct — the rule was too blunt
+>
+> A fuller scrape showed Jeremy Lee's own headline reads **"Product Marketing at Attio |
+> Ex-Ramp."** So the email finder returning `jlee@ramp.com` was not a wrong-company error — it
+> was a **stale record**. He moved to Attio and the database hasn't caught up.
+>
+> **Corrected rule:** the domain still wins for *deciding whether to send* — `jlee@ramp.com`
+> reaches him at the wrong employer and is unusable. But "wrong company" and "stale record" are
+> different diagnoses, and a headline saying **"Ex-<company>"** is strong evidence of the latter.
+>
+> Practical consequence: **a stale record means no usable address, not a disqualified person.**
+> Jeremy Lee stays a live Attio candidate awaiting an address from another source. Hollie Wegman
+> (record says Attio, email says Envoy, no "Ex-" signal) stays genuinely ambiguous.
+
 ### 📉 Honest yield rate
 
 Nine profiles checked, five returned no record at all, three were wrong-company, **one was
