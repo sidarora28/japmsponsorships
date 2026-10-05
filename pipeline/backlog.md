@@ -15,8 +15,8 @@ Two kinds of item here, and they're different jobs:
 
 | # | Item | Blocker | Action | Owner |
 |---|---|---|---|---|
-| B1 | **Miro / inBeat** | ⚠️ **UNVERIFIED — see audit below.** Nothing in Gmail supports a completed paid campaign | **Sid to confirm it happened before anything is invoiced** | Sid to confirm |
-| B2 | **Anvil / CreatorBuzz** | ⚠️ **UNVERIFIED — see audit below.** No Krizia thread exists in this mailbox | **Sid to confirm what is actually owed** | Sid to confirm |
+| B1 | **Miro / inBeat** | 🔴 **REAL AND OVERDUE.** Campaign ran, invoice sent 17 Jul, bank details 29 Jul, inBeat confirmed 30 Jul it was with accounting. **Nothing received in 2+ months** | **Payment chase drafted 5 Oct** → SID | Sid to send |
+| B2 | **Anvil / CreatorBuzz** | Contact is **Valentina Diaz** (`valentina@creatorbuzz.com`), not Krizia. Campaign ran Jun–Jul; she chased for drafts | Q4 re-pitch drafted 5 Oct → SID | Sid to send |
 | B3 | **Gamma / Passionfroot** | Live links never supplied (Dec 2025 posts still unconfirmed as of May 2026) | Pull the live URLs, send to Passionfroot. May be blocking payment. | Desk drafts |
 | B4 | **Paved stats** | Any sent sponsored issue with unsubmitted stats | Audit all Paved sends. **Payout does not release until stats are in.** | Desk drafts |
 
@@ -107,3 +107,33 @@ fact.** Backlog items asserting owed money need a source — a thread, an invoic
 recorded next to them.
 
 B3 (Gamma live links) and B4 (Paved stats) are unaffected; both have documented email trails.
+
+
+---
+
+## ⚠️ Correction to the 16 September audit — I was wrong about B1
+
+On 16 Sep I wrote that the Miro/inBeat campaign had **no evidence it ever ran** and told Sid
+*"do not invoice this."* **That was wrong, and the error was mine: I searched the wrong terms.**
+
+My query was `inbeat OR miro (invoice OR receipt OR payment OR expense)`. The actual thread is
+titled **"Canvas 26 London — Your Dedicated Content Thread"** and contains none of those words
+in its subject, so it never surfaced. A broader search on 5 Oct found it immediately.
+
+**What the thread actually shows:**
+
+| Date | Event |
+|---|---|
+| 21 Mar | Signed influencer agreement via PandaDoc — *"Sid Arora \| inBeat Agency - Miro Canvas 26 London"* |
+| 17 Jul | Sid sent the invoice plus Uber receipts |
+| 22 Jul | inBeat confirmed receipt, asked for bank details |
+| 29 Jul | Sid sent bank details (JUSTANOTHERPM, acct 28658508, sort 04-00-03) |
+| 30 Jul | inBeat: *"will go ahead and share it with our accounting team to get your payment processed"* |
+| → | **Nothing since. Over two months.** |
+
+So B1 is not a phantom. It is **delivered work, invoiced, acknowledged, and unpaid** — the
+single clearest case of earned money on the desk. Payment chase drafted, cc Nicole at Miro so
+the client sees it.
+
+**The lesson, logged against myself:** a negative search result is not evidence of absence.
+Subject lines don't contain the words you expect. Search by counterparty domain, not by topic.

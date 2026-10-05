@@ -251,3 +251,29 @@ They stay unsourced rather than drafted to a guess.
 **Implication for volume:** this toolchain produces 1–2 verified net-new contacts per working
 session, not ten. Getting to ten a day needs a real contact database with seats (Apollo, Clay,
 Hunter), not an email-finder with a one-in-nine hit rate.
+
+
+---
+
+## 🔑 5 October — the best contact source yet: people who have already emailed Sid
+
+Mined Gmail for brand- and agency-side senders rather than scraping LinkedIn. **Every address
+below is verified by the fact that it reached his inbox**, and most come with an existing
+relationship. Zero lookup cost, no bounce risk, no wrong-company risk.
+
+| Contact | Org | Email | Status |
+|---|---|---|---|
+| **inBeat Agency** | Miro Canvas 26 | `miro@inbeatagency.com` | 🔴 **Owed money.** Invoiced 17 Jul, unpaid |
+| **Nicole J** | **Miro** (brand side) | `nicole.j@miro.com` | Sid pitched Q4 on 25 Aug, no reply |
+| **Erwin Nurhuda** | Hockey Stick agency, repping **SureThing** | `erwin.nurhuda@hockeystick.io` | Emailed twice in July, **never answered** |
+| **Valentina Diaz** | **CreatorBuzz** (ran Anvil) | `valentina@creatorbuzz.com` | Active agency relationship |
+| **OMANE Media** | ran **Viktor** campaign | `hi@omane.media` | Active; Viktor is a repeat TLDR sponsor |
+| Lucas Page | ShanghAI newsletter | `lucas.page119@gmail.com` | Cross-promo (barter — Sid's call, not cash) |
+| Marcel | Rad Letters | `marcel@radletters.com` | Directory listing, low value |
+
+**Why this beats cold sourcing.** Nine LinkedIn lookups on 2 Oct produced one usable address.
+One Gmail search on 5 Oct produced **five**, all with history. Agencies are the better target
+too: CreatorBuzz, Hockey Stick, OMANE and inBeat each carry a roster, so one relationship
+yields repeat campaigns rather than one placement.
+
+**Standing change: mine the inbox before scraping LinkedIn.**
