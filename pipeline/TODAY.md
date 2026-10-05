@@ -64,3 +64,23 @@ nine lookups, and they arrive warm.
 | Booked | $0 / $32,000 |
 
 Nothing sponsorship-related sent over the weekend; the earlier 11 are still sitting.
+
+---
+
+## The cold-sourcing experiment is finished, and it lost
+
+Second batch today: 53 profiles scraped across Modash, Attio, WorkOS, Elastic and Temporal.
+Three best titles run through the finder. **Zero usable.**
+
+- **Mike Lee — VP, Brand & Demand Marketing at Elastic** — no record. Best title found all week, unreachable
+- Steve Ruiz — Growth @ WorkOS — no record
+- Maxwell Berry — Attio — record says PlusPlus, stale
+
+| Method | Attempts | Usable contacts |
+|---|---:|---:|
+| LinkedIn scrape → email finder | **12 lookups** | **1** |
+| One search of your own inbox | **1 search** | **5** |
+
+**So I'm stopping cold LinkedIn sourcing.** It costs more than it returns. The sources that
+actually work: your inbox, agency rosters, the Beehiiv advertiser list, and past sponsors — all
+warm, all verified, all free.

@@ -291,3 +291,33 @@ too: CreatorBuzz, Hockey Stick, OMANE and inBeat each carry a roster, so one rel
 yields repeat campaigns rather than one placement.
 
 **Standing change: mine the inbox before scraping LinkedIn.**
+
+
+### 📊 Cold sourcing vs inbox mining — the comparison is now conclusive
+
+Second cold batch on 5 Oct: scraped Modash, Attio, WorkOS, Elastic and Temporal (53 profiles),
+filtered to five marketing titles, ran the finder on three of the best.
+
+| Candidate | Title | Finder returned |
+|---|---|---|
+| Mike Lee | **VP, Brand & Demand Marketing at Elastic** | no record |
+| Steve Ruiz | Growth @ WorkOS | no record |
+| Maxwell Berry | Top of Funnel @ Attio | **PlusPlus** — `max@plusplus.co`, stale |
+
+**Zero usable.** Running cold total: **1 usable address from 12 lookups.**
+
+Against that, one Gmail search on 5 Oct produced **five verified contacts with existing
+relationships** and one overdue invoice worth chasing.
+
+| Method | Lookups / searches | Usable verified contacts |
+|---|---:|---:|
+| LinkedIn scrape → email finder | 12 | **1** |
+| Mine Sid's own inbox | 1 | **5** |
+
+**Conclusion: cold LinkedIn sourcing is not worth the time at this hit rate.** The inbox,
+agency rosters (CreatorBuzz, Hockey Stick, OMANE, inBeat), the Beehiiv advertiser list and past
+sponsors are all better sources, and they arrive warm.
+
+Elastic, WorkOS, Attio and Modash all have named, plausible buyers and **no obtainable address**.
+They stay unsourced. Mike Lee at Elastic is the single best title found all week and there is no
+way to reach him with these tools.
