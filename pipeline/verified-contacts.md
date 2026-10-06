@@ -321,3 +321,55 @@ sponsors are all better sources, and they arrive warm.
 Elastic, WorkOS, Attio and Modash all have named, plausible buyers and **no obtainable address**.
 They stay unsourced. Mike Lee at Elastic is the single best title found all week and there is no
 way to reach him with these tools.
+
+
+---
+
+## 6 October — second inbox sweep. Nine more verified contacts and two more unpaid bills.
+
+| Contact | Org | Email | Why it matters |
+|---|---|---|---|
+| **Kenta Tanaka** | **Fotor** | `kenta.tanaka@fotor.com` | ⚠️ **Unanswered paid-collab offer, 18 Sep.** Came to Sid |
+| **Katie Green**, Principal Advocate | **Kameleoon** | `kgreen@kameleoon.com` | 🔥 **Best net-new prospect.** Sid sat on their ETLA awards jury, so warm — and Kameleoon is a direct Optimizely competitor, a category that has already paid |
+| **Elophia Mengestu** | CreatorBuzz | `elophia@creatorbuzz.com` | 🔴 **Owed money.** Promised net-30 on 10 Aug; window closed early Sep |
+| **Vin Matano** | CreatorBuzz | `vin@creatorbuzz.com` | Sends the contracts — the decision-maker |
+| **Ori Mannheim** | OMANE Media | `hi@omane.media` | **Does 3–5 launches a week.** Highest-frequency buyer found |
+| Santiago Gomez | inBeat | `santiago@inbeat.agency` | Alternate route for the unpaid invoice |
+| Juana Coutoune · Valerie Mariano | inBeat | `juana.coutoune@inbeat.agency` · `valerie.mariano@inbeat.agency` | Same |
+| Aida | Miro | `aida@miro.com` | Miro-side, cc'd on Canvas 26 |
+| Chelsea · Delaney | Maven | `chelsea@maven.com` · `delaney@maven.com` | Partnerships team — course business, not sponsorship |
+
+**Nicole Judson's title confirmed:** Influencer Marketing Manager @ Miro. That is exactly the
+person who buys creator placements, which makes the unanswered 25 Aug pitch more valuable than
+it looked.
+
+### 🔴 The OMANE history I didn't have yesterday
+
+Yesterday's OMANE draft was a breezy Q4 pitch. The thread shows something worse:
+
+- **17 Jun** — Ori offers a Viktor amplification post at $400. Sid counters $700.
+- **18 Jun** — Ori: *"I can do $500 this time and increase the budget moving forward. I have three to five launches a week, and I'll be happy to include you in more."*
+- **21 Jul** — Ori: *"Both drafts have been with you since the 15th and I haven't heard back, and the roster for this round is now full, so we're not moving ahead this time."*
+
+**A recurring buyer at 3–5 launches a week was lost to silence.** Draft rewritten to open by
+owning that rather than pretending it didn't happen — an agency that volunteered to raise its
+budget deserves the apology before the pitch.
+
+### Money owed — now two, not one
+
+| | Owed by | Status |
+|---|---|---|
+| Miro / inBeat | `miro@inbeatagency.com` | Invoiced 17 Jul, "with accounting" 30 Jul, **unpaid 2+ months** |
+| **Anvil / CreatorBuzz** | `elophia@creatorbuzz.com` | Net-30 promised 10 Aug, **expired early Sep, nothing received** |
+
+Both chases drafted. Content delivered and impression data supplied in both cases, so neither
+has an outstanding obligation on Sid's side.
+
+### Running source comparison
+
+| Method | Attempts | Usable verified contacts |
+|---|---:|---:|
+| LinkedIn scrape → email finder | 12 lookups | 1 |
+| **Inbox sweeps (5–6 Oct)** | **2 searches** | **14** |
+
+Not close.
