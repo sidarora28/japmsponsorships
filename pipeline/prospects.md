@@ -382,3 +382,41 @@ authorised by Sid.
 The Hugo draft stays unsent by decision. Enterpret has not replied to the 19 Aug email; the
 T2 chase is drafted but should be skipped if Sid's WhatsApp thread with their marketing lead
 is active.
+
+---
+
+## 7 Oct 2026 — eight drafted, sourced from newsletter ad inventory
+
+**Vein A worked.** Rather than guessing which companies have a newsletter budget, read the
+newsletters that sell to this audience and write down who is already paying. Every company
+below was found inside a TLDR edition or the Beehiiv ad network in the last three weeks, so
+the budget is not a hypothesis.
+
+| # | Company | Contact | Email | Evidence of live newsletter spend | State |
+|---|---|---|---|---|---|
+| P40 | **Fullstory** ⭐⭐ | Kristin Mills, VP Growth & Demand Gen | `mills@fullstory.com` | TLDR Product **3×/15 days** — 25 Sep, 2 Oct, 6 Oct | Drafted 7 Oct |
+| P41 | **Temporal** | Mike Pace, Head of Demand Gen & Lifecycle | `mike@temporal.io` | Agent-orchestration category; previously unreachable | Drafted 7 Oct |
+| P42 | **WorkOS** | Amit B, Head of Marketing | `amit@workos.com` | Previously unreachable (16 Sep, 5 Oct) | Drafted 7 Oct |
+| P43 | **Elastic** | Rhodes Klement, VP Corporate Marketing | `rhodes.klement@elastic.co` | Previously unreachable (5 Oct) | Drafted 7 Oct |
+| P44 | **Attio** | Tristan Morgan, Growth Marketing | `tristan.morgan@attio.com` | Houck + JustGoGrind newsletter deals; Beehiiv CPC live this week | Drafted 7 Oct |
+| P45 | **Level Access** | David Schweer, VP Product Marketing | `david.schweer@levelaccess.com` | TLDR Product 18 Sep, webinar promo aimed at PMs | Drafted 7 Oct |
+| P46 | **Thorn / Safer.io** | Justus Hyatt, Marketing Director | `justus.hyatt@wearethorn.org` | TLDR AI 5 Oct, trust & safety checklist | Drafted 7 Oct |
+| P47 | **Marqeta** | Mark Cousins, VP Global Demand Gen | `mcousins@marqeta.com` | TLDR Product 25 Sep, Money20/20 promo | Drafted 7 Oct — ⚠️ weak fit, stated in the draft |
+
+### Sourced, not drafted — and why
+
+| Company | Reason |
+|---|---|
+| **Redis** | Ran a `paid-newsletter` UTM in TLDR AI 5 Oct, so the budget is real, but the contact tool returns nothing for `redis.io` or `redis.com`. Live prospect, no address. |
+| **Modash** | Ryan Prior verified and current, but they sell to influencer-marketing managers, not product managers. No honest audience-fit line available. |
+| **Wispr Flow** | ⛔ **Disqualified.** Their docs state creator collaborations, sponsorships and affiliate arrangements are all currently paused. |
+| **PyTorch Conference** | Linux Foundation event, TLDR AI 5 Oct. Events buy media but this one is past. |
+| **Dell · Roku · Kalshi · Oyster · Greenfield Robotics · GURU 2026** | In the Beehiiv CPC network. No realistic audience-fit line, or no path to a budget owner proportionate to the fee. |
+| **The Rundown AI · The Deep View · The Code · CEO Report · Marketing Millennials** | Newsletters, not brands. They buy subscriber acquisition on a CPA basis, not flat-fee slots. Different product, not a $750 sell. |
+
+### ⚠️ A CPC advertiser is not a direct buyer
+
+Wispr Flow is in the Beehiiv network **and** has sponsorships explicitly paused. Self-serve
+network spend is a different budget, and often a different team, from direct creator deals.
+Treat an ad-network appearance as a weak signal and a direct newsletter buy (TLDR, a named
+creator collab) as a strong one.

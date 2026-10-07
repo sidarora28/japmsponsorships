@@ -146,3 +146,49 @@ NEEDS SID    31 drafts waiting · Gamma deliverable still open (8 months)
 
 **If the day's quota was missed, the first line of the report says so.** An agent that quietly
 under-delivers is worse than no agent, because it hides the miss until December.
+
+---
+
+## Finding the budget owner — the method that works
+
+Added 7 Oct 2026, after twelve LinkedIn-profile lookups produced one usable contact.
+
+**Do not source contacts from LinkedIn profiles.** Slug guessing is 0-for-7, collision-prone
+company names return the wrong industry entirely, and the records are often stale.
+
+**Use domain → decision makers instead.** Apify actor
+`snipercoder/decision-maker-email-finder`, ~$1 per 1,000 emails, with `$APIFY_API_TOKEN`:
+
+```bash
+curl -s -X POST "https://api.apify.com/v2/acts/snipercoder~decision-maker-email-finder/run-sync-get-dataset-items" \
+  -H "Authorization: Bearer $APIFY_API_TOKEN" -H "Content-Type: application/json" \
+  -d '{"domain":"fullstory.com","decision_maker_category":"director_head_president","max_leads_to_find":25}'
+```
+
+`decision_maker_category` is one of `ceo_founder_owner`, `director_head_president`,
+`manager_entry_intern`. Run the latter two for marketing roles.
+
+**Always filter on `12_Position_history_json` → the entry with `current: true`.** That field
+is the whole value of this tool: it says whether the person still works there. Where it
+disagrees with `16_Company_name` or the headline, the position history wins and the contact is
+dropped. Four of the first thirty-eight contacts were stale and caught this way.
+
+**Prefer titles that own the budget**, in this order: Head/VP of Demand Generation → Growth
+Marketing → Head of Marketing → VP Product Marketing. Avoid Marketing Operations, Field
+Marketing and Customer Marketing; they execute, they don't buy.
+
+An empty result means the domain is not in the database, not that nobody works there
+(`redis.io` and `redis.com` both return nothing).
+
+## Qualifying a company before you look for a person
+
+Read the newsletters that sell to this audience and write down who is already paying.
+TLDR editions live at `tldr.tech/<edition>/<YYYY-MM-DD>` — `product`, `ai`, `webdev`. A company
+appearing there has a funded newsletter line, and a company appearing **repeatedly** has a
+programme. Fullstory ran three placements in fifteen days; that is the strongest cold signal
+available.
+
+⚠️ **A Beehiiv ad-network advertiser is not the same as a direct buyer.** Wispr Flow appears
+in the CPC offers while its own docs say creator collaborations and sponsorships are paused.
+Self-serve network spend is a different budget, often a different team. Network appearance is
+a weak signal; a direct buy (TLDR, a named creator collab) is a strong one.

@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 8 Sep 2026 |
+| Today | 7 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -25,7 +25,7 @@
 plus the placement has to actually run and invoice before year-end. Anything first-touched in
 December lands in January. **Outbound sent after 30 November does not count toward $32K.**
 
-That leaves **~59 working days — but see the absence below.**
+That leaves **38 working days** as of 7 Oct 2026.
 
 ## The daily quota
 
@@ -274,3 +274,44 @@ unanswered at 14 days.
 **Atlassian is the one prospect with a deadline of its own** — a State of AI SDLC summit on
 22 September, promoted in TLDR on 27 Aug. A placement that moves summit registrations has to
 run in the two weeks before it, which means the approach goes out now or the hook is gone.
+
+
+---
+
+## 7 Oct 2026 — recut against the real constraint
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Working days to 30 Nov | **38** |
+| Net-new drafted today | 8 (quota 10 — **short by 2**) |
+| Drafts waiting in `sid@justanotherpm.com` | **~28** |
+| Sent | **0** |
+
+**The daily quota was never the binding constraint, and the plan above was wrong about
+which lane was broken.**
+
+The plan assumed 750 cold touches would produce ~11 deals. It has produced zero, because
+touches were never sent — they were drafted. Two separate walls explain that, and only one
+of them has come down:
+
+| Wall | Status |
+|---|---|
+| **No reachable contact at a qualified company** | ✅ **Fixed 7 Oct** — domain → decision-maker lookup, ~$1 per 1,000 emails. Every "named buyer, no address" entry in the ledger is now reachable. |
+| **Drafts are not sent** | ❌ **Open.** 28 drafts, 0 sends. This is the only thing between $0 and a number. |
+
+**What 38 working days can still do.** The warm and earned lanes do not need volume, they
+need one sitting:
+
+| Action | Value | Who |
+|---|---:|---|
+| Outskill demographics reply | **$750** | Sid — needs the dashboard screenshot |
+| inBeat / Miro invoice chase | earned, 2+ months overdue | Sid — send the draft |
+| Anvil / CreatorBuzz net-30 chase | earned, expired early Sep | Sid — send the draft |
+| Tiiny Host invoice | earned, **amount only Sid knows** | Sid |
+| Beehiiv offers, 15 unclaimed | ~$100–150 | Sid — **all stop 12 Oct** |
+| Fullstory (3× TLDR buyer in 15 days) | $750–$1,500 | Sid — send the draft |
+
+That is roughly **$2,400 of money already earned or near-agreed**, none of it requiring a
+single new prospect. Sourcing can now run at volume; it is no longer what decides whether
+this target is hit.

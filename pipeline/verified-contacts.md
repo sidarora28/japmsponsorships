@@ -373,3 +373,90 @@ has an outstanding obligation on Sid's side.
 | **Inbox sweeps (5–6 Oct)** | **2 searches** | **14** |
 
 Not close.
+
+---
+
+## 7 Oct 2026 — the contact-discovery wall comes down
+
+Three separate entries in this file said some version of *"named, plausible buyer, no
+obtainable address."* That was the binding constraint on the whole desk. It is fixed.
+
+**What changed:** every previous attempt searched **LinkedIn profile → email**. Today's tool
+searches **domain → decision makers**. You hand it `fullstory.com` and a seniority band and
+it returns named people with work emails, titles, departments, and a position history whose
+`current: true` entry says whether they still work there.
+
+`snipercoder/decision-maker-email-finder` on Apify. Input: `{domain, decision_maker_category
+(ceo_founder_owner | director_head_president | manager_entry_intern), max_leads_to_find}`.
+Roughly **$1 per 1,000 emails**.
+
+### Yield, against the two methods already tried
+
+| Method | Attempts | Usable verified contacts |
+|---|---:|---:|
+| LinkedIn profile → email finder *(retired 5 Oct)* | 12 lookups | 1 |
+| Inbox sweeps | 2 searches | 14 |
+| **Domain → decision makers** | **12 domains** | **38 marketing contacts** |
+
+### It also solves the stale-record problem by itself
+
+The 2 and 5 Oct entries in this file are a long argument about whether a contradictory record
+means "wrong company" or "stale". This tool answers it in the data. The position history
+carries a `current` flag, so a record resolves itself:
+
+| Record | Label said | `current` said | Verdict |
+|---|---|---|---|
+| Lisa Hrabosky | VP Bank & Network Partnerships, Marqeta | **Identifee** | Stale — do not use |
+| Amanda Volz | VP Global Customers, Thorn | **Volz Consulting** | Stale — do not use |
+| Jim Walker | VP Product Marketing, Temporal | **Jackrabbit Industries** | Stale — do not use |
+| Whitney Blankenship | Sr Content Marketing, Modash | **Whitticisms** | Stale — do not use |
+| Kristin Mills | VP Growth & Demand Gen, Fullstory | **FullStory** | ✅ Current — pitched |
+
+**New rule, replacing the domain-beats-label rule:** filter on the `current: true` employer in
+position history. Where it disagrees with the headline, the position history wins, and the
+contact is dropped rather than argued about.
+
+### Contacts pitched 7 Oct — all confirmed current
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Fullstory | Kristin Mills | `mills@fullstory.com` | VP, Growth & Demand Generation |
+| Temporal | Mike Pace | `mike@temporal.io` | Head of Demand Gen & Lifecycle Marketing |
+| WorkOS | Amit B | `amit@workos.com` | Head of Marketing |
+| Elastic | Rhodes Klement | `rhodes.klement@elastic.co` | VP Corporate Marketing |
+| Attio | Tristan Morgan | `tristan.morgan@attio.com` | Growth Marketing |
+| Level Access | David Schweer | `david.schweer@levelaccess.com` | VP, Product Marketing |
+| Thorn / Safer.io | Justus Hyatt | `justus.hyatt@wearethorn.org` | Marketing Director |
+| Marqeta | Mark Cousins | `mcousins@marqeta.com` | VP, Global Demand Gen \| EU Marketing |
+
+### Held in reserve — verified, current, not yet contacted
+
+One person per company is the rule, so these are backups if the primary goes silent past T3.
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Attio | Ilan C | `ilan@attio.com` | Head of Product Marketing & Comms |
+| Fullstory | Bekkah Sappington | `bekkah@fullstory.com` | Director of Marketing Operations |
+| Fullstory | Natasha Kading | `natashakading@fullstory.com` | Sr Manager, Integrated & ABM |
+| Temporal | Kelly Bakalich | `kelly.bakalich@temporal.io` | Senior Demand Generation Manager |
+| Elastic | Gagan Singh | `gagan.singh@elastic.co` | VP, Product Marketing |
+| Level Access | Abby Moore | `abby.moore@levelaccess.com` | Director of Field Marketing |
+| Modash | Ryan Prior | `ryan@modash.io` | Head of Marketing |
+| Kameleoon | Helene Batard | `hbatard@kameleoon.com` | Growth Marketing Manager |
+| Kameleoon | Olivia Scholes | `oscholes@kameleoon.com` | Senior Marketing Manager, North America |
+
+**Kameleoon already has a live draft to Katie Green (6 Oct)** — these two are strictly
+fallbacks, do not double-contact.
+
+### Where the tool returns nothing
+
+`redis.io` and `redis.com` both returned a single empty row. Redis is a real prospect — it ran
+a `paid-newsletter` UTM in TLDR AI on 5 Oct, so the budget line exists — but this tool cannot
+see it. Not every domain is covered, and an empty result means "not in the database", not
+"nobody works there."
+
+### Modash — sourced, deliberately not pitched
+
+Ryan Prior is verified and current. I did not draft to him. Modash sells to **influencer
+marketing managers**; this audience is product managers. Pitching it would mean writing a
+line about audience fit that isn't true. Logged as a real contact for when there is a reason.
