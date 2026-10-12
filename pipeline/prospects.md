@@ -420,3 +420,43 @@ Wispr Flow is in the Beehiiv network **and** has sponsorships explicitly paused.
 network spend is a different budget, and often a different team, from direct creator deals.
 Treat an ad-network appearance as a weak signal and a direct newsletter buy (TLDR, a named
 creator collab) as a strong one.
+
+---
+
+## 12 Oct 2026 — ten drafted, mostly from vein D
+
+Rotated off newsletter ad inventory and onto **competitors of brands that have already paid**.
+It is a better vein for one reason: the pitch can contain a true sentence about money that
+has already changed hands in that category.
+
+| # | Company | Contact | Email | Hook | State |
+|---|---|---|---|---|---|
+| P48 | **Amplitude** ⭐ | Adam Bonefeste, Sr Mgr Content Marketing | `adam.bonefeste@amplitude.com` | **Past sponsor**, newsletter placement Mar 2025. R5 recovered | Drafted 12 Oct |
+| P49 | **AB Tasty** | Mary Cash, Head of Growth Marketing | `marykate.cash@abtasty.com` | Optimizely ran a paid LinkedIn video Jun 2026 | Drafted 12 Oct |
+| P50 | **VWO** | Paresh Mandhyan, Global VP Marketing | `paresh.mandhyan@vwo.com` | Same + ~30% of list is India | Drafted 12 Oct |
+| P51 | **Lucid** | TJ Nokleby, Director of Demand Gen | `tnokleby@lucid.co` | Miro paid for Canvas 26 content | Drafted 12 Oct |
+| P52 | **Mural** | Diana Nguyen, Director Content Marketing | `dnguyen@mural.co` | Same | Drafted 12 Oct |
+| P53 | **Contentsquare** | Cassidy Lebert, Sr Growth Marketing Mgr | `cassidy.lebert@contentsquare.com` | Owns Heap + Hotjar; Amplitude paid in category | Drafted 12 Oct |
+| P54 | **Quantum Metric** | Zoe McCook, Sr Dir Content & Comms | `zmccook@quantummetric.com` | Same — ⚠️ draft states the startup/enterprise mismatch | Drafted 12 Oct |
+| P55 | **Hightouch** | Alex Roed, Head of Growth | `alex.roed@hightouch.com` | Beehiiv CPC live 8 Oct | Drafted 12 Oct |
+| P56 | **Front** | Adam Risman, Director Corporate Marketing | `adam.risman@front.com` | Beehiiv CPC live 8 Oct — ⚠️ adjacent buyer, stated | Drafted 12 Oct |
+| P57 | **LogRocket** | Will B., Director Growth Marketing | `will@logrocket.com` | Blog + podcast aimed at PMs, not engineers | Drafted 12 Oct |
+
+### 🔴 A draft was written with a false claim and had to be destroyed
+
+The first AB Tasty draft said *"Kameleoon is in conversation now."* Kameleoon is not in
+conversation — there is an unsent draft to Katie Green from 6 Oct. Deleted and rewritten to
+cite only the Optimizely placement, which is real.
+
+**Rule:** a competitor pitch may cite a deal that **happened**, never one that is merely
+drafted. An unsent draft is not a conversation, a lead, or traction. The same error pattern as
+"days since we drafted is not days since they went quiet" — a draft is not an event.
+
+### 🔴 The Beehiiv claim window does not exist
+
+7 Oct's note said the 15 offers "all stop 12 Oct", based on `send_by`. By the morning of
+**8 Oct the whole list had been replaced and every ID had changed.** Roku ($3.75/click) and
+Dell ($3.75 CPM) were gone; the replacements carried `send_by` 13 Oct.
+
+That is now the third time an offer has been flagged and lost. **`send_by` is not a claim
+window and must never be reported as one. The instruction is: claim the day you see it.**

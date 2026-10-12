@@ -460,3 +460,88 @@ see it. Not every domain is covered, and an empty result means "not in the datab
 Ryan Prior is verified and current. I did not draft to him. Modash sells to **influencer
 marketing managers**; this audience is product managers. Pitching it would mean writing a
 line about audience fit that isn't true. Logged as a real contact for when there is a reason.
+
+---
+
+## 12 Oct 2026 — ten more, and the competitor vein opens up
+
+Second run of the domain → decision-maker lookup. Fourteen domains, ten usable primaries.
+
+### Contacted 12 Oct — all confirmed current from position history
+
+| Company | Person | Email | Title | Vein |
+|---|---|---|---|---|
+| Amplitude | Adam Bonefeste | `adam.bonefeste@amplitude.com` | Sr Manager, Content Marketing | **Past sponsor** (Mar 2025) |
+| AB Tasty | Mary Cash | `marykate.cash@abtasty.com` | Head of Growth Marketing | Competitor of Optimizely |
+| VWO | Paresh Mandhyan | `paresh.mandhyan@vwo.com` | Global VP of Marketing & Sales Dev | Competitor of Optimizely |
+| Lucid | TJ Nokleby | `tnokleby@lucid.co` | Director of Demand Generation | Competitor of Miro |
+| Mural | Diana Nguyen | `dnguyen@mural.co` | Director, Content Marketing | Competitor of Miro |
+| Contentsquare | Cassidy Lebert | `cassidy.lebert@contentsquare.com` | Senior Growth Marketing Manager | Competitor of Amplitude |
+| Quantum Metric | Zoe McCook | `zmccook@quantummetric.com` | Sr Director, Content & Communications | Competitor of Amplitude |
+| Hightouch | Alex Roed | `alex.roed@hightouch.com` | Head of Growth | Beehiiv CPC advertiser |
+| Front | Adam Risman | `adam.risman@front.com` | Director of Corporate Marketing | Beehiiv CPC advertiser |
+| LogRocket | Will B. | `will@logrocket.com` | Director, Growth Marketing | PM-targeted content programme |
+
+### Stale records caught and dropped
+
+The `current: true` filter earned its keep again. Each of these has a plausible title at the
+target company and a different current employer:
+
+| Record | Label | Actually at |
+|---|---|---|
+| Tanya Littlefield | VP of Growth & Digital Marketing, Amplitude | Customer-Led Marketing Consulting |
+| McCall Turner | Community Growth Marketing Manager, Hightouch | Passionfroot |
+| Alec Haase | Head of Marketing Technology, Hightouch | beehiiv |
+| Brian Heberer | Growth Marketing Manager, AB Tasty | Modern Sales Pros |
+| James Doman-Pipe | Head of Product Marketing, Remote | Klue |
+| Rich Bentley | Senior Director Product Marketing, Contentsquare | Love Marry Kill podcast |
+
+Tanya Littlefield is the instructive one: VP of Growth at a past sponsor is the single best
+title on the whole list, and she has left. Without the filter that email goes nowhere and
+looks careless.
+
+### Held in reserve — verified, current, not contacted
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Amplitude | Nikhil Gangaraju | `nikhil@amplitude.com` | Product Marketing Director, Analytics/AI |
+| Amplitude | Darah Easton | `darah@amplitude.com` | Director, Global Comms & Social Media |
+| Hightouch | Gabriella Maffly | `gabriella@hightouch.com` | Senior Growth Marketing Manager |
+| Hightouch | Lizzie Cantor | `lizzie@hightouch.com` | Head of Product Marketing |
+| LogRocket | Jeff Wharton | `jeff@logrocket.com` | VP, Marketing |
+| AB Tasty | John Hughes | `john.hughes@abtasty.com` | VP of Marketing |
+| Contentsquare | Moran Harpaz | `moran.harpaz@contentsquare.com` | VP of Marketing |
+| Lucid | Sable Lindquist | `sable@lucid.co` | VP, Product Marketing |
+| Front | Sarah Spangenberg | `sarah@front.com` | Head of Product Marketing |
+| Quantum Metric | Ashley Mauras | `amauras@quantummetric.com` | Director of Experience Marketing |
+| Mural | David Vermerris | `dvermerris@mural.co` | Director of Lifecycle Marketing |
+| Reforge | Anne Lewandowski | `anne.lewandowski@reforge.com` | Group Strategy Lead, Growth |
+| Remote | Gillian O'Brien | `gillian.obrien@remote.com` | Head of Product Marketing |
+| VWO | Sonia Joseph | `sonia.joseph@vwo.com` | Growth Marketing Manager |
+
+### Sourced, not contacted — and why
+
+| Company | Reason |
+|---|---|
+| **Reforge** | Anne Lewandowski is verified and current. **Sid's call, not the desk's:** Reforge sells cohort courses and Sid's own AI PM Accelerator opens 31 Oct. Taking their money to reach an audience he is selling a competing course to is a conflict only he can weigh. |
+| **Remote.com** | Beehiiv CPC advertiser, but no demand-gen owner surfaced and the audience is HR and ops rather than product. No honest fit line. |
+| **Replit** | 10 rows, zero marketing. A Passionfroot-era brand still unreachable. |
+| **Maven** | Only 2 rows, no marketing. The `chelsea@` / `delaney@` addresses in older notes have no verified provenance, so they were not used. |
+| **Redis** | Still nothing on `redis.io` or `redis.com`. Real budget, no address. |
+
+### The Passionfroot write-off is partly recoverable
+
+On 18 Aug five warm re-pitches were struck because they all ran through Passionfroot, at an
+estimated **$3,000–6,000** removed from the pipeline. With direct addresses, that reverses
+case by case:
+
+| Was | Now |
+|---|---|
+| R5 **Amplitude** | ✅ Recovered — `adam.bonefeste@amplitude.com`, drafted 12 Oct |
+| R7 **Replit** | ❌ Still no marketing contact |
+| R8 **Figma** · R9 **Reforge** · R11 **Parlance Labs** | Not yet pulled; Reforge is a conflict call for Sid |
+
+**Why direct is correct here and not a breach of the rail rule.** The standing rule is that a
+marketplace re-pitch goes through the rep, to protect a live relationship. Passionfroot was
+closed by Sid on 18 Aug — there is no live relationship and no rep. Going direct takes nothing
+from anyone.

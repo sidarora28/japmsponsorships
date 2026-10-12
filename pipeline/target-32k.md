@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 7 Oct 2026 |
+| Today | 12 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -315,3 +315,46 @@ need one sitting:
 That is roughly **$2,400 of money already earned or near-agreed**, none of it requiring a
 single new prospect. Sourcing can now run at volume; it is no longer what decides whether
 this target is hit.
+
+
+---
+
+## 12 Oct 2026
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Working days to 30 Nov | **35** |
+| Net-new drafted today | **10 / 10** |
+| Drafts waiting in `sid@justanotherpm.com` | **~38** |
+| Sent | **0** |
+| Replies | **0** — nothing has gone out |
+
+**Sourcing is no longer a constraint and should stop being measured as one.** Two runs of the
+domain lookup have produced 18 pitched contacts and ~25 verified reserves across 26 domains.
+The daily 10 can now be hit on demand, which means hitting it is no longer evidence of
+progress.
+
+### What the lanes actually look like now
+
+| Lane | Was | Now |
+|---|---|---|
+| Cold outbound | capped by no reachable contact | **uncapped** — capped by sends |
+| Past sponsors | 8 warm, 3 reachable emails | Amplitude recovered; Figma and Parlance Labs still unpulled |
+| Marketplaces | Paved + 1stCollab | unchanged, both silent |
+| Earned money | ~$2,400 across 4 items | unchanged, all four still undrafted-to-unsent |
+
+### The honest forecast
+
+35 working days. A B2B sponsorship takes two to three weeks from first contact to signed, so
+**anything first touched after roughly 10 November will not land inside the window.** That
+leaves about four usable weeks of first contacts.
+
+At a 5% reply rate and 30% close on replies, the 38 drafts already written are worth roughly
+**one deal** if all 38 go out — call it $750–$1,500. The $32,000 target does not survive
+contact with that arithmetic unless either the warm and earned lanes convert, or sends start
+happening in volume.
+
+Stated plainly so it is a known position rather than a surprise in December: **on current
+send behaviour the forecast is $0–$3,000, not $32,000.** The gap is not sourcing, pricing,
+audience or copy. It is that no email has left the mailbox since 2 October.

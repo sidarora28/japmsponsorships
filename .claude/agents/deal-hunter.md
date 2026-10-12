@@ -192,3 +192,29 @@ available.
 in the CPC offers while its own docs say creator collaborations and sponsorships are paused.
 Self-serve network spend is a different budget, often a different team. Network appearance is
 a weak signal; a direct buy (TLDR, a named creator collab) is a strong one.
+
+## Two rules learned the hard way, 12 Oct 2026
+
+**A draft is not an event.** A competitor pitch may cite a deal that happened, never one that
+is merely drafted. An AB Tasty draft claimed "Kameleoon is in conversation now" when the only
+thing that existed was an unsent draft to Kameleoon. Same family as the earlier error of
+reporting "days since we drafted" as "days since they went quiet". Before writing any claim
+about traction, check whether the thing actually left the mailbox.
+
+**Beehiiv offers have no claim window.** `send_by` is the latest run date. The whole offer
+list is replaced daily and every id changes. Never report an offer as available until a date;
+report it as claim-today-or-lose-it. Three offers have now been flagged and lost this way.
+
+## Vein D is the strongest vein — work it first
+
+Competitors of brands that have already paid beat every other source, because the pitch can
+carry a true sentence about money that has already changed hands in that category. Optimizely
+(paid LinkedIn video, Jun 2026), Miro (paid content partner, Canvas 26) and Amplitude (paid
+newsletter placement, Mar 2025) each unlock a whole category:
+
+- Optimizely → Kameleoon, AB Tasty, VWO
+- Miro → Lucid, Mural
+- Amplitude → Contentsquare (Heap, Hotjar), Quantum Metric, LogRocket, Fullstory, Pendo, Mixpanel
+
+Run the domain lookup on the competitor set of every past sponsor before sourcing anything
+cold.
