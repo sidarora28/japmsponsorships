@@ -545,3 +545,67 @@ case by case:
 marketplace re-pitch goes through the rep, to protect a live relationship. Passionfroot was
 closed by Sid on 18 Aug — there is no live relationship and no rep. Going direct takes nothing
 from anyone.
+
+---
+
+## 13 Oct 2026 — eight more, and R8 Figma recovered
+
+| Company | Person | Email | Title | Vein |
+|---|---|---|---|---|
+| Figma | Reema Batta | `rbatta@figma.com` | VP Growth Marketing — PLG & Sales Assist | **R8 recovered** (Passionfroot-era) |
+| Smartsheet | Joe Weller | `joe.weller@smartsheet.com` | VP, Demand Generation | Competitor of Airtable |
+| Coda | Jen Anthony | `jen@coda.io` | Growth Marketing Manager | Competitor of Airtable |
+| Netlify | Joanna Mecko | `joanna.mecko@netlify.com` | Global Head of Demand Generation | Competitor of Vercel / Tiiny Host |
+| Sprig | Chipper Nicodemus | `chipper.nicodemus@sprig.com` | Head of Marketing | Product research category |
+| Canny | Eric Hoppe | `eric@canny.io` | Head of Marketing | Competitor of Productboard |
+| Dovetail | Liam Scanlon | `lscanlon@dovetail.com` | Product Marketing Manager | Competitor of Enterpret |
+| UserTesting | Paige Musto | `pmusto@usertesting.com` | VP, Corporate Marketing | Product research category |
+
+### Reserves
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Figma | Heidi Myers | `hmyers@figma.com` | Senior Director of Marketing, International |
+| Figma | Andrew Forbes | `aforbes@figma.com` | Director, Product Marketing |
+| Smartsheet | Fabrice Kwizera | `fabrice.kwizera@smartsheet.com` | Director of Performance Marketing |
+| Smartsheet | Brendan Regan | `brendan.regan@smartsheet.com` | Senior Director, Lifecycle Marketing |
+| Coda | Maggie Friedman | `maggie@coda.io` | Growth Marketing Manager |
+| Netlify | Michelle Herman | `michelle.herman@netlify.com` | Head of Marketing & Communications |
+| Canny | Kaman Hui | `kaman@canny.io` | Growth Marketing Manager |
+| Dovetail | Siddharth Sant | `siddharth@dovetail.com` | Senior Lifecycle Marketing Manager |
+| UserTesting | Bobby Meixner | `bmeixner@usertesting.com` | VP, Solution Marketing |
+
+### Stale records dropped
+
+| Record | Label | Actually at |
+|---|---|---|
+| Amber Bravo | Director Content & Editorial, Figma | Google |
+| AL Chen | Growth/GTM, Coda | KeyCuts |
+| Katy Turner | Product Marketing Manager, Coda | Rice University |
+| Akia Obas | Senior Director GTM, Netlify | Stage 2 Capital |
+| Jeremie Gluckman | Integrated Marketing / Demand Gen, Dovetail | Sidebar |
+| Jenna Potter | Content Marketing Manager, Canny | DGMG |
+| Omar Akhtar | Director of Content, UserTesting | Benchmarker |
+
+### The Passionfroot write-off, final accounting
+
+| Was struck 18 Aug | Now |
+|---|---|
+| R5 **Amplitude** | ✅ Recovered 12 Oct — `adam.bonefeste@amplitude.com` |
+| R8 **Figma** | ✅ Recovered 13 Oct — `rbatta@figma.com` |
+| R7 **Replit** | ❌ 10 rows, no marketing contact |
+| R11 **Parlance Labs** | ❌ 2 rows, no marketing contact. Small consultancy — expected |
+| R9 **Reforge** | Reachable, but a conflict call for Sid (competing cohort course) |
+
+**Two of five recovered.** Also unreachable: Maze (2 rows).
+
+### Sid's own LinkedIn post is now a sourcing asset
+
+The 1 Oct post — *"I built a fully functional prototype in 2 hours… then it took 2 weeks to
+get feedback"* — did **2,929 impressions, 1,173 members reached, 21 reactions, 7 comments,
+0.92% engagement**. It names, in the buyer's own language, the problem that Netlify, Sprig,
+Dovetail, UserTesting and Figma Make all sell against.
+
+**Method worth repeating:** pull post analytics from AuthoredUp, find a post whose complaint
+maps onto a vendor's pitch, and open the email with it. It is specific, true, checkable, and
+flatters nobody. Four of today's eight drafts use it.

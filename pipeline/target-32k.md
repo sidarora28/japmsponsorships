@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 12 Oct 2026 |
+| Today | 13 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -358,3 +358,33 @@ happening in volume.
 Stated plainly so it is a known position rather than a surprise in December: **on current
 send behaviour the forecast is $0–$3,000, not $32,000.** The gap is not sourcing, pricing,
 audience or copy. It is that no email has left the mailbox since 2 October.
+
+
+---
+
+## 13 Oct 2026
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Working days to 30 Nov | **34** |
+| Net-new drafted today | **8 / 10** |
+| Drafts in `sid@justanotherpm.com` | **~47** |
+| Sent | **0** |
+
+### Five of the 47 are not sales
+
+They are money already earned or already agreed, and none of them needs a prospect, a price
+or a better email:
+
+| Item | State |
+|---|---|
+| **Tiiny Host** | Payer chasing **twice**. Post metrics now in the draft. Needs the amount and two attachments |
+| **inBeat / Miro** | Invoiced 17 Jul, "with accounting" 30 Jul. ~3 months |
+| **Anvil / CreatorBuzz** | Net-30 promised 10 Aug, expired early Sep |
+| **Outskill** | $750, buyer asked six times, last chase 25 Sep |
+| **Paved bundles** | Submitted 21 Aug, never listed. 50-day mail search shows **nothing from Paved at all** |
+
+A payer chasing you twice to pay is the clearest signal on this whole board. It is also the
+one item where the desk genuinely cannot finish the job: the agreed fee exists only in Sid's
+head, and the screenshot has to come off his screen.

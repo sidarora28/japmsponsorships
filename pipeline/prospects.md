@@ -460,3 +460,32 @@ Dell ($3.75 CPM) were gone; the replacements carried `send_by` 13 Oct.
 
 That is now the third time an offer has been flagged and lost. **`send_by` is not a claim
 window and must never be reported as one. The instruction is: claim the day you see it.**
+
+---
+
+## 13 Oct 2026 — eight drafted, plus Tiiny Host collections
+
+| # | Company | Contact | Email | Hook | State |
+|---|---|---|---|---|---|
+| P58 | **Figma** ⭐ | Reema Batta, VP Growth Marketing | `rbatta@figma.com` | R8 recovered; 1 Oct prototype post | Drafted 13 Oct |
+| P59 | **Smartsheet** | Joe Weller, VP Demand Generation | `joe.weller@smartsheet.com` | Airtable paid $1,500 in Feb, yes inside a day | Drafted 13 Oct |
+| P60 | **Coda** | Jen Anthony, Growth Marketing Manager | `jen@coda.io` | Same | Drafted 13 Oct |
+| P61 | **Netlify** | Joanna Mecko, Global Head of Demand Gen | `joanna.mecko@netlify.com` | 1 Oct post: prototype stuck on a laptop | Drafted 13 Oct |
+| P62 | **Sprig** | Chipper Nicodemus, Head of Marketing | `chipper.nicodemus@sprig.com` | "A web address is not feedback" | Drafted 13 Oct |
+| P63 | **Canny** | Eric Hoppe, Head of Marketing | `eric@canny.io` | Roadmap feedback; Pendo/Productboard named openly | Drafted 13 Oct |
+| P64 | **Dovetail** | Liam Scanlon, Product Marketing Mgr | `lscanlon@dovetail.com` | Same feedback thread; asks to be pointed on | Drafted 13 Oct |
+| P65 | **UserTesting** | Paige Musto, VP Corporate Marketing | `pmusto@usertesting.com` | ⚠️ Startup-vs-enterprise mismatch stated | Drafted 13 Oct |
+
+### ⛔ Declined without drafting — `brittany@bloginite.com`
+
+Asked for pricing on "guest content or link insertion on justanotherpm.com". **Link insertion
+is selling backlinks.** It is not a sponsorship, it devalues the domain, and the damage is
+hard to reverse. No draft written, recommendation to decline recorded. Sid's call if he
+disagrees.
+
+### Beehiiv — rotation three, payouts halved
+
+Third rotation in seven days, all IDs new. Estimated payouts roughly halved against 8 Oct
+(Wispr Flow $12.00 → $6.00; Attio gone). Confirms again that the offer board is a daily
+market, not a queue. **HubSpot reappeared twice** — a past Paved sponsor who bought twice,
+spending in Beehiiv's ad network while the Paved bundle listing still has not been built.
