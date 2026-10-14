@@ -609,3 +609,86 @@ Dovetail, UserTesting and Figma Make all sell against.
 **Method worth repeating:** pull post analytics from AuthoredUp, find a post whose complaint
 maps onto a vendor's pitch, and open the email with it. It is specific, true, checkable, and
 flatters nobody. Four of today's eight drafts use it.
+
+---
+
+## 14 Oct 2026 — a second source, and the coverage boundary of the first
+
+### Source 1 has a hard edge: it does not know AI-native companies
+
+Nine domains, all blank — every one returned *"No emails found from the given input."*
+
+`langchain.com` · `braintrust.dev` · `humanloop.com` · `langfuse.com` · `arize.com` ·
+`pinecone.io` · `vellum.ai` · `weaviate.io` · `stackblitz.com`
+
+Added to the earlier blanks — `redis.io`, `redis.com`, `replit.com`, `maze.co`,
+`maven.com`, `parlancelabs.com` — the pattern is clear. **Source 1 covers established B2B
+SaaS. It does not cover the AI-native wave**, which is the category this audience actually
+buys from.
+
+### Source 2 — `scalelist/domain-email-finder`
+
+Input `{domains: [...], limit}`. Charged per email found. Accepts many domains per call.
+Returns `email`, `first_name`, `last_name`, `job_title`, `department`, `seniority`,
+`email_status`.
+
+The same five domains that returned nothing from source 1 returned **59 records, 44 named**.
+
+### ⚠️ The trade-off, stated plainly
+
+| | Source 1 (`snipercoder/decision-maker-email-finder`) | Source 2 (`scalelist/domain-email-finder`) |
+|---|---|---|
+| Established SaaS | ✅ strong | ✅ |
+| AI-native startups | ❌ nothing | ✅ |
+| `12_Position_history_json` with `current: true` | ✅ | ❌ **absent** |
+
+**Source 2 cannot be filtered for stale records.** The `current: true` check caught sixteen
+wrong-employer records across 12–13 Oct, including Amplitude's VP of Growth — the best title
+on that list. Source 2 offers no equivalent, so every contact from it is *address verified,
+employment unconfirmed*.
+
+**Rule: source 1 first, every time. Source 2 only where source 1 returns nothing, and label
+the contacts as lower-confidence when reporting them.**
+
+### Contacted 14 Oct — all from source 2, employment unconfirmed
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Arize | Anadelia Fadeev | `afadeev@arize.com` | Head of Demand Generation |
+| Pinecone | Greg Kogan | `greg@pinecone.io` | VP Marketing |
+| Replit | Nick Silver | `nick.silver@replit.com` | VP of Marketing |
+| Lovable | Heather Mackinnon | `heather@lovable.dev` | Head of Brand Marketing |
+| Vellum | Anita Kirkovska | `anita@vellum.ai` | Growth Manager |
+| Braintrust | Ankur Goyal | `ankur@braintrust.dev` | CEO |
+| Langfuse | Jannik Maierhöfer | `jannik@langfuse.com` | Growth Engineer |
+| Qdrant | Andre Zayarni | `andre.zayarni@qdrant.tech` | CEO |
+| Chroma | Jeff Huber | `jeff@trychroma.com` | CEO |
+| Maze | Jonathan Widawski | `jonathan@maze.co` | Founder |
+
+### Reserves
+
+| Company | Person | Email | Title |
+|---|---|---|---|
+| Pinecone | Julia Neumann | `julia@pinecone.io` | Senior Director of Marketing |
+| Pinecone | Asaf Ashirov | `asaf@pinecone.io` | Growth Marketing Lead |
+| Lovable | Vikas Bhagat | `vikas@lovable.dev` | Head of Product Marketing |
+| Lovable | Dan O'Leary | `dan.oleary@lovable.dev` | Head of Partnerships |
+| Langfuse | Annabell Schäfer | `annabell@langfuse.com` | Growth Developer Relations Engineer |
+| Weaviate | Bob Luijt | `bob@weaviate.io` | CEO |
+| Patronus AI | Rebecca Qian | `rebecca@patronus.ai` | Co-Founder & CTO |
+
+### 🔴 Domain collision caught — `chroma.com` is not Chroma
+
+Source 2 returned *"Jennifer Lee, Marketing Director"* and *"Newell Lessell, CEO"* for
+`chroma.com`. **Chroma the vector database is `trychroma.com`**, whose CEO is Jeff Huber.
+`chroma.com` belongs to someone else entirely.
+
+This is the Figr failure again — a plausible-looking result for a name that several companies
+share. **A correct-looking record from a wrong domain is worse than no record, because
+nothing about it looks wrong.** Confirm the domain belongs to the company you meant before
+trusting anything keyed to it.
+
+### Still unreachable on both sources
+
+`parlancelabs.com` (1 row), `redis.io` / `redis.com` (3 rows, no names). R11 Parlance Labs is
+closed as unrecoverable.

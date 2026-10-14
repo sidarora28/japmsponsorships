@@ -1,101 +1,105 @@
-# TODAY — Tuesday 13 October
+# TODAY — Wednesday 14 October
 
-**8 net-new drafted against a quota of 10 — short by 2.** But the thing worth reading is the
-first item, because someone is now chasing you twice in order to pay you.
-
----
-
-## 💰 Tiiny Host chased again last night. They want to pay and you are the blocker.
-
-Elston, 12 Oct 21:18:
-
-> *"I'm checking in on this as we are still waiting on the screenshots of the post
-> performance, and I haven't received your invoice yet either."*
-
-That is the **second** chase. They asked on 1 October, gave you the billing entity the same
-evening, and have now asked again eleven days later. This is earned money with a willing
-payer and no negotiation left in it.
-
-**I pulled the real post numbers so only two things are left for you.** The post went live
-1 Oct and performed:
-
-| | |
-|---|---:|
-| Impressions | **2,929** |
-| Members reached | 1,173 |
-| Reactions | 21 |
-| Comments | 7 |
-| Reposts | 1 |
-| Engagement rate | 0.92% |
-
-The draft is written to Elston and Marjorie with those figures in the body and the invoice
-made out to Tiiny Labs Limited, International House, 64 Nile Street, London N1 7SR.
-
-**Two blanks only you can fill:**
-1. The amount — it says `[AMOUNT]`. You are the only person who knows what was agreed.
-2. The analytics screenshot and the invoice file, both of which need attaching.
-
-Still open and still yours: whether the affiliate link you signed up for is **on top of** the
-fee or **instead of** it. A barter swap is outside what this desk can agree to.
+**Quota met: 10 net-new drafted — and for the first time they are AI-native companies, which
+is the category this audience actually belongs to.**
 
 ---
 
-## The eight net-new, all in `sid@justanotherpm.com`
+## A second contact source, with different coverage
 
-Vein D again — competitors of brands that have already paid — plus one recovered past-sponsor
-rail.
+Yesterday's tool went nine-for-nine **blank** on AI-native companies: LangChain, Pinecone,
+Braintrust, Humanloop, Langfuse, Arize, Vellum, Weaviate, StackBlitz. Every one returned
+*"No emails found from the given input."*
 
-| Company | Person | Email | The true line |
+That is a coverage boundary, not a bug. **The first database knows established B2B SaaS and
+does not know the AI-native wave** — which is precisely where an AI PM newsletter should be
+selling.
+
+A second source (`scalelist/domain-email-finder`) covers them. Same five test domains that
+returned nothing yesterday returned **59 records, 44 of them named people**.
+
+| | Source 1 — domain decision-makers | Source 2 — domain email finder |
+|---|---|---|
+| Established SaaS | ✅ strong | ✅ |
+| AI-native startups | ❌ nothing at all | ✅ |
+| Position history / current employer | ✅ **yes** — catches stale records | ❌ **no** |
+
+⚠️ **Read this before you send any of today's ten.** Source 2 gives no position history, so
+I could not confirm these people still work there the way I could yesterday. The addresses
+are provider-verified; the employment is not independently checked. **It is a real step down
+in confidence from the 12–13 October batches.** Sixteen stale records were caught by that
+filter over two days, so this matters.
+
+Use source 1 first, always. Fall back to source 2 only when it comes back empty.
+
+---
+
+## 🔓 R7 Replit recovered — three of five Passionfroot write-offs are back
+
+**Nick Silver, VP of Marketing — `nick.silver@replit.com`**
+
+| Struck 18 Aug | Now |
+|---|---|
+| R5 **Amplitude** | ✅ Recovered 12 Oct |
+| R8 **Figma** | ✅ Recovered 13 Oct |
+| R7 **Replit** | ✅ Recovered today |
+| R11 **Parlance Labs** | ❌ Both sources blank. Small consultancy — accept it |
+| R9 **Reforge** | Reachable, but a conflict call only you can make |
+
+The 18 August write-off was estimated at **$3,000–6,000 removed from the pipeline.** Three
+of the five brands behind it are now reachable directly.
+
+---
+
+## The ten, all in `sid@justanotherpm.com`
+
+Best audience fit of any batch so far: LLM evals, observability and vector search are what
+AI product managers are actually buying this quarter.
+
+| Company | Person | Email | Hook |
 |---|---|---|---|
-| **Figma** ⭐ | Reema Batta, VP Growth Marketing (PLG) | `rbatta@figma.com` | **R8 recovered.** Written off 18 Aug with Passionfroot; now reachable. Hook is your 1 Oct prototype post |
-| **Smartsheet** | Joe Weller, VP Demand Generation | `joe.weller@smartsheet.com` | Airtable bought a $1,500 post in February and said yes inside a day |
-| **Coda** | Jen Anthony, Growth Marketing Manager | `jen@coda.io` | Same |
-| **Netlify** | Joanna Mecko, Global Head of Demand Gen | `joanna.mecko@netlify.com` | Your 1 Oct post is literally "my prototype is stuck on my laptop and hosting it needs a repo, a ticket and an engineer" |
-| **Sprig** | Chipper Nicodemus, Head of Marketing | `chipper.nicodemus@sprig.com` | "A web address is not feedback" — their problem statement in your words |
-| **Canny** | Eric Hoppe, Head of Marketing | `eric@canny.io` | Roadmap feedback; draft says openly that Pendo and Productboard are being pitched the same slots |
-| **Dovetail** | Liam Scanlon, Product Marketing Manager | `lscanlon@dovetail.com` | Same feedback thread. Draft asks to be pointed on if sponsorship isn't his |
-| **UserTesting** | Paige Musto, VP Corporate Marketing | `pmusto@usertesting.com` | ⚠️ Draft states plainly that your readers skew startup, not enterprise research teams |
+| **Arize** ⭐ | Anadelia Fadeev, Head of Demand Generation | `afadeev@arize.com` | Your 23 Sep edition: most agent failures are a vague tool description, found only by looking at the trace |
+| **Pinecone** ⭐ | Greg Kogan, VP Marketing | `greg@pinecone.io` | Your RAG-vs-fine-tuning edition and the "what goes underneath" question that followed |
+| **Replit** ⭐ | Nick Silver, VP of Marketing | `nick.silver@replit.com` | R7 recovered. The 1 Oct prototype post |
+| **Lovable** | Heather Mackinnon, Head of Brand Marketing | `heather@lovable.dev` | Same post. ⚠️ The old Lovable contact in the ledger was the purged Twill mix-up — this one is real |
+| **Vellum** | Anita Kirkovska, Growth Manager | `anita@vellum.ai` | Their content already writes for PMs rather than ML engineers |
+| **Braintrust** | Ankur Goyal, CEO | `ankur@braintrust.dev` | Small enough that it's his call; draft says so |
+| **Langfuse** | Jannik Maierhöfer, Growth Engineer | `jannik@langfuse.com` | Traces, same 23 Sep argument |
+| **Qdrant** | Andre Zayarni, CEO | `andre.zayarni@qdrant.tech` | RAG edition |
+| **Chroma** | Jeff Huber, CEO | `jeff@trychroma.com` | RAG edition |
+| **Maze** | Jonathan Widawski, Founder | `jonathan@maze.co` | "A web address is not feedback." Blank on source 1 yesterday |
 
-**Your own LinkedIn post is now doing the selling.** Four of these eight open on the 1 October
-post — 2,929 impressions, comments full of PMs with the same complaint — because it describes
-the exact problem Netlify, Sprig, Dovetail, UserTesting and Figma Make all sell against. That
-is a better hook than anything I can write about them, and it is checkable.
+### A domain collision caught before it cost anything
 
----
-
-## Beehiiv rotated again, and the payouts have halved
-
-Third rotation in a week. All new IDs. **Estimated payouts are roughly half** what they were
-on 8 Oct — Wispr Flow $12.00 → $6.00, Attio gone entirely. Best now: Wispr Flow and Aligned
-at $3.00/click (~$6.00 each), Kalshi $2.25.
-
-HubSpot is back on the list, twice. Worth noting only because HubSpot is a **past Paved
-sponsor who bought twice** — their money is in the newsletter ad network while the Paved
-bundle listing sits unbuilt.
+Source 2 returned "Jennifer Lee, Marketing Director" and "Newell Lessell, CEO" for
+**`chroma.com`**. Chroma the vector database is **`trychroma.com`**, whose CEO is Jeff Huber.
+`chroma.com` is an unrelated company. Same failure mode as the Figr scrape that returned a
+cannabis producer and an architecture studio. **Always confirm the domain belongs to the
+company you meant.**
 
 ---
 
-## 🔇 Paved and 1stCollab are both completely silent
+## Atlassian is paying Beehiiv while your draft to them sits unsent
 
-Searched 50 days of mail: **not one message from Paved or 1stCollab.** That means:
+Fourth rotation in eight days, all IDs new again. Today's best offer is **Atlassian at
+$3.75/click (~$11.25)**.
 
-- **D2 Paved bundles** — the submitted bundles, the Q4 Full Stack at $5,500, and the promise
-  that Paved would push them through their own sales team. Silent since early September, well
-  past five weeks. The only passive revenue lane in the whole plan, and it never went live.
-- **D3 / Varun at 1stCollab** — chase drafted 2 Oct, unsent. Silent since January.
+Atlassian is **D6 on your own pipeline** — Christopher Metoyer, verified 8 September, two
+drafts written, neither sent. They are spending money inside your newsletter's ad network
+this week while the direct pitch, which would be worth $750–$1,500 instead of eleven dollars,
+has not left the mailbox.
 
-Both carry re-pitches behind them. Neither needs new work; both need a send.
+That is the clearest single illustration of where this desk is stuck.
 
 ---
 
-## Not drafted, and why
+## No sponsorship inbound
 
-**`brittany@bloginite.com`** asked for pricing on *"guest content or link insertion on
-justanotherpm.com."* Link insertion means selling backlinks. It is not sponsorship, it
-devalues the domain you are building, and it is the sort of thing that is hard to undo.
-**Recommend declining — no draft written.** Say the word and I'll write a one-line no.
+Both mailboxes, 13–14 Oct. Course leads, a job application, an interview request from a high
+school student, vendor newsletters, DMARC reports. Nothing to triage.
 
-**Maze** and **Parlance Labs** returned no marketing contacts, so R11 stays unrecoverable.
+**Tiiny Host is unchanged** — they chased on 12 Oct, the reply with their post numbers has
+been drafted since yesterday, and it still needs the amount and two attachments from you.
 
 ---
 
@@ -104,12 +108,12 @@ devalues the domain you are building, and it is the sort of thing that is hard t
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Working days to 30 Nov | **34** |
-| Net-new drafted today | **8 / 10** |
-| Drafts waiting in `sid@justanotherpm.com` | **~47** |
+| Working days to 30 Nov | **33** |
+| Net-new drafted today | **10 / 10** |
+| Drafts waiting in `sid@justanotherpm.com` | **~57** |
 | Sent | **0** |
 | Replies | **0** |
 
-Of those 47, **five are money already earned or already agreed**: Tiiny Host, inBeat/Miro,
-Anvil/CreatorBuzz, Outskill's $750, and the Paved bundle listing. None of the five needs a
-new prospect, a better price or a cleverer email.
+Fifty-seven finished emails. Five of them are money already earned or agreed. One company on
+that list is, today, paying eleven dollars into the ad network attached to the newsletter
+whose $750 slot they have not been asked about.

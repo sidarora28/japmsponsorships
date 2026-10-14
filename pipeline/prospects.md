@@ -489,3 +489,37 @@ Third rotation in seven days, all IDs new. Estimated payouts roughly halved agai
 (Wispr Flow $12.00 → $6.00; Attio gone). Confirms again that the offer board is a daily
 market, not a queue. **HubSpot reappeared twice** — a past Paved sponsor who bought twice,
 spending in Beehiiv's ad network while the Paved bundle listing still has not been built.
+
+---
+
+## 14 Oct 2026 — ten AI-native prospects, best category fit yet
+
+Vein C — recently funded AI tooling — finally workable now that a second contact source
+covers it. LLM evals, observability and vector search are what AI product managers are
+buying this quarter, which makes these the closest category match of any batch so far.
+
+| # | Company | Contact | Email | Hook | State |
+|---|---|---|---|---|---|
+| P66 | **Arize** ⭐ | Anadelia Fadeev, Head of Demand Gen | `afadeev@arize.com` | 23 Sep edition: agent failures are a vague tool description | Drafted 14 Oct |
+| P67 | **Pinecone** ⭐ | Greg Kogan, VP Marketing | `greg@pinecone.io` | RAG-vs-fine-tuning edition | Drafted 14 Oct |
+| P68 | **Replit** ⭐ | Nick Silver, VP of Marketing | `nick.silver@replit.com` | **R7 recovered.** 1 Oct prototype post | Drafted 14 Oct |
+| P69 | **Lovable** | Heather Mackinnon, Head of Brand Marketing | `heather@lovable.dev` | 1 Oct prototype post | Drafted 14 Oct |
+| P70 | **Vellum** | Anita Kirkovska, Growth Manager | `anita@vellum.ai` | Their content writes for PMs, not ML engineers | Drafted 14 Oct |
+| P71 | **Braintrust** | Ankur Goyal, CEO | `ankur@braintrust.dev` | Evals; draft says openly it's his call | Drafted 14 Oct |
+| P72 | **Langfuse** | Jannik Maierhöfer, Growth Engineer | `jannik@langfuse.com` | Traces | Drafted 14 Oct |
+| P73 | **Qdrant** | Andre Zayarni, CEO | `andre.zayarni@qdrant.tech` | RAG edition | Drafted 14 Oct |
+| P74 | **Chroma** | Jeff Huber, CEO | `jeff@trychroma.com` | RAG edition | Drafted 14 Oct |
+| P75 | **Maze** | Jonathan Widawski, Founder | `jonathan@maze.co` | "A web address is not feedback" | Drafted 14 Oct |
+
+⚠️ **All ten come from the lower-confidence source.** No position history, so no
+current-employer check. Addresses are provider-verified; employment is not. See
+`verified-contacts.md`.
+
+### Atlassian is in the ad network while the direct pitch sits unsent
+
+Beehiiv rotated a fourth time in eight days. Today's top offer is **Atlassian at $3.75/click,
+~$11.25 estimated**.
+
+Atlassian is **D6** — Christopher Metoyer, verified 8 Sep, two drafts written, neither sent.
+They are buying inside this newsletter's ad network this week while a direct $750–$1,500
+placement has never been put in front of them.

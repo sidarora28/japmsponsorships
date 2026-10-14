@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 13 Oct 2026 |
+| Today | 14 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -388,3 +388,40 @@ or a better email:
 A payer chasing you twice to pay is the clearest signal on this whole board. It is also the
 one item where the desk genuinely cannot finish the job: the agreed fee exists only in Sid's
 head, and the screenshot has to come off his screen.
+
+
+---
+
+## 14 Oct 2026
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Working days to 30 Nov | **33** |
+| Net-new drafted today | **10 / 10** |
+| Drafts in `sid@justanotherpm.com` | **~57** |
+| Sent | **0** |
+
+### The cold list is now effectively unlimited, and that changes the forecast not at all
+
+Two contact sources with complementary coverage — established SaaS on one, AI-native on the
+other — mean there is no longer a ceiling on sourcing. 75 prospects are drafted and the next
+75 are a day's work.
+
+**So sourcing can be struck from the risk list entirely.** What remains:
+
+| Risk | Status |
+|---|---|
+| No reachable contact | ✅ solved, twice over |
+| Drafts not sent | ❌ **57 waiting, 0 sent since 2 Oct** |
+| First-touch window closing | ⚠️ ~4 weeks. Anything first touched after ~10 Nov lands in January |
+| Earned money uncollected | ❌ five items, one with the payer chasing twice |
+
+### Today's single most useful fact
+
+**Atlassian appeared in the Beehiiv ad network at $3.75/click.** Atlassian is D6 on this
+board: contact verified 8 September, two drafts written, neither sent. They are spending
+roughly eleven dollars inside the ad network attached to this newsletter while a $750–$1,500
+direct placement has never been offered to them.
+
+Demand exists at the right address. The constraint is one step long.
