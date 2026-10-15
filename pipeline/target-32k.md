@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 14 Oct 2026 |
+| Today | 15 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -425,3 +425,43 @@ roughly eleven dollars inside the ad network attached to this newsletter while a
 direct placement has never been offered to them.
 
 Demand exists at the right address. The constraint is one step long.
+
+
+---
+
+## 15 Oct 2026 — sourcing blocked, and it changes nothing
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Working days to 30 Nov | **32** |
+| Net-new drafted today | **0 / 10 — blocked** |
+| Drafts in `sid@justanotherpm.com` | **57** |
+| Sent | **0** |
+
+Apify's monthly spend cap is exceeded ($23.32 against $19.00) and resets **5 November**,
+after the ~10 November first-touch deadline. Cold sourcing is therefore finished for this
+target unless the cap is raised.
+
+**That is close to irrelevant, and saying so plainly is the honest position.** Sourcing
+stopped being the constraint on 7 October. 75 prospects exist, 57 finished emails exist, and
+the number sent is zero.
+
+### The whole job now fits in one file
+
+`pipeline/SEND-THESE.md` — every draft as a clickable link, tiered:
+
+| Tier | Count | Worth |
+|---|---:|---|
+| Money already earned or agreed | 5 | ~$2,400 plus the Tiiny Host fee |
+| Warm — they know Sid or approached him | 9 | highest close rate available |
+| Past sponsors recovered | 3 | already paid once |
+| Cold, strongest first | 40 | the volume engine |
+
+**Tier 1 is twenty minutes of clicking.** Nothing in it needs writing, pricing or sourcing.
+
+### Restated forecast
+
+Unchanged from 12 Oct and worth repeating because nothing has moved: on current send
+behaviour the realistic outcome is **$0–$3,000, not $32,000.** Every lane that could change
+that is already loaded and waiting on one action.

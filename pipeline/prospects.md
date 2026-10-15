@@ -523,3 +523,34 @@ Beehiiv rotated a fourth time in eight days. Today's top offer is **Atlassian at
 Atlassian is **D6** — Christopher Metoyer, verified 8 Sep, two drafts written, neither sent.
 They are buying inside this newsletter's ad network this week while a direct $750–$1,500
 placement has never been put in front of them.
+
+---
+
+## 15 Oct 2026 — 0 net-new, sourcing hard-blocked
+
+Apify monthly spend cap exceeded ($23.32 against a $19.00 cap). Both sources down until the
+cycle resets **5 November** — after the ~10 November first-touch deadline. See
+`verified-contacts.md` for the remedy.
+
+### One prospect added without sourcing
+
+| # | Company | Contact | Email | How | State |
+|---|---|---|---|---|---|
+| P76 | **Profound** | Anna Andrews | `anna.andrews@tryprofound.com` | **She cold-pitched Sid** on 14 Oct, selling AI visibility to Yelp | Redirect drafted 15 Oct |
+
+The draft declines the Yelp angle explicitly — Yelp's vendor decisions are not Sid's to
+influence — and pitches the newsletter separately at card rate, asking to be routed to
+marketing.
+
+### `pipeline/SEND-THESE.md` created
+
+Every one of the 57 sponsorship drafts as a clickable Gmail link, tiered by what is worth
+sending first: 5 earned/agreed, 9 warm, 3 recovered past sponsors, 40 cold. Rebuild it
+whenever the draft set changes.
+
+### Beehiiv, rotation five
+
+**HubSpot (Downmarket) at $3.75 CPM, ~$19.76** — the largest single offer recorded. HubSpot is
+**R2**, a past Paved sponsor who bought twice. Atlassian is on the list again at $3.75/click
+and is **D6**, with two unsent drafts. Both are buying inside this newsletter's ad network
+while neither has been offered a direct slot.

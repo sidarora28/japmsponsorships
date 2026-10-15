@@ -692,3 +692,55 @@ trusting anything keyed to it.
 
 `parlancelabs.com` (1 row), `redis.io` / `redis.com` (3 rows, no names). R11 Parlance Labs is
 closed as unrecoverable.
+
+---
+
+## 15 Oct 2026 — sourcing hard-blocked until 5 November
+
+Both Apify sources return `platform-feature-disabled — Monthly usage hard limit exceeded`.
+
+| | |
+|---|---:|
+| `maxMonthlyUsageUsd` | **$19.00** |
+| `monthlyUsageUsd` spent | **$23.32** |
+| Cycle | 5 Oct 2026 → 4 Nov 2026 |
+
+Checked against `GET /v2/users/me/limits`. Not actor-specific — every domain on both sources
+fails identically.
+
+**Consequence for the target.** First touches after roughly 10 November cannot close, run and
+invoice before year end. The cap resets 5 November. Without a raised cap, cold sourcing
+contributes nothing further to the $32,000.
+
+**Remedy, for Sid:** Apify → Settings → Limits, raise `maxMonthlyUsageUsd`. Total spend to
+date is $23.32 for 75 prospects with named, addressed buyers — roughly 31 cents a prospect.
+
+⚠️ **Stated honestly: more of this input is not what the desk needs.** $23 of contact data
+has produced 57 finished emails and zero sends. Raising the cap removes a block on the lane
+that is not the bottleneck.
+
+### The one sourcing vein that still works with Apify down
+
+**A funded B2B company that cold-emails Sid is a pre-qualified sponsor.** Budget exists, they
+are actively trying to reach his exact profile, and a named human is already in the thread.
+No contact database required — the address arrives in the inbox.
+
+| Arrived this way | Outcome |
+|---|---|
+| **Fotor** — Kenta Tanaka, 18 Sep | Offered a paid collab. Drafted |
+| **OMANE Media** — Ori Mannheim | Offered $500 + 3–5 launches a week. Drafted |
+| **Profound** — Anna Andrews, 14 Oct | Pitched Sid as a Yelp PM. Redirect drafted |
+| Bloginite, SwiftPR, tryoptimiseforllm | Declined or not sponsorship |
+
+Sweep for these weekly: vendor cold-pitches into `sid@justanotherpm.com`, filtered for funded
+B2B SaaS whose buyer looks like a product manager.
+
+### Profound — a line the desk will not cross
+
+Anna Andrews was selling Profound **to Yelp**, where Sid works. The drafted reply states
+plainly that Yelp's vendor decisions are not his to influence, and pitches the newsletter
+separately on its own merits.
+
+**Rule: never trade on, imply, or leave ambiguous any influence over an employer's
+purchasing.** It is not the desk's to offer and it is not worth a $750 slot. Where a vendor
+pitch arrives through Sid's day job, decline that part explicitly in the same email.
