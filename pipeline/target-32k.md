@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 15 Oct 2026 |
+| Today | 19 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -465,3 +465,38 @@ the number sent is zero.
 Unchanged from 12 Oct and worth repeating because nothing has moved: on current send
 behaviour the realistic outcome is **$0–$3,000, not $32,000.** Every lane that could change
 that is already loaded and waiting on one action.
+
+
+---
+
+## 19 Oct 2026 — the first money moves
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| **Invoiced, with the payer's accounts team** | **$1,500** |
+| Working days to 30 Nov | **30** |
+| Drafts in `sid@justanotherpm.com` | **57** |
+| Cold pitches sent since 2 Oct | **0** |
+
+**Tiiny Host is the first end-to-end proof that the machinery works.** Draft written, Sid sent
+it, performance data supplied, Stripe invoice issued, client has passed it to accounts. No
+discount requested. The fee was $1,500 all along — agreed 21 August, in the thread, logged
+here as unknown for two weeks.
+
+It also shows the cost of the delay: the post went live 1 October, the invoice went 16
+October, and it took **two chases from the payer** to get there.
+
+### What the forecast looks like with one deal in motion
+
+| Lane | Status |
+|---|---|
+| Tiiny Host | **$1,500 invoiced** — the only thing that has moved |
+| Tiiny Host campaign work | 🟢 Client raised it unprompted 19 Oct. Proposal offered around the 31 Oct cohort |
+| Other earned money | inBeat/Miro, Anvil/CreatorBuzz, Outskill $750, Paved listing — all four still unsent |
+| 56 cold and warm drafts | Zero sent |
+| Cold sourcing | Blocked until 4 Nov, after the ~10 Nov first-touch deadline |
+
+Realistic range is unchanged: **$1,500–$4,000** on current behaviour, against $32,000. The
+single highest-value action available is not a new prospect — it is Tiiny Host's campaign
+conversation, because the client opened it and they have already paid once.

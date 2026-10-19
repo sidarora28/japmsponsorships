@@ -218,3 +218,38 @@ newsletter placement, Mar 2025) each unlock a whole category:
 
 Run the domain lookup on the competitor set of every past sponsor before sourcing anything
 cold.
+
+## Never write a superlative you have not computed
+
+Added 19 Oct 2026. A draft to Tiiny Host claimed 30 saves was "the highest save count of any
+post in the set." Three posts ranked above it (231, 87, 38). Caught before sending, but only
+just.
+
+**Before writing "highest", "best", "most", "first" or "only" — run the comparison.** The
+data is usually one query away. An unchecked superlative in a performance report to a payer
+is the worst possible place for one, because they can check it and the whole report then
+looks padded.
+
+Same family as the 12 Oct rule (*a draft is not an event*) and the 1 Sep rule (*"days since
+we drafted" is not "days since they went quiet"*). All three are the same failure: writing a
+claim that sounded right instead of one that had been verified.
+
+## Read the thread before reporting an unknown
+
+The Tiiny Host fee was logged as `AMOUNT UNKNOWN` for two weeks and reported to Sid that way
+every day. **It was in the thread all along** — agreed 21 Aug at $1,500, restated by the
+client on 7 and 21 Sep, in messages already read during an earlier run.
+
+**Before escalating "only Sid knows this", search the thread for the number.** A deal term
+that was agreed by email is in the email.
+
+## Correct a client's wrong premise, politely and immediately
+
+Tiiny Host pushed back on performance using two false figures: "88k+ followers" (actual
+77,565) and "your average post was around 20k impressions" (actual median 3,298 across 15
+posts). Sid's own reply accepted the premise rather than correcting it.
+
+Accepting an inflated benchmark concedes ground that is not theirs to take, and it invites a
+fee discussion on the next campaign. **Where a client's stated benchmark is wrong, correct
+it in the same email with the real figure, then answer the question.** Follower counts come
+from AuthoredUp's `profiles[].follower_count`; post medians from its `impression_count`.

@@ -1,91 +1,91 @@
-# TODAY — Thursday 15 October
+# TODAY — Monday 19 October
 
-**0 net-new prospects. Sourcing is hard-blocked: the Apify account has exceeded its monthly
-spend cap and will not run again until 5 November.**
+**0 net-new prospects — Apify is still hard-blocked. But the first money of this whole run is
+moving: Tiiny Host's invoice is with their accounts team.**
 
 ---
 
-## 🔴 The block, with the numbers
+## 💰 Tiiny Host — $1,500, invoice in, payment being processed
+
+You sent it on Friday. Marjorie replied this morning:
+
+> *"@Elston Baretto could you please confirm to Sid when the team has taken care of the
+> invoice?"*
+
+**No discount was asked for.** The fee is intact.
+
+**And the amount is no longer unknown.** It has been sitting in the thread since 21 August —
+Marjorie: *"we are thinking about LinkedIn post: $1500"*, you: *"That works."* She restated it
+on 7 and 21 September. I had this logged as `AMOUNT UNKNOWN` for two weeks when it was in the
+thread I had already read. **It is $1,500.**
+
+### ✅ One thing I got wrong, and you avoided it by accident
+
+My Friday draft said the post's 30 saves were *"the highest save count of any post in the
+set."* **That was false** — 231, 87 and 38 all rank above it. I wrote the claim before
+checking, caught it minutes later, and was about to replace the draft when the run ended.
+
+You wrote your own reply instead, so **it never went out and the draft no longer exists.** No
+damage. But it is the second time in a week I have written an unverified superlative into a
+draft, and the rule is now in the agent file: **no "highest", "best" or "most" without
+running the comparison first.**
+
+### ⚠️ Her benchmark was wrong and the reply let it stand
+
+Marjorie wrote: *"For 88k+ followers, from memory your average post was around 20k
+impressions."*
+
+Both halves are wrong:
+
+| | She said | Actual |
+|---|---|---|
+| Followers | 88k+ | **77,565** |
+| Typical post | ~20k impressions | **median 3,298** across your last 15 posts |
+
+The Tiiny post did 3,437 — **above your median**, with 8 of 15 posts below it. The only posts
+near 20k are two text posts at 14,286 and 15,081, and it is the only carousel you have
+published in the period.
+
+Your reply said *"I am finding it hard to understand why this post wouldn't work"* — which
+accepts a premise that was not true. It cost nothing this time because she had already sent
+the invoice on. It would cost something in a campaign negotiation, and she has just opened
+one.
+
+---
+
+## 🟢 She is asking about more work
+
+> *"we may do work on a campaign basis in the future so could reach out again if
+> interested"* — and she singled out the cohort: *"she also likes that you have a cohort of
+> students so have a strong community."*
+
+**Drafted a reply** that does three things: gives the top-locations she asked for, adds the
+verified newsletter split (45% US / 30% India / 15% UK, ~20,100 subscribers at 25.8%) in case
+the programme extends beyond LinkedIn, and offers to put a proposal together around the
+cohort starting 31 October.
+
+You need to attach the LinkedIn top-locations screenshot — that is the one thing she actually
+asked for and the only part I cannot pull.
+
+---
+
+## Sourcing still blocked
 
 | | |
 |---|---:|
-| Monthly cap | **$19.00** |
-| Spent this cycle | **$23.32** |
-| Cycle ends | **4 November 2026** |
+| Apify cap | **$19.00** |
+| Spent | **$23.32** |
+| Resets | **4 November** |
 
-Both contact sources return the same error: `platform-feature-disabled — Monthly usage hard
-limit exceeded`. Source 1 and source 2, every domain, no exceptions.
+Unchanged since Thursday. Both contact sources dead until the cycle rolls, which is after the
+~10 November first-touch deadline. One setting in Apify → Settings → Limits.
 
-**Why this matters more than it looks.** The first-touch deadline for a deal that can still
-close inside the window is roughly **10 November** — two to three weeks to signed, then the
-placement has to run and invoice before year end. The cap resets on **5 November**. So
-without a change, cold sourcing contributes **nothing more** to the $32,000 target.
+## Beehiiv — Dell at ~$22.22 is the biggest offer yet
 
-**The ask is small and specific:** raise the monthly cap in Apify → Settings → Limits. The
-whole run to date cost **$23.32** and produced 75 prospects with named, addressed buyers.
-
-And the thing worth sitting with: **$23 of contact data has produced 57 finished emails and
-zero sends.** Raising the cap buys more of the input that is not the bottleneck.
-
----
-
-## 📋 New file: `pipeline/SEND-THESE.md`
-
-This is the most useful thing I could build today, and it needed no sourcing.
-
-57 finished emails are invisible inside a Gmail drafts list. The new file is **every one of
-them as a clickable link, ordered by what is worth sending first**, with the money and the
-age against each. Nothing in it needs writing.
-
-| Tier | What | Count |
-|---|---|---:|
-| 🔴 1 | Money already earned or agreed | **5** |
-| 🟠 2 | Warm — they know you or they approached you | **9** |
-| 🟡 3 | Past sponsors, now reachable directly | **3** |
-| 🔵 4 | Cold, strongest first | **40** |
-
-**Tier 1 is about twenty minutes.** Open link, read, send.
-
----
-
-## 🟠 One new warm prospect, no sourcing required
-
-**Anna Andrews at Profound** (`anna.andrews@tryprofound.com`) cold-pitched you yesterday —
-AI visibility, customers including Apple, Meta, Reddit and Uber. She was selling to you as a
-Yelp PM.
-
-**The draft declines that part cleanly.** It says plainly that Yelp's vendor decisions are
-not yours to influence, and then pitches the newsletter on its own merits with the rate card
-and asks to be pointed at whoever runs their marketing. I wrote it that way deliberately:
-anything that blurs your employer's purchasing into your own revenue is not a trade worth
-making, and it is not mine to offer on your behalf.
-
-**There is a pattern here worth working:** a funded B2B company that cold-emails you is a
-pre-qualified sponsor. They have budget, they are actively trying to reach your exact
-profile, and there is already a named human in the thread. Profound, Fotor and OMANE all
-arrived that way. This is the one sourcing vein that still works with Apify down.
-
----
-
-## Atlassian and HubSpot are both buying ad network inventory today
-
-| Advertiser | Offer | Also on your board |
-|---|---|---|
-| **HubSpot (Downmarket)** | $3.75 CPM, **~$19.76** — biggest offer seen | **R2 — past Paved sponsor who bought twice** |
-| **Atlassian** | $3.75/click, ~$11.25 | **D6 — contact verified 8 Sep, two drafts, neither sent** |
-
-Both are spending money inside the ad network attached to this newsletter. Neither has ever
-been offered a $750 slot in it.
-
----
-
-## No sponsorship inbound, no sends
-
-Both mailboxes, 14–15 Oct: a Skool invite, an Apple developer notice, vendor newsletters,
-DMARC reports, one job application. The only two emails sent from the account in three days
-were replies to **course** leads.
-
-**Nothing sponsorship-related has been sent since 2 October — thirteen days.**
+Atlassian is still there at $3.75/click, nine days running, and still has two unsent drafts on
+your board. One correction to my own note: **`send_by` does vary per offer** — Hightouch's
+expires 21 Oct while the rest run to 24 Oct. It still is not a claim window, because the whole
+list is replaced daily, but it is not uniform either.
 
 ---
 
@@ -94,11 +94,15 @@ were replies to **course** leads.
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| Working days to 30 Nov | **32** |
-| Net-new drafted today | **0 / 10 — blocked, not skipped** |
+| **Invoiced and in their accounts queue** | **$1,500** |
+| Working days to 30 Nov | **30** |
+| Net-new drafted today | **0 / 10 — blocked** |
 | Drafts waiting in `sid@justanotherpm.com` | **57** |
-| Sent | **0** |
-| Replies | **0** |
+| Cold pitches sent since 2 Oct | **0** |
 
-Sourcing is blocked for three weeks and it does not matter, because sourcing has not been the
-constraint since 7 October. `SEND-THESE.md` is now the whole job in one file.
+Over the weekend you sent four emails: Tiiny Host twice, Skool, Kaia, Agile Barcamp. Not one
+of the 57.
+
+**Tiiny Host proves the machinery works end to end** — draft, send, data, invoice, payer
+processing. It took eleven days and two chases from them. The other 56 drafts are the same
+mechanism waiting on the same single action.
