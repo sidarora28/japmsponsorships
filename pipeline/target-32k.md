@@ -17,7 +17,7 @@
 
 | | |
 |---|---|
-| Today | 19 Oct 2026 |
+| Today | 20 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -500,3 +500,39 @@ October, and it took **two chases from the payer** to get there.
 Realistic range is unchanged: **$1,500–$4,000** on current behaviour, against $32,000. The
 single highest-value action available is not a new prospect — it is Tiiny Host's campaign
 conversation, because the client opened it and they have already paid once.
+
+
+---
+
+## 20 Oct 2026 — the one live deal got cheaper
+
+| | |
+|---|---:|
+| Booked | **$0 / $32,000** |
+| Invoiced, not yet received by their AP | **$1,500** |
+| Free work now promised on top | **1 LinkedIn post, scope open** |
+| Working days to 30 Nov | **29** |
+| Drafts waiting | **57** |
+| Cold pitches sent since 2 Oct | **0** |
+
+Two things happened to the only deal in motion, and both cut the wrong way.
+
+**The invoice has not reached their AP team.** A Stripe hosted link was sent on 16 Oct and
+again on 19 Oct; Elston has said twice that nothing has arrived. The likely cause is the
+format — AP teams need a PDF or a portal upload. Four days lost on $1,500 over a file type.
+
+**The effective price fell.** Sid accepted a performance complaint built on two wrong figures
+and offered a second post free, plus channels beyond LinkedIn, with affiliate commission
+floated as the compensation. That is $1,500–$2,250 of inventory against a $1,500 fee. The
+carousel had in fact beaten his median.
+
+### What this changes about the plan
+
+Nothing about the arithmetic — $32,000 was already out of reach on current send behaviour —
+but it changes what the risk actually is. The risk is no longer only *"nothing gets sent."*
+It is now also **"what does get sent gives away margin,"** because the one thread Sid works
+personally is the one where the desk's pricing discipline is not in the loop.
+
+The two are connected. A desk whose drafts never go out cannot hold a price; the client is
+negotiating with whoever replies, and that is Sid at 5pm with no benchmark to hand. The fix
+for both is the same: send the drafts, and pull the numbers before conceding anything.

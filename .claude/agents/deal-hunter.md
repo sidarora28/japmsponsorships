@@ -253,3 +253,31 @@ Accepting an inflated benchmark concedes ground that is not theirs to take, and 
 fee discussion on the next campaign. **Where a client's stated benchmark is wrong, correct
 it in the same email with the real figure, then answer the question.** Follower counts come
 from AuthoredUp's `profiles[].follower_count`; post medians from its `impression_count`.
+
+## Check the benchmark before conceding underperformance
+
+Added 20 Oct 2026, after the Tiiny Host deal lost roughly its own value in free work.
+
+Tiiny Host pushed back on the carousel's performance using two wrong figures — "88k+
+followers" (actual 77,565) and "average around 20k impressions" (actual median 3,298 across
+15 posts). Sid accepted the premise, wrote *"I know the results aren't that great"*, and
+offered a second post free plus channels beyond LinkedIn. The client accepted within half an
+hour and suggested affiliate commission in place of a fee.
+
+The post did **3,437 impressions — above the median**, and was the only carousel in the set;
+the two ~20k posts were plain text.
+
+**Before any reply that concedes performance, pull the comparison.** AuthoredUp gives
+`impression_count` per post and `profiles[].follower_count`. A median across the last 15 posts
+takes one query. Report where the post actually sits, then discuss format.
+
+**And scope free work explicitly.** "Happy to try other channels at no charge" has no edges
+and the client will write it down as a commitment. One named deliverable, once, with
+everything else at card rate in the same sentence. Affiliate commission is additive to a fee,
+never a replacement — a replacement is a barter swap, which is Sid's call, not the desk's.
+
+## Send invoices as PDFs, not hosted links
+
+Tiiny Host said "still awaiting your invoice" twice after a Stripe hosted link was sent twice.
+Most AP teams need a file they can file, or a portal upload. **Attach a PDF and ask which
+address or portal their AP uses.** $1,500 sat still for four days over a file format.

@@ -1,91 +1,92 @@
-# TODAY — Monday 19 October
+# TODAY — Tuesday 20 October
 
-**0 net-new prospects — Apify is still hard-blocked. But the first money of this whole run is
-moving: Tiiny Host's invoice is with their accounts team.**
-
----
-
-## 💰 Tiiny Host — $1,500, invoice in, payment being processed
-
-You sent it on Friday. Marjorie replied this morning:
-
-> *"@Elston Baretto could you please confirm to Sid when the team has taken care of the
-> invoice?"*
-
-**No discount was asked for.** The fee is intact.
-
-**And the amount is no longer unknown.** It has been sitting in the thread since 21 August —
-Marjorie: *"we are thinking about LinkedIn post: $1500"*, you: *"That works."* She restated it
-on 7 and 21 September. I had this logged as `AMOUNT UNKNOWN` for two weeks when it was in the
-thread I had already read. **It is $1,500.**
-
-### ✅ One thing I got wrong, and you avoided it by accident
-
-My Friday draft said the post's 30 saves were *"the highest save count of any post in the
-set."* **That was false** — 231, 87 and 38 all rank above it. I wrote the claim before
-checking, caught it minutes later, and was about to replace the draft when the run ended.
-
-You wrote your own reply instead, so **it never went out and the draft no longer exists.** No
-damage. But it is the second time in a week I have written an unverified superlative into a
-draft, and the rule is now in the agent file: **no "highest", "best" or "most" without
-running the comparison first.**
-
-### ⚠️ Her benchmark was wrong and the reply let it stand
-
-Marjorie wrote: *"For 88k+ followers, from memory your average post was around 20k
-impressions."*
-
-Both halves are wrong:
-
-| | She said | Actual |
-|---|---|---|
-| Followers | 88k+ | **77,565** |
-| Typical post | ~20k impressions | **median 3,298** across your last 15 posts |
-
-The Tiiny post did 3,437 — **above your median**, with 8 of 15 posts below it. The only posts
-near 20k are two text posts at 14,286 and 15,081, and it is the only carousel you have
-published in the period.
-
-Your reply said *"I am finding it hard to understand why this post wouldn't work"* — which
-accepts a premise that was not true. It cost nothing this time because she had already sent
-the invoice on. It would cost something in a campaign negotiation, and she has just opened
-one.
+**0 net-new — Apify still blocked. And we need to talk about yesterday, because the $1,500
+Tiiny Host deal quietly became a $1,500 deal plus about $1,500 of free work.**
 
 ---
 
-## 🟢 She is asking about more work
+## 🔴 You gave away a second post, and the reason you gave it isn't true
 
-> *"we may do work on a campaign basis in the future so could reach out again if
-> interested"* — and she singled out the cohort: *"she also likes that you have a cohort of
-> students so have a strong community."*
+Your email yesterday, 16:49:
 
-**Drafted a reply** that does three things: gives the top-locations she asked for, adds the
-verified newsletter split (45% US / 30% India / 15% UK, ~20,100 subscribers at 25.8%) in case
-the programme extends beyond LinkedIn, and offers to put a proposal together around the
-cohort starting 31 October.
+> *"I know the results aren't that great. I'm happy to post again with an explainer video
+> version of the workflow (at no extra charge)"* — and then an offer to try channels other
+> than LinkedIn.
 
-You need to attach the LinkedIn top-locations screenshot — that is the one thing she actually
-asked for and the only part I cannot pull.
+Marjorie, 33 minutes later:
 
----
+> *"Appreciate the willingness to test / learn with the additional format at no free of
+> charge (make sure to use your affiliate links!)… I'll let Elston confirm re gifs/videos to
+> share, **or other than LinkedIn - free of charge**."*
 
-## Sourcing still blocked
+So the position now on record is: a second LinkedIn post free, possibly newsletter or X free
+as well, and your compensation for the extra work is affiliate commission rather than a fee.
+At card rate that is **$1,500–$2,250 of inventory given away** on a $1,500 deal.
+
+**The premise was false.** You wrote "the results aren't that great." The actual numbers:
 
 | | |
 |---|---:|
-| Apify cap | **$19.00** |
-| Spent | **$23.32** |
-| Resets | **4 November** |
+| The carousel | **3,437 impressions** |
+| Median of your last 15 posts | **3,298** |
+| Posts below it | **8 of 15** |
+| The two ~20k posts | plain **text** posts, not carousels |
+| The carousel count in that set | **1 — this one** |
 
-Unchanged since Thursday. Both contact sources dead until the cycle rolls, which is after the
-~10 November first-touch deadline. One setting in Apify → Settings → Limits.
+It performed **above your median**. Marjorie's "88k followers, ~20k average" was wrong on both
+counts, you accepted it, and then priced against it.
 
-## Beehiiv — Dell at ~$22.22 is the biggest offer yet
+I am not trying to claw back a goodwill gesture — one free test post is a defensible
+relationship call and it is yours to make. **The open-ended part is the problem:** "other than
+LinkedIn, free of charge" has no edges, and she has already written it down.
 
-Atlassian is still there at $3.75/click, nine days running, and still has two unsent drafts on
-your board. One correction to my own note: **`send_by` does vary per offer** — Hightouch's
-expires 21 Oct while the rest run to 24 Oct. It still is not a claim window, because the whole
-list is replaced daily, but it is not uniform either.
+### What I've drafted
+
+A reply that does three things and nothing more:
+
+1. **Bounds the scope.** One explainer-video post on LinkedIn, no charge, as a format test.
+   Anything beyond it — newsletter, X, further posts — at $750 / $1,500. The affiliate link is
+   additive, not a substitute for a fee.
+2. **Puts the real benchmark on record**, framed as useful for their reporting rather than as a
+   reversal: median 3,298, this post 3,437, 77,565 followers.
+3. **Fixes the invoice.** See below.
+
+---
+
+## 💰 The invoice still hasn't landed — and it's probably the format
+
+Elston, yesterday 12:52: *"Still awaiting your invoice."* That is after you sent a Stripe
+hosted link on 16 October. You re-sent the same link at 16:49.
+
+**A hosted Stripe link is not what most AP teams can process.** They need a PDF they can file,
+or a portal upload. Two sends, two non-receipts, is a strong signal. The draft attaches a PDF
+and asks directly whether there's a portal or a specific AP address.
+
+**$1,500 is sitting still because of a file format.** That is the cheapest fix on this board.
+
+---
+
+## Sourcing: still hard-blocked
+
+$23.32 spent against a $19.00 cap. Resets **4 November** — after the ~10 November first-touch
+deadline. Unchanged for six days.
+
+## Beehiiv — Atlassian is now the top offer, eleven days running
+
+| Advertiser | Offer | Also on your board |
+|---|---|---|
+| **Atlassian** | **$3.75/click, ~$15.00** | **D6** — contact verified 8 Sep, two drafts, neither sent |
+| Dell · HubSpot (Downmarket) | $3.75 CPM, ~$23.16 each | HubSpot is **R2**, a past Paved sponsor who bought twice |
+| beehiiv | $3.50/click, ~$14.00 | — |
+
+Payouts have roughly doubled since last week. Still rotating daily; still claim-on-sight.
+
+---
+
+## No new sponsorship inbound
+
+Both mailboxes, 19–20 Oct: DMARC reports, Instagram, MongoDB billing, Superwall, a course
+lead Sid answered. Nothing to triage.
 
 ---
 
@@ -94,15 +95,13 @@ list is replaced daily, but it is not uniform either.
 | | |
 |---|---:|
 | Booked | **$0 / $32,000** |
-| **Invoiced and in their accounts queue** | **$1,500** |
-| Working days to 30 Nov | **30** |
+| Invoiced, not yet received by their AP | **$1,500** |
+| Free work now promised | **1 post, scope open** |
+| Working days to 30 Nov | **29** |
 | Net-new drafted today | **0 / 10 — blocked** |
-| Drafts waiting in `sid@justanotherpm.com` | **57** |
+| Drafts waiting | **57** |
 | Cold pitches sent since 2 Oct | **0** |
 
-Over the weekend you sent four emails: Tiiny Host twice, Skool, Kaia, Agile Barcamp. Not one
-of the 57.
-
-**Tiiny Host proves the machinery works end to end** — draft, send, data, invoice, payer
-processing. It took eleven days and two chases from them. The other 56 drafts are the same
-mechanism waiting on the same single action.
+Yesterday you sent five emails and four of them were to Tiiny Host. The one deal that is
+moving is getting all the attention, which is right — but it is also the one deal where the
+price has gone backwards.
