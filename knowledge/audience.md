@@ -9,7 +9,7 @@ Source: Beehiiv (newsletter), platform-native (LinkedIn/X). Last verified 16 Aug
 
 | Channel | Size | Notes |
 |---|---:|---|
-| **LinkedIn** | **~75,000 followers** | The money channel. Highest rate, fastest close. |
+| **LinkedIn** | **77,565 followers** | The money channel. Highest rate, fastest close. Re-read from AuthoredUp 19 Oct 2026. |
 | **Newsletter (JustAnotherPM)** | **20,107 active subscribers** | Verified from Beehiiv 4 Sep 2026 |
 | **X / Twitter** | **~29,300 followers** | Weakest converter of the three. |
 
@@ -46,7 +46,7 @@ software — which is why dev-tool and AI-tool brands convert and lifestyle bran
 | UAE / Canada / Singapore / Hong Kong | remainder |
 
 > US + UK = ~60%. That matters for pricing: this is a majority Western, high-CPM audience, and
-> it is the justification for a $1,500 LinkedIn rate against a 75K follower count.
+> it is the justification for a $1,500 LinkedIn rate against a ~77.5K follower count.
 
 ## Sid's positioning — the actual product
 
@@ -61,7 +61,7 @@ which is what defends the price.
 
 - ❌ 35% open rate (wrong — use 25.8%)
 - ❌ Any impression, reach, or engagement figure not on this page
-- ❌ Rounding 75K up, or 20,107 up to "20K+ and growing" style inflation
+- ❌ Rounding ~77.5K up, or 20,107 up to "20K+ and growing" style inflation
 
 If a brand asks for a metric that isn't here, the answer is "let me pull that" → ask Sid.
 Never estimate a number for an advertiser.
@@ -98,3 +98,28 @@ Paved sells against — that has been updated to the fresh figures.
 **1,153 of 2,097 new subscribers came from paid social.** Subscriber acquisition has a real
 cash cost, which is a concrete argument against discounting: the inventory being sold is
 not free to produce.
+
+
+---
+
+## 19 Oct 2026 — LinkedIn follower count corrected upward
+
+`~75,000` was stale. AuthoredUp's `profiles[].follower_count` reads **77,565**.
+
+This matters in both directions. Understating is not safe just because it is conservative:
+when Tiiny Host pushed back on a post's reach using "88k+ followers", the true figure was the
+defence — 3,437 impressions against 77,565 followers reads very differently from 3,437
+against 88,000. **Use 77,565 when precision helps, ~77,500 otherwise.**
+
+### Median post performance — the number to answer "was that good?"
+
+From AuthoredUp, 15 posts since 16 Aug 2026:
+
+| | |
+|---|---:|
+| Median impressions | **3,298** |
+| Mean | 4,939 (pulled up by two text posts at 14,286 and 15,081) |
+| Range | 523 – 15,081 |
+
+**Quote the median, not the mean.** The mean invites a brand to expect 5k and call 3.4k a
+failure; the median says plainly that half of all posts land below ~3,300.

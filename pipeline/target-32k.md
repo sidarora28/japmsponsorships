@@ -9,15 +9,15 @@
 | | |
 |---|---:|
 | Target | **$32,000** |
-| Booked to date | **$0** |
-| Remaining | **$32,000** |
+| Booked to date | **$1,500** |
+| Remaining | **$30,500** |
 | Deals needed @ $1,500 | **~21** |
 
 ## The clock
 
 | | |
 |---|---|
-| Today | 20 Oct 2026 |
+| Today | 22 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 
@@ -536,3 +536,48 @@ personally is the one where the desk's pricing discipline is not in the loop.
 The two are connected. A desk whose drafts never go out cannot hold a price; the client is
 negotiating with whoever replies, and that is Sid at 5pm with no benchmark to hand. The fix
 for both is the same: send the drafts, and pull the numbers before conceding anything.
+
+
+---
+
+## 22 Oct 2026 — 🎉 first revenue: $1,500
+
+| | |
+|---|---:|
+| **Booked** | **$1,500 / $32,000** (4.7%) |
+| Remaining | $30,500 |
+| Working days to 30 Nov | **27** |
+| Drafts waiting | 57 |
+| Cold pitches sent since 2 Oct | 0 |
+
+**Tiiny Host paid on 20 October.** Client confirmation, not yet independently verified — the
+Stripe connector is unauthorised, so the desk cannot see the bank credit.
+
+### What one closed deal tells us about the remaining $30,500
+
+The deal took **49 days** from first contact (28 Aug intro) to cash, and **19 days** from post
+to payment, with two chases from the payer. It closed because the client wanted it closed, not
+because the desk or Sid drove it.
+
+At that cadence, and with first touches needing to land by ~10 November, the arithmetic is:
+
+| | |
+|---|---:|
+| Deals needed for $30,500 at $1,500 | **~20** |
+| Working days left | 27 |
+| Deals closed in 46 days so far | **1** |
+
+**$32,000 is not reachable.** Saying so plainly is more useful than restating the target.
+What *is* reachable, and worth re-forecasting against:
+
+| Lane | Realistic | Why |
+|---|---:|---|
+| Tiiny Host campaign | $1,500–$3,500 | Client raised it unprompted; free video post is the opening |
+| Outskill | $750 | Agreed; buyer asked six times; drafted |
+| inBeat/Miro + Anvil/CreatorBuzz | earned, unknown sums | Both overdue, both drafted |
+| Paved bundle listing | $750–$5,500 | Only passive lane; never built |
+| 57 drafts at 5% reply / 30% close | ~$1,500 | If they all actually go out |
+| **Plausible total by 30 Nov** | **$4,500–$12,000** | Every line needs a send, not a prospect |
+
+That range is the honest forecast. It is four to eight times the current booked figure and
+nothing in it requires a single new contact.
