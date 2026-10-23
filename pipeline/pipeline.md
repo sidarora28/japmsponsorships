@@ -77,6 +77,9 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 | D48 | **Chroma** | Direct | Jeff Huber, CEO — `jeff@trychroma.com` | `INBOX` | Q4 newsletter / LinkedIn | $750–$1,500 | ⚠️ `chroma.com` is a different company — correct domain is `trychroma.com`. Drafted 14 Oct | — | 14 Oct 2026 |
 | D49 | **Maze** | Direct | Jonathan Widawski, Founder — `jonathan@maze.co` | `INBOX` | Q4 newsletter / LinkedIn | $750–$1,500 | Blank on source 1. Drafted 14 Oct | — | 14 Oct 2026 |
 | **D50** | **Profound** | Inbound vendor pitch | **Anna Andrews** — `anna.andrews@tryprofound.com` | `INBOX` | Q4 newsletter / LinkedIn | $750–$1,500 | **She cold-pitched Sid on 14 Oct**, selling AI visibility to Yelp. Redirect drafted 15 Oct: declines the Yelp angle explicitly — Yelp's vendor decisions are not Sid's to influence — and pitches the newsletter separately at card rate | — | 15 Oct 2026 |
+| **D51** | **Arize — cohort** 🆕 | Direct | Anadelia Fadeev, Head of Demand Generation — `afadeev@arize.com` | `INBOX` | **AI PM Accelerator tool sponsorship** | **$2,500** | 🔴 **→ SID: approve the $2,500 cohort SKU before this goes.** First pitch of the inventory model. Offer: named as the observability tool the cohort uses, one live Q&A, logo in course materials, one newsletter primary slot; sponsor supplies trial credits for 60 students. **Credits are a deliverable on top of the fee, never instead of it** — any credits-for-cash counter is a barter swap and comes to Sid. Contact is source-2 (no current-employer check), so lower confidence than a source-1 record. Drafted 23 Oct | **Sid's call** | 23 Oct 2026 |
+| **D52** | **Braintrust — cohort** 🆕 | Direct | Ankur Goyal, **CEO** — `ankur@braintrust.dev` | `INBOX` | **AI PM Accelerator tool sponsorship** | **$2,500** | 🔴 **→ SID: same approval gate as D51.** Evals angle; draft says openly that it is his call. Same offer shape. Contact is source-2. Drafted 23 Oct | **Sid's call** | 23 Oct 2026 |
+| **D53** | **Vellum — cohort** 🆕 | Direct | Anita Kirkovska, Growth Manager — `anita@vellum.ai` | `INBOX` | **AI PM Accelerator tool sponsorship** | **$2,500** | 🔴 **→ SID: same approval gate as D51.** Hook is that their content is written for PMs rather than ML engineers. Same offer shape. Contact is source-2. Drafted 23 Oct | **Sid's call** | 23 Oct 2026 |
 | D5 | **Product-Led Alliance** | Direct | Fiona Standen — `fiona@pmmalliance.com` | `INBOX` (dormant since Mar) | Q4 LinkedIn / newsletter | $1,500 | **Re-pitch drafted 3 Sep** → SID. ⚠️ If she counters with a promo swap, that's Sid's call | — | 3 Sep 2026 |
 
 ---
@@ -117,7 +120,7 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 |---|---:|---:|---:|---|
 | **Aug 2026** | **$0** | $0 | $0 | **CLOSED — missed $2,000 pace target** |
 | **Sep 2026** | **$0** | $0 | $0 | **CLOSED — missed $10,000 pace target.** One placement approved (Tiiny Host) but unpriced and uninvoiced |
-| Oct 2026 | $0 | $0 | $0 | $20,000 cumulative pace target |
+| **Oct 2026** | **$1,500** | **$1,500** | **$1,500** (client-confirmed, not bank-verified) | $20,000 cumulative pace target |
 
 **August closed at $0.** The first cold email went out 19 Aug and nothing cold closes inside
 two weeks, so this was the expected miss — but it is still a miss, and September has to carry

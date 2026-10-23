@@ -4,6 +4,12 @@
 
 ---
 
+> ### ⚠️ This scoreboard measures a target Sid has replaced
+> On 22 October Sid reset the goal to **$15,000 in two months on an inventory model** — see
+> `knowledge/inventory-plan-15k.md`. The $32,000 figure below is kept for the record and
+> because the clock and the quota maths still apply, but **it is not the live target.** The
+> honest range against $32K was written on 22 Oct as $4,500–$12,000.
+
 ## The number
 
 | | |
@@ -12,12 +18,14 @@
 | Booked to date | **$1,500** |
 | Remaining | **$30,500** |
 | Deals needed @ $1,500 | **~21** |
+| Against the live $15K goal | **$1,500 booked / $15,000** |
+| Highest-value drafts waiting | **3 × $2,500 cohort sponsorships** (D51–D53, 23 Oct) |
 
 ## The clock
 
 | | |
 |---|---|
-| Today | 22 Oct 2026 |
+| Today | 23 Oct 2026 |
 | Hard deadline | 31 Dec 2026 |
 | **Real selling deadline** | **30 Nov 2026** |
 

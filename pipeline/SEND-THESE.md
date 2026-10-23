@@ -4,14 +4,36 @@
 Each link opens that draft, ready to send. Nothing here needs writing. Working top to bottom,
 tier 1 is about twenty minutes.
 
-Last rebuilt: **15 October 2026**. Rebuilt whenever drafts change.
+Last rebuilt: **23 October 2026**. Rebuilt whenever drafts change.
+
+---
+
+## 🟣 Tier 0 — the cohort sponsorships (new offer, 23 Oct)
+Three. **These are the only drafts on the desk that are not a repeat of something already
+tried, and they are the highest price per unit of anything here: $2,500 each.**
+
+🔴 **Do not send until you have decided the cohort is sponsorable at all.** $2,500 is above
+every rate on the card, so it is not a discount, but it is a new product and that is your call
+to make, not the desk's. The reasoning is in `knowledge/inventory-plan-15k.md`.
+
+1. **[Arize — Anadelia Fadeev](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819709857531294%2Bmsg-a:r-5676579415904710917)** — Head of Demand Generation. Observability angle
+2. **[Braintrust — Ankur Goyal](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819709926136023%2Bmsg-a:r-1880299707366900599)** — CEO. Evals angle; the draft says openly it is his call
+3. **[Vellum — Anita Kirkovska](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819711421801181%2Bmsg-a:r3794252473612872169)** — Growth Manager. Their content is written for PMs, not ML engineers
+
+All three carry the same offer: named as the tool the cohort uses, one live Q&A, logo in the
+course materials, one newsletter primary slot, and trial credits for the 60 students supplied
+by them. ⚠️ If any of them comes back offering credits **instead of** the fee, that is a barter
+swap and it comes to you, not to the desk.
+
+Each of these three also has an older **$750 newsletter draft** further down this file. Send
+the cohort version instead, not both.
 
 ---
 
 ## 🔴 Tier 1 — money already earned or agreed
-Five items. None of these is a sale. Do these before anything else.
+Five items, one now closed. None of these is a sale. Do these before anything else.
 
-1. **[Tiiny Host — Elston + Marjorie](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1871962711866711229%2Bmsg-a:r3701817483511932946)** — **They have chased twice.** Post metrics are already in the draft. You add the amount and two attachments. Amount unknown to anyone but you
+1. ~~**Tiiny Host — Elston + Marjorie**~~ — ✅ **PAID $1,500 on 20 Oct.** Nothing to send here. The live draft is the [reply about the free explainer video](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1871962711866711229%2Bmsg-a:r-2482174967483226963) — it bounds the scope of the free post and puts the 31 Oct cohort in front of Marjo for campaign work
 2. **[inBeat / Miro — invoice chase](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1865928000473692040%2Bmsg-a:r-3536907117070991643)** — Invoiced 17 Jul, "with accounting" 30 Jul. **~3 months**
 3. **[Anvil / CreatorBuzz — Elophia](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1872899785430889132%2Bmsg-a:r-2501320704990112195)** — Net-30 promised 10 Aug, expired early Sep
 4. **[Anvil / CreatorBuzz — Valentina](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1878189262310288881%2Bmsg-a:r3670995123237645430)** — Second thread on the same wind-down
