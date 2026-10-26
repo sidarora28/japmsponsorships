@@ -77,7 +77,12 @@ weeks.** That is the real target. It is possible, and it is not easy.
 
 ## 💡 The idea that isn't in any pipeline file: sell the cohort
 
-**The AI PM Accelerator starts 31 October. 60 seats. A 3,917-person waitlist.** This is
+**The AI PM Accelerator starts Sunday 22 November. 60 seats. A 3,900-plus waitlist.**
+
+> 📌 **Corrected 26 Oct.** This said 31 October. Sid pushed the start to 22 November on 24–26
+> October because students were tied up with year-end planning. That is four extra weeks of
+> sponsor lead time, which turns "credits and a Q&A" into a genuine curriculum integration —
+> the single biggest improvement to this plan since it was written. This is
 inventory, it is more valuable per unit than anything above, and it has never been offered to
 a single sponsor.
 
@@ -93,7 +98,7 @@ motion, and it is priced accordingly elsewhere:
 
 ### The offer to build
 
-**"Official tool of the AI PM Accelerator — $2,500."**
+**"Official tool of the AI PM Accelerator — $2,500."** (live cohort from 22 Nov)
 - Named as the tool used for one module of the curriculum
 - Free credits or seats for all 60 students, supplied by the sponsor
 - One live Q&A or walkthrough slot with the cohort

@@ -4,21 +4,27 @@
 Each link opens that draft, ready to send. Nothing here needs writing. Working top to bottom,
 tier 1 is about twenty minutes.
 
-Last rebuilt: **23 October 2026**. Rebuilt whenever drafts change.
+Last rebuilt: **26 October 2026**. Rebuilt whenever drafts change.
 
 ---
 
-## 🟣 Tier 0 — the cohort sponsorships (new offer, 23 Oct)
+## 🟣 Tier 0 — the cohort sponsorships (new offer, 23 Oct · rewritten 26 Oct)
 Three. **These are the only drafts on the desk that are not a repeat of something already
 tried, and they are the highest price per unit of anything here: $2,500 each.**
 
-🔴 **Do not send until you have decided the cohort is sponsorable at all.** $2,500 is above
-every rate on the card, so it is not a discount, but it is a new product and that is your call
-to make, not the desk's. The reasoning is in `knowledge/inventory-plan-15k.md`.
+🟢 **The cohort moving to 22 November makes these materially more sellable.** All three drafts
+said "starts 31 Oct" and have been rewritten: the date is now Sunday 22 November, and the offer
+names the sponsor **in the curriculum** rather than bolted on, because there is now four weeks
+of lead time instead of eight days. They also now say the students are **paying** students, not
+a free list — three card payments landed on 25 October alone.
 
-1. **[Arize — Anadelia Fadeev](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819709857531294%2Bmsg-a:r-5676579415904710917)** — Head of Demand Generation. Observability angle
-2. **[Braintrust — Ankur Goyal](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819709926136023%2Bmsg-a:r-1880299707366900599)** — CEO. Evals angle; the draft says openly it is his call
-3. **[Vellum — Anita Kirkovska](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1879819711421801181%2Bmsg-a:r3794252473612872169)** — Growth Manager. Their content is written for PMs, not ML engineers
+🔴 **Still gated on you.** $2,500 is above every rate on the card, so it is not a discount, but
+it is a new product and that is your call to make, not the desk's. Reasoning in
+`knowledge/inventory-plan-15k.md`.
+
+1. **[Arize — Anadelia Fadeev](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1880091084911069388%2Bmsg-a:r-5676579415904710917)** — Head of Demand Generation. Observability angle
+2. **[Braintrust — Ankur Goyal](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1880091086091266072%2Bmsg-a:r-1880299707366900599)** — CEO. Evals angle; the draft says openly it is his call
+3. **[Vellum — Anita Kirkovska](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1880091086806915596%2Bmsg-a:r3794252473612872169)** — Growth Manager. Their content is written for PMs, not ML engineers
 
 All three carry the same offer: named as the tool the cohort uses, one live Q&A, logo in the
 course materials, one newsletter primary slot, and trial credits for the 60 students supplied
