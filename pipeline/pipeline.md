@@ -112,6 +112,31 @@ Update on every movement. Never delete a row; move it to Closed with an outcome.
 
 ---
 
+## 27 Oct 2026 — Sid went outbound himself, into an unpaid-invoice thread
+
+Worth recording precisely, because it is the first outbound sponsorship ask since 2 October and
+it came from Sid, not the desk.
+
+Krizia Gallenero (AP/AR, CreatorBuzz) wrote on 26 Oct asking *"Did you post last Aug?"*. Sid
+replied the same evening confirming it and adding:
+
+> *"Quick question: I have a few slots open before the end of the year, and I'm looking to
+> partner with more brands for 2026. How can I work with Creatrobuzz on more opportunities?"*
+
+**That is exactly the inventory motion.** Three notes on it:
+
+1. **The July invoice went unchased.** Krizia said on 17 August that March had been paid and
+   July was *"awaiting funds"*. It is now ten weeks. She opened the thread herself and the
+   payment was not raised. Chase drafted 27 Oct.
+2. **She is AP/AR, not a buyer.** The partnership question is in front of the wrong person. The
+   drafted reply asks her to route it to whoever books creators; Valentina Diaz
+   (`valentina@creatorbuzz.com`) is the recorded booker and has her own draft in Tier 2.
+3. **Two slips in the sent text:** *"Creatrobuzz"*, and *"more brands for 2026"* when October
+   2026 is nearly over — presumably Q4 and 2027. Not worth a correction email on its own, but
+   worth knowing it went out that way.
+
+---
+
 ## Month tracker
 
 **Target: $8,000–10,000/month.**

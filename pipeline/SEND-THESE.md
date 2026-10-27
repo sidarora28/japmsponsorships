@@ -4,7 +4,7 @@
 Each link opens that draft, ready to send. Nothing here needs writing. Working top to bottom,
 tier 1 is about twenty minutes.
 
-Last rebuilt: **26 October 2026**. Rebuilt whenever drafts change.
+Last rebuilt: **27 October 2026**. Rebuilt whenever drafts change.
 
 ---
 
@@ -37,13 +37,14 @@ the cohort version instead, not both.
 ---
 
 ## 🔴 Tier 1 — money already earned or agreed
-Five items, one now closed. None of these is a sale. Do these before anything else.
+Six items, one now closed. None of these is a sale. Do these before anything else.
 
 1. ~~**Tiiny Host — Elston + Marjorie**~~ — ✅ **PAID $1,500 on 20 Oct.** Nothing to send here. The live draft is the [reply about the free explainer video](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1871962711866711229%2Bmsg-a:r-2482174967483226963) — it bounds the scope of the free post and puts the 31 Oct cohort in front of Marjo for campaign work
 2. **[inBeat / Miro — invoice chase](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1865928000473692040%2Bmsg-a:r-3536907117070991643)** — Invoiced 17 Jul, "with accounting" 30 Jul. **~3 months**
-3. **[Anvil / CreatorBuzz — Elophia](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1872899785430889132%2Bmsg-a:r-2501320704990112195)** — Net-30 promised 10 Aug, expired early Sep
-4. **[Anvil / CreatorBuzz — Valentina](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1878189262310288881%2Bmsg-a:r3670995123237645430)** — Second thread on the same wind-down
-5. **[Outskill — Sowmya C](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1874785951056466318%2Bmsg-a:r-1517335657074003623)** — **$750.** She asked six times, last on 25 Sep. ⚠️ Your 31 Aug email said 40%+ open and 4–5% click; the real figures are 25.8% and 1.6%, and she wants the dashboard screenshot that shows it. The draft carries the correct numbers
+3. **[Anvil / CreatorBuzz — Krizia: chase the July invoice](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1834459046599397038%2Bmsg-a:r-3909069016560276501)** — 🆕 **27 Oct, send today.** She told you on 17 Aug that July was "awaiting funds". **Ten weeks.** The draft asks for a payment date, offers an invoice for the August post, and asks her to route your partnership question to an actual booker instead of AP/AR
+4. **[Anvil / CreatorBuzz — Elophia](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1872899785430889132%2Bmsg-a:r-2501320704990112195)** — Net-30 promised 10 Aug, expired early Sep
+5. **[Anvil / CreatorBuzz — Valentina](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1878189262310288881%2Bmsg-a:r3670995123237645430)** — Second thread on the same wind-down. **She is the booker** — this is where your "how can I work with you on more" question actually belongs
+6. **[Outskill — Sowmya C](https://mail.google.com/mail/?authuser=sid@justanotherpm.com#all?compose=thread-f:1874785951056466318%2Bmsg-a:r-1517335657074003623)** — **$750.** She asked six times, last on 25 Sep. ⚠️ Your 31 Aug email said 40%+ open and 4–5% click; the real figures are 25.8% and 1.6%, and she wants the dashboard screenshot that shows it. The draft carries the correct numbers
 
 ---
 

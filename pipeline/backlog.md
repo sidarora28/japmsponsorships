@@ -88,7 +88,24 @@ confirm from his own records whether this ever happened** before anything goes o
 
 The backlog says there is an open campaign deliverable with Krizia Gallenero following up.
 
-**Searching Krizia, CreatorBuzz and Anvil returns no correspondence whatsoever.** The only hit is
+> ### 🔴 Corrected 27 Oct 2026 — this finding was wrong
+> There is a **52-message thread** with Krizia Gallenero titled *"Anvil post reminder"*, running
+> from 2025 to 26 October 2026. The earlier search missed it. What it actually contains:
+>
+> | When | What |
+> |---|---|
+> | 1 Jul 2026 | Krizia chasing |
+> | 17 Aug 2026 | Sid sends **March and July invoices** (amounts are in the PDFs, not in the text) |
+> | 17 Aug 2026 | Krizia: *"Payment sent for MARCH invoice while we are awaiting funds for JULY"* |
+> | 26 Oct 2026 | Krizia: *"Did you post last Aug?"* |
+> | 26 Oct 2026 | **Sid replies and asks for more work**: *"I have a few slots open before the end of the year... How can I work with Creatrobuzz on more opportunities?"* |
+>
+> So: **the July invoice has been unpaid for ten weeks**, there is a third (August) post whose
+> invoice status is unknown, and Sid made the partnership ask to an **AP/AR specialist** rather
+> than to a booker. Chase drafted 27 Oct — payment date, August invoice, and a request to be
+> routed to whoever books creators.
+
+**The earlier claim — now known to be false — was that searching Krizia, CreatorBuzz and Anvil returned no correspondence whatsoever.** The only hit found then was
 a LinkedIn notification from **21 April 2025**: *"Your post has been sponsored by Anvil"* — which
 is a paid-boost notice on a post that already went live, not an outstanding deliverable.
 
