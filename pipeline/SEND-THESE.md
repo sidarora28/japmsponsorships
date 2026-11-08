@@ -4,7 +4,16 @@
 Each link opens that draft, ready to send. Nothing here needs writing. Working top to bottom,
 tier 1 is about twenty minutes.
 
-Last rebuilt: **27 October 2026**. Rebuilt whenever drafts change.
+Last rebuilt: **8 November 2026**. Rebuilt whenever drafts change.
+
+---
+
+## 🟢 SEND FIRST — the auction seed list (8 Nov)
+**18 drafts, send Monday morning.** One newsletter slot, opens $250, no reserve, closes
+Thursday 6pm London. Full playbook and all 18 links: **`pipeline/AUCTION.md`**.
+
+These go before everything below. They are the only drafts on the desk with a deadline
+attached, and the deadline is what makes people answer.
 
 ---
 
