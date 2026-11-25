@@ -1,133 +1,117 @@
-# $10,000 BOOKED IN DECEMBER — the campaign
+# $10,000 BOOKED IN DECEMBER — the action plan
 
-**Booked = terms agreed.** Cash can land in January. That turns this from a payment-terms
-problem into a volume problem.
-
----
-
-## The mix: stop trying to sell ten slots
-
-| Route | Units | Total | Sales cycles |
-|---|---:|---:|---:|
-| A. Ten small units at $750–1,500 | 10 | $10,000 | **10** |
-| **B. Barbell** | 4 | $10,100 | **4** |
-
-**Route B wins and it is not close.**
-
-```
-1 × 3-month package  @ $2,500/mo   = $7,500   ← 75% of the target, ONE close
-1 × LinkedIn dedicated @ $1,500    = $1,500
-1 × newsletter primary @ $750      =   $750
-1 × newsletter slot    @ $350      =   $350
-                                     -------
-                                     $10,100
-```
-
-**$2,500/month for three months is already on Sid's own rate card** — Package 2, quoted to
-Tiiny Host on 17 August: 1 LinkedIn post, 1 X thread, 1 newsletter edition per month. Nothing
-new has to be invented and nothing is discounted.
-
-**One package deal is 75% of December.** Everything else is insurance.
+Rewritten 25 Nov 2026. Replaces the package-led version, which was built on a product Sid has
+never sold.
 
 ---
 
-## The angle: 2026 budget expires on 31 December
+## What the record says
 
-This is the one month of the year where the buyer is more motivated than the seller. Marketing
-teams lose unspent Q4 budget at year end, and a December booking is the easiest way to spend
-it. **Lead every email with the deadline, not the product.**
+Three facts from four months of this desk, and the plan is built on all three.
 
-Two things this unlocks that exist in no other month:
+1. **The paid deals came through agencies, not cold email.** CreatorBuzz placed Anvil three
+   times this year (March, July, August). inBeat placed Miro. 1stCollab carried Airtable and
+   Optimizely. Tiiny Host is the one direct deal. The desk has spent three months cold-emailing
+   brands while the channel that actually pays went unworked.
+2. **Sid closes on calls and answers inbound in minutes.** Tiiny Host closed after a call.
+   Articos got a reply in 34 minutes. Dream asked for a call.
+3. **Cold email does not get sent.** 64 drafts, zero cold sends since 2 October. That is not a
+   discipline problem to fix in December. It is a design constraint. **This plan needs no cold
+   email at all.** It runs on the four things Sid already does every week: post, publish,
+   reply, and talk.
 
-1. **Use-it-or-lose-it buyers.** A brand with $3K left in a Q4 line will spend it on something.
-2. **Q1 pre-booking.** A brand that books in December and runs in January is still a December
-   booking. That doubles sellable inventory, because Jan–Feb comes into scope.
+## The reframe: sell moments, not slots
 
----
+A slot has no date and no reason, so nobody has to decide this week. That is why the inventory
+is empty. A moment has a date, a theme and a deadline. December gets four.
 
-## The lists, ranked by close rate
+| # | Moment | Date | What a sponsor buys | Price | Target |
+|---|---|---|---|---:|---:|
+| 1 | **Black Friday Deal Sheet for AI PMs** | Fri 27 Nov + Mon 30 Nov | A featured placement for their live deal | $300 | 6–8 = **$1,800–2,400** |
+| 2 | **Agency year-end placements** | calls 30 Nov–4 Dec | A dedicated LinkedIn post | $1,500 | 2 = **$3,000** |
+| 3 | **Sponsored live build session** | Sat 5, 12, 19 Dec | Their tool is what 150+ PMs build with, live | $2,000 | 2 = **$4,000** |
+| 4 | **The 2026 AI PM Stack report** | survey 1 Dec, publish 15 Dec | Presenting sponsor + category slots | $2,500 + $500s | **$2,500–3,500** |
+| + | **Rate lock** | deadline 31 Dec | 2026 price on any date to 31 March | $1,500 | 1–2 = **$1,500–3,000** |
+| + | Live inbound: Articos, Dream | this week | whatever fits | — | **$300–1,500** |
 
-### 1. Beehiiv Ad Network advertisers — the best cold list available, and it is free
+Sum of targets: roughly **$13,000–17,000**. Half of it landing is $10K. No single line has to
+work.
 
-These companies are paying to appear in newsletters **like this one, right now**, inside Sid's
-own dashboard. Verified budget, verified channel, verified category. No scraping, no Apify.
-
-From the live offer list: **Attio · Atlassian · HubSpot · HubSpot for Startups · Wispr Flow ·
-Mindstream · Superhuman AI · TigerData · The Deep View · Kalshi · Proton · Front · Oyster ·
-Levanta · Popsmith · The Code · ChatFeatured · beehiiv**
-
-The pitch writes itself: *you are already buying this inventory through the network at $3 a
-click. Here is the direct version, no network cut, with the author's name on it.*
-
-**Attio, Atlassian, HubSpot and Front are already in the pipeline with verified contacts.**
-
-### 2. Past sponsors — the highest close rate of any list in existence
-Optimizely · Airtable · Miro · Amplitude · HubSpot · Tiiny Host (paused sponsorships 30 Oct)
-
-### 3. The three marketplaces — dormant brand demand
-- **Paved / Yuvna** — bundles submitted 21 Aug, **never listed**. Up to $5,500 of queued
-  demand that has never been switched on. Worth one hard chase.
-- **1stCollab / Varun** and **Passionfroot / Hugo** — silent 30+ days.
-
-### 4. Inbound — working better than it looks
-**Two unprompted inbound leads arrived in November** (Articos 15 Nov, Dream 8 Nov) with zero
-outbound running. Both are startups, both move fast. Inbound is not the problem.
-
-### 5. The 18 auction drafts — written, unsent, repoint at December
+All prices are proposals. Sid sets them.
 
 ---
 
-## The cadence: 200 touches, 20 working days
+## Moment 1 — the Black Friday Deal Sheet (this week)
 
-| | Daily | To 31 Dec |
-|---|---:|---:|
-| First touches | **10** | 200 |
-| Follow-ups | ~10 | 200 |
-| Expected replies at 5–8% | — | 10–16 |
-| Expected closes at 30% of replies | — | **3–5** |
+Hundreds of AI and SaaS tools have a deal live until about 1 December and want eyeballs now.
+Most are founder-run and pay by card the same day. The lists of who they are are public.
 
-Three to five closes, one of them a package, is $10,000. **The maths works at ten sends a day
-and at no lower number**, whatever the price.
+- **Friday 27 Nov:** newsletter + LinkedIn post. "Black Friday deals worth it for AI PMs."
+  10–12 tools, one honest line each. Listings free, so the piece is credible. Affiliate links
+  where a programme exists. Disclose both.
+- **Thursday 26 Nov:** one post on LinkedIn and X: *"I'm publishing the Black Friday deal sheet
+  for 20,100 AI PMs on Friday and again on Cyber Monday. If your tool has a deal, send it.
+  Three featured spots per edition, $300 each."* Founders come to Sid. No outbound.
+- **Monday 30 Nov:** Cyber Monday "last call" edition. Friday's edition is the proof that sells
+  Monday's featured spots.
+- **Articos fits here.** Their budget was $200 and the LinkedIn rate is $1,500. A $300 featured
+  placement is the product that actually matches what they have.
+
+## Moment 2 — agencies (the channel that already pays)
+
+Three calls, 30 Nov to 4 Dec: **CreatorBuzz** (Valentina, the booker), **inBeat**,
+**1stCollab** (Varun). One question on each call: *"Which clients have budget you need to place
+before 31 December? I have four LinkedIn dates open."* Agencies sit on client budget that
+expires at year end. One call can place two or three posts.
+
+Then widen it: the desk compiles 10 more B2B creator agencies and rosters with their
+application forms. Each one is a standing source of inbound for 2027.
+
+## Moment 3 — sponsored live build sessions
+
+Sid already runs a free live build every Saturday. The last one hit the 150-attendee cap. A
+tool vendor is not buying impressions there. They are buying 150+ product managers installing
+and using their product in one hour, with Sid teaching it. Nothing else in the inventory does
+that, and no other creator in this niche is offering it.
+
+One sponsor per session. First candidates are the two who already came inbound: **Dream**
+(launching, has an influencer budget) and **Articos** (just shipped an MCP server). Then
+Lovable, Replit, Vellum, Wispr Flow.
+
+## Moment 4 — the 2026 AI PM Stack report
+
+December is roundup season. A five-question survey goes out in the 1 December issue: which AI
+tools do you actually use, by category. Results publish 15 December as an issue and a LinkedIn
+carousel. One presenting sponsor, category sponsors alongside.
+
+The survey also produces the best sales asset the desk will ever have: "38% of my readers are
+choosing an evals tool this quarter" sells Q1 better than any open rate.
+
+## The rate lock
+
+Announce that 2027 rates take effect 1 January. Anyone who books before 31 December keeps the
+2026 price for any date to 31 March. Urgency without a discount, and it makes January and
+February inventory bookable in December. Only works if the rise is real. Sid's call.
 
 ---
 
-## Week by week
+## The calendar
 
-**Week 1 (24–30 Nov) — the live ones, and launch the package pitch**
-- Articos: correct the audience numbers, close at $1,250 or the $350 newsletter. *Drafted*
-- Dream: revive, ask the budget. *Drafted*
-- Tiiny Host: deliver the overdue post. *Drafted, needs a date*
-- Paved / Yuvna: hard chase on the unlisted bundles
-- **Package pitch to the 18 beehiiv network advertisers**
+| Day | Sid (about 30 min) | Desk |
+|---|---|---|
+| **Wed 25 Nov** | Send the Articos and Dream replies. Set the three prices | Build the deal list. Write Friday's issue and Thursday's post |
+| **Thu 26** | Post the "send me your deal" call on LinkedIn + X | Sponsor page with pay links. Agency call requests drafted |
+| **Fri 27** | Publish Deal Sheet #1 | Track replies, draft every response same hour |
+| **Sat 28** | Mention sponsored sessions at the live build | — |
+| **Mon 30** | Publish Cyber Monday edition. Send 3 agency call requests | Rate-lock note to past sponsors drafted |
+| **Tue 1 – Fri 4 Dec** | Three agency calls. Survey goes in the newsletter | Agency roster list. Session sponsor one-pager |
+| **7 – 11 Dec** | Calls with anyone warm. First sponsored session Sat 12 | Survey analysis. Report sponsor pitch |
+| **14 – 18 Dec** | Publish the Stack report. Last-call post on the rate lock | Q1 pre-book follow-ups |
+| **21 – 31 Dec** | Reply only | Follow-ups, invoices, close-out |
 
-**Week 2 (1–7 Dec) — volume**
-- Ten first touches a day, year-end budget angle in the subject line
-- Past sponsors re-pitched on Q1 packages
-- Follow-up 1 on everything from week 1
+## What the desk does differently from today
 
-**Week 3 (8–14 Dec) — close**
-- Follow-up 2, with "last December slots" as the reason to reply
-- Anyone warm gets a dated proposal, not a conversation
-
-**Week 4 (15–24 Dec) — Q1 pre-book**
-- Everyone who said "not this year" gets asked for January and February
-- A January booking agreed in December is a December booking
-
----
-
-## The numbers that go in every email
-
-```
-20,100 AI product managers
-25.8% open rate, trailing three months
-77,565 LinkedIn followers, median post 3,298 impressions
-45% US · 30% India · 15% UK
-```
-
-**Nothing else.** On 16 November Articos were sent "23K, 40%+ open, 4% CTOR". All three are
-wrong, it is a live deal, and a post-campaign report would have shown 26%. The correction is
-drafted, and it is also the best available reason to re-open a thread that has gone quiet.
-
-**And hold one price per product.** In the Articos thread alone: $500 newsletter on 16 Nov,
-$350 on 19 Nov, $1,500 LinkedIn and then $1,250. A buyer watching that learns the number moves
-if they wait — which is what they then did.
+- Every inbound reply drafted within the hour, in the thread, with the verified numbers
+- One price per product, written on a sponsor page, so the number cannot drift mid-thread
+- Every draft ends by asking for a 15-minute call, because calls are what close
+- A daily three-line brief: who replied, what to send, who to call
